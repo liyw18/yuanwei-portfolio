@@ -1,0 +1,55 @@
+[
+  {
+    "id": "C01",
+    "name": "半透明人体示意模型_三视图",
+    "prompt": "Use case: identity-preserve. Asset type: CGI medical advertising human model turnaround. Create exactly ONE 16:9 landscape board, not a photograph of a live person. Input reference is the blue transparent adult gender-neutral anatomical mannequin: bald smooth featureless sculpted face, slim symmetric adult body, neutral blue-gray translucent material, no realistic skin, body hair, nipples or genital detail. LEFT 32% large UPPER-BODY portrait from head through waist; RIGHT 68% EXACTLY THREE equally tall full-body views FRONT, exact 90-degree SIDE, BACK, each includes head through feet, aligned floor, arms relaxed slightly apart. Same mannequin anatomy and material in all views. Internal digestive tract shown as clean thin white-cyan outlines inside chest/abdomen (esophagus, stomach, intestines, liver as source), muted through body on side/back, not drawn on outside skin. Even soft studio light, pale blue-gray seamless backdrop. No glow ribbon, particles, organ labels, text, subtitles, icons, watermark, extra characters or clothing. Render high-quality polished blue CGI like the reference; this is a symbolic production asset, no disease, wounds or diagnostic overlay.",
+    "source": "固定资产/人物三视图/C01_半透明人体示意模型_三视图.png",
+    "generator": "image_gen"
+  },
+  {
+    "id": "P01",
+    "name": "BIOBALANCE产品瓶_多角度",
+    "prompt": "Use case: product-mockup. Asset type: exact reference product bottle identity board. ONE 16:9 landscape clean neutral light-gray studio composition showing the SAME white plastic supplement bottle in three separated equally tall views: front, three-quarter side, back. Preserve reference rounded white cylindrical body, short neck, flat silver brushed-metal screw cap and white label. Front exact text 'BIOBALANCE+' in bold dark navy uppercase, below it exact 'PREMIUM PROBIOTICS' small spaced uppercase, above a teal-and-navy stylized lowercase b+ circular-dotted logo from source. Lower label teal/navy curved wave panel with stylized glowing rods and centered white digestive-tract shield icon. No extra quantities, capsule counts, dosage, strain, claim, barcode numbers or certifications invented. Side/back not legible in source: use same label wrap design and restrained blank white information panels WITHOUT fictional factual text. No capsule, kitchen, glassware, advertising headline, watermark, extra bottle design or external logo. All three views consistent dimensions and front typography. Bright polished photorealistic packshot with silver cap reflections.",
+    "source": "固定资产/产品/P01_BIOBALANCE产品瓶_多角度.png",
+    "generator": "image_gen"
+  },
+  {
+    "id": "P02",
+    "name": "蓝白胶囊_实体与放大示意",
+    "prompt": "Use case: product-mockup. Asset type: single reusable capsule model reference board. ONE 16:9 landscape board with just this SAME two-part capsule shown in three separated orientations front upright, side horizontal, three-quarter diagonal, warm pale-gray studio background. Match reference white opaque rounded cap and transparent deep-blue rounded half filled with glossy small metallic cobalt-blue spherical beads. The white cap displays only the source teal/navy b+ logo, no other letters. Fine glossy clear-shell highlights, exact two-piece closed capsule geometry. Uniform proportions and bead style between views, no open shell, leaking powder, dissolving state or extra capsule color. Do not include bottle, hands, body, room, subtitles or watermark. Source macro bead-filled view is a conceptual advertising cutaway; present one consistent model usable at both tabletop scale and enlarged symbolic macro scale.",
+    "source": "固定资产/产品/P02_蓝白胶囊_实体与放大示意.png",
+    "generator": "image_gen"
+  },
+  {
+    "id": "S01",
+    "name": "日光厨房_黑色大理石台面",
+    "prompt": "Use case: product-mockup. Asset type: reusable empty kitchen product-shoot environment. ONE 16:9 landscape photorealistic wide frame, use source ONLY for room and materials. Front foreground large polished charcoal-black marble island countertop with thin white veins and reflective gloss; LEFT tall white-framed daylight window, soft sunny light from left; background modern pale gray cabinet kitchen, dark sink countertop under window, curved metal faucet, white upper cabinets and gray backsplash, single brown chopping board and small neutral canister soft blurred in background. EMPTY clear foreground countertop, absolutely no supplement bottle or capsule or people, no writing/subtitles, watermark, logos or added crowded utensils. Calm realistic lifestyle product-ad photography, natural light, shallow depth of field, space to place bottle in center.",
+    "transparent": false,
+    "source": "固定资产/场景/S01_日光厨房_黑色大理石台面.png",
+    "generator": "image_gen"
+  },
+  {
+    "id": "S05",
+    "name": "冰蓝产品棚景_反光台面",
+    "prompt": "Use case: product-mockup. Asset type: reusable clean product hero background. ONE 16:9 landscape wide image, copy reference icy pale-blue laboratory-like product studio mood and materials only. Empty glossy white-lightblue reflective foreground table, soft blue-white gradient backdrop, faint vertical translucent glass panels. At far left and right soft out-of-focus clear glass laboratory flask silhouettes with clear water as reference. Center EMPTY for later product compositing. Soft cool studio light, very clean luminous airy look. No supplement bottle, capsules, particles, logo, captions, people, medical equipment or watermark. Simple clean consumer product advertising photorealism.",
+    "transparent": false,
+    "source": "固定资产/场景/S05_冰蓝产品棚景_反光台面.png",
+    "generator": "image_gen"
+  },
+  {
+    "id": "SB01",
+    "name": "微观通道_合并场景板",
+    "prompt": "Use case: stylized-concept. Asset type: reusable CGI microscopic environment reference sheet. Create ONE 16:9 landscape board with THREE distinct evenly spaced vertical scene panels, no labels, no text or borders. All panels share source blue-cyan polished science advertising CGI style. LEFT panel: abstract deep navy-blue smooth swirling fluid tunnel, soft cyan luminous loops winding toward dark central vanishing point, atmosphere like source capsule-flight background. MIDDLE panel: teal-blue coiled intestinal-lumen tunnel looking down its center, lightly ribbed folded wall texture from reference image 2, soft volumetric cyan glow and readable depth. RIGHT panel: enlarged translucent glassy pale-teal S-curving tubular passage with fine paired glowing filaments winding inside, floating over pale-blue softly blurred curved tubes from reference image 3, NOT a labeled DNA scientific diagram. All three EMPTY: omit capsules, cells, spiky objects, bead swarms, floating particles, human bodies, subtitles, decorative star watermark or anatomical labels. Environmental shapes and light only; symbolic CGI geometry, not an actual diagnostic image.",
+    "transparent": false,
+    "source": "固定资产/场景/SB01_微观通道_合并场景板.png",
+    "generator": "image_gen"
+  },
+  {
+    "id": "P03",
+    "name": "微观元素_合并素材板",
+    "prompt": "Use case: stylized-concept. Asset type: CGI advertising microscopic reusable element reference board with GENUINE transparent background. ONE 16:9 landscape alpha image with FOUR separated groups of objects arranged horizontally with generous empty gaps, all object edges fully visible. Group 1 LEFT: one large round transparent teal-blue cell-like sphere with smaller luminous teal nucleus and little internal branching filaments, like source image 1. Group 2: one dark indigo-purple spherical body covered with sparse long thin radiating spike-like filaments, like source image 2. Group 3: three luminous cyan/teal rounded rod and short pill-shaped microorganisms. Group 4 RIGHT: small cluster of deep blue and teal spheres and tiny aqua rods like the final reference source product orbit. High quality smooth glossy translucent blue CGI, restrained cyan rim light. These are visual shapes only, no implied species. No gut tunnel, kitchen, product bottle, capsule, human, borders, labels, captions, diagrams, watermark or background rectangle. No white text, logos, arrows, microscopic names. Keep all four isolated element groups visibly separated on transparent alpha.",
+    "transparent": true,
+    "source": "固定资产/微观元素/P03_微观元素_合并素材板.png",
+    "generator": "image_gen"
+  }
+]

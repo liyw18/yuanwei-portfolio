@@ -1,0 +1,23 @@
+{
+  "note": "Visually reviewed per-video frames; preserve full source composition. No universal fixed timestamp.",
+  "times": {
+    "/works/video/tvc-ad/video.mp4": 8.501,
+    "/works/video/probiotic-ad/video.mp4": 2.882,
+    "/works/video/lingmai-restart/episodes/episode-01.mp4": 53.103,
+    "/works/video/lingmai-restart/episodes/episode-02.mp4": 5.924,
+    "/works/video/deal-with-devil/episodes/episode-03.mp4": 28.918,
+    "/works/video/deal-with-devil/episodes/episode-04.mp4": 12.283,
+    "/works/video/she-from-east/episodes/episode-03.mp4": 9.681,
+    "/works/video/she-from-east/episodes/episode-04.mp4": 26.827,
+    "/works/video/changnian-fuqing/episodes/episode-02.mp4": 49.979,
+    "/works/video/changnian-fuqing/episodes/episode-03.mp4": 43.769,
+    "/works/video/wolf-awakening/video.mp4": 21.717,
+    "/works/video/mysterious-pendant/video.mp4": 87.492,
+    "/works/video/seven-pei/video.mp4": 9.645,
+    "/works/video/liuli-lamp/video.mp4": 65.198,
+    "/works/video/eastern-swordsman/video.mp4": 29.756,
+    "/works/video/eclipse-dream/video.mp4": 18.289,
+    "/works/video/poli-adventure/video.mp4": 11.775,
+    "/works/video/transformation/video.mp4": 2.234
+  }
+}

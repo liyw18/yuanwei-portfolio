@@ -1,0 +1,32 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+dist/
+build/
+.store/
+.vercel/
+*.tsbuildinfo
+
+# Credentials (examples may be committed)
+.env*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local logs, caches and temporary files
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+coverage/
+.cache/
+reports/
+
+# Original intake and duplicate source material; keep locally
+/素材待添加/
+/素材原件/
+

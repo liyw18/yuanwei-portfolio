@@ -1,0 +1,118 @@
+{
+  "标题": "魔鬼的交易 第四集",
+  "画面时长": 122.833333,
+  "容器时长": 122.833991,
+  "画幅": [
+    684,
+    1224
+  ],
+  "fps": 30,
+  "frames": 3685,
+  "镜头数": 73,
+  "新增图片": 9,
+  "新造型图": 7,
+  "新增人物身份": 4,
+  "沿用人物身份": 2,
+  "旧图重复生成数": 0,
+  "复用场景": [
+    "S01"
+  ],
+  "图片尺寸": {
+    "C04": [
+      1672,
+      941
+    ],
+    "C05": [
+      1672,
+      941
+    ],
+    "C06": [
+      1672,
+      941
+    ],
+    "C07": [
+      1672,
+      941
+    ],
+    "C08": [
+      1672,
+      941
+    ],
+    "C09": [
+      1672,
+      941
+    ],
+    "C10": [
+      1672,
+      941
+    ],
+    "S02": [
+      1672,
+      941
+    ],
+    "PB01": [
+      1672,
+      941
+    ]
+  },
+  "图像工具": "内置image_gen",
+  "提示词": [
+    {
+      "id": "C04",
+      "name": "女子_白色睡衣",
+      "ref": "女子睡衣.jpg",
+      "prompt": "Create one horizontal 16:9 photorealistic cinematic 3D character sheet matching the same ADULT woman in reference. LEFT upper-body portrait; RIGHT three aligned full-body views FRONT, exact 90 degree SIDE and BACK with feet visible. Fair skin, blue eyes, long loose dark brown hair, no goggles. Modest opaque white satin spaghetti-strap sleep dress, simple straight knee-length silhouette, barefoot. Preserve facial identity and visible neckline. Neutral grey studio background, neutral upright pose. No jewellery, coat, gloves, lingerie details, extra people, text or props. Unseen lower dress is a plain continuation of the visible fabric."
+    },
+    {
+      "id": "C05",
+      "name": "女子_红色连衣裙",
+      "ref": "女子红裙.jpg",
+      "prompt": "Create a horizontal 16:9 cinematic photorealistic 3D character reference sheet of the adult woman shown. LEFT upper-body portrait, RIGHT front, exact 90-degree side and back full-body views, aligned feet fully visible. Same fair skin, blue eyes, long loose dark brown hair. Exact outfit: plain bright-red sleeveless round-neck fitted knee-length dress, subtle waist folds, black closed-toe high-heel pumps. Neutral face and upright pose, grey studio background. Preserve reference identity and hem length. No jewellery, bag, goggles, gloves, other people or text."
+    },
+    {
+      "id": "C06",
+      "name": "Marco_黑衬衫",
+      "ref": "Marco.jpg",
+      "prompt": "Create one horizontal 16:9 cinematic photorealistic 3D character sheet matching this adult man, Marco. LEFT upper-body portrait; RIGHT three full-body FRONT, exact 90-degree SIDE, BACK views aligned with feet visible. Preserve slicked-back black hair with short sides, short dark stubble, strong jaw, reference face. Black long-sleeve open-collar button shirt tucked into dark navy-black trousers, black belt and black dress shoes. No facial injuries in this base asset; later blood is a continuity overlay. Neutral posture, plain grey studio, no guns, new accessories, people or writing."
+    },
+    {
+      "id": "C07",
+      "name": "手下甲_黑衬衫",
+      "ref": "黑衬衫手下.jpg",
+      "prompt": "Make a single horizontal 16:9 cinematic photorealistic 3D character reference sheet of the adult bearded man in the reference, not Marco. LEFT upper-body portrait; RIGHT aligned full-body FRONT, true 90-degree SIDE and BACK, all feet visible. Preserve dark short slightly wavy hair, full dark beard, face shape. Plain black long-sleeve button shirt, black trousers, black belt, small black belt holster visible in reference, black shoes. Neutral standing pose on grey studio background. No drawn weapon, tactical vest, headset, cap, additional gear, people or text."
+    },
+    {
+      "id": "C08",
+      "name": "手下乙_黑西装",
+      "ref": "黑西装手下.jpg",
+      "prompt": "Create one horizontal 16:9 cinematic photorealistic 3D character sheet for the adult man to the woman's RIGHT in this reference, the brown-haired bearded man wearing a black suit jacket over a black open-collar shirt. Do NOT depict the woman, Marco at far right, or dark-bearded man at left. LEFT upper-body portrait; RIGHT front, exact 90-degree side and back FULL BODY, feet visible. Preserve short brown hair, short brown beard, his exact face. Black jacket, black shirt with NO tie, black trousers, belt and shoes, small black belt holster where visible in reference. Grey studio backdrop, neutral pose. No new equipment, writing or people."
+    },
+    {
+      "id": "C09",
+      "name": "男子_灰色西装",
+      "ref": "老板西装.jpg",
+      "prompt": "Create a horizontal 16:9 cinematic photorealistic 3D character sheet matching the adult young dark-haired man at FRONT of the reference, NOT the blond guard behind him. Same male lead as previous episode, with short wavy black hair, thick eyebrows, tan skin, narrow faint scar at HIS LEFT eyebrow. LEFT upper-body portrait; RIGHT aligned full-body FRONT, exact 90 degree SIDE and BACK. Charcoal-grey fitted suit jacket, white open-collar shirt with top buttons undone, black small pocket square, black trousers and black dress shoes. No tie and no exposed gauze. Grey studio background, neutral pose, hands empty. No guard, gun, new accessories or text."
+    },
+    {
+      "id": "C10",
+      "name": "金发保镖_黑西装",
+      "ref": "金发保镖.jpg",
+      "prompt": "Create one horizontal 16:9 photorealistic cinematic 3D character sheet of ONLY the blond adult bodyguard behind and to the right of the main man in this reference. Not the dark-haired man in foreground. LEFT upper-body portrait; RIGHT three aligned full-body FRONT, true 90-degree SIDE and BACK with feet visible. Preserve close-cropped blond hair, fair skin, stern square face. Classic black suit, white button shirt, black straight tie, black belt and black formal shoes. Hands empty, neutral standing pose, grey studio backdrop. No gun, new accessories, other people or lettering."
+    },
+    {
+      "id": "S02",
+      "name": "庄园大厅_白天",
+      "ref": "大厅.jpg",
+      "prompt": "Generate one clean horizontal 16:9 cinematic photorealistic 3D environment asset of this same opulent manor hall, extending viewpoint naturally. Dark emerald green wall panels with gold mouldings, gold columns, white marble floor, curved marble staircase with ornate gold railings leading to mezzanine, large crystal chandelier, tall daylight windows and cream curtains. Preserve burgundy upholstered sofa, cream-gold chairs, patterned black-gold rug and one rectangular green-felt wooden card table with cards and chips in seating area. Remove all people and subtitles. Match room architecture and furniture, no kitchen, cellar, additional gambling machines or new fantasy objects."
+    },
+    {
+      "id": "PB01",
+      "name": "手枪与白手帕",
+      "refs": [
+        "手枪.jpg",
+        "手帕.jpg"
+      ],
+      "prompt": "Create a clean horizontal 16:9 cinematic photorealistic 3D prop reference board with ONLY TWO props used in the references. Left: the compact plain black semi-automatic handgun held by the main man in image 1, shown as neutral studio side profile and three-quarter view, no brand or model lettering. Right: the plain white cotton handkerchief in his hands in image 2, shown neatly folded and partly unfolded to reveal material. Grey studio background, separated objects completely inside frame. No people, hands, ammunition, knives, extra weapons, cards, furniture, text or technical diagrams."
+    }
+  ]
+}

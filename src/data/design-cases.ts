@@ -1,0 +1,6 @@
+import type {ArtworkCategory} from './design-artworks';
+export interface DesignCase {id:string;slug:string;title:string;category:ArtworkCategory|'PORTFOLIO';projectType:string;artworkIds:string[];tags:string[];role:string[];tools:string[];background:string;goal:string;solution:string;outcome:string;order:number}
+/** Case entries reference existing artwork. Business context and personal credit require confirmation. */
+export const designCases:DesignCase[]=[{id:'xiaoqi-brand-visual',slug:'xiaoqi-brand-visual',title:'小奇 · 品牌视觉',category:'VI',projectType:'VI / Brand Visual',artworkIds:['vi-01'],tags:['Brand','VI','Visual Design'],role:[],tools:[],background:'当前素材以“小奇”为主体，呈现VI视觉识别主题；品牌背景与应用场景待补充。',goal:'',solution:'现有封面使用蓝白主色、黄色点缀与角色主视觉，呈现明亮的未来感。具体设计决策待补充。',outcome:'当前已提供1张视觉识别封面，展示角色、标识与主视觉。',order:1},{id:'xiaoqi-ip-visual',slug:'xiaoqi-ip-visual',title:'小奇 · IP形象',category:'IP DESIGN',projectType:'IP / Character Visual',artworkIds:['ip-01'],tags:['IP','Character Design','Visual Design'],role:[],tools:[],background:'当前素材为“小奇”IP主视觉，角色与未来场景组合呈现；项目背景待补充。',goal:'',solution:'现有主视觉以动态角色、场景和标识组合呈现IP形象；具体创作流程待补充。',outcome:'当前已提供1张IP主视觉，展示角色与场景构图。',order:2}];
+export const selectedDesignCaseIds=['xiaoqi-brand-visual','xiaoqi-ip-visual'] as const;
+export const selectedVideoCaseSlugs=['tvc-ad','lingmai-restart'] as const;

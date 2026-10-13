@@ -1,0 +1,456 @@
+// Generated from the verified manifest. Original bytes are never transformed.
+export const artworkCategories = ['POSTER','BANNER','IP DESIGN','VI'] as const;
+export type ArtworkCategory = typeof artworkCategories[number];
+export interface DesignArtwork {id:string;category:ArtworkCategory;image:string;order:number;width:number;height:number;sha256:string;sourceName:string;tags:string[]}
+export const designArtworks:DesignArtwork[] = [
+  {
+    "id": "poster-01",
+    "category": "POSTER",
+    "image": "/works/design/poster/poster-01.png",
+    "order": 1,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "d7d80c9f8c9466dfe58e3bf9c152bc935cee8228a4a1fe4e79a0b23102780e7b",
+    "sourceName": "Design作品/01-海报/ChatGPT 图像 2026年10月10日 10_42_19-1.png",
+    "tags": [
+      "Visual Design",
+      "Poster"
+    ]
+  },
+  {
+    "id": "poster-02",
+    "category": "POSTER",
+    "image": "/works/design/poster/poster-02.png",
+    "order": 2,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "88000d5f538c1340df3a75a00857daa0cee4e5b9f672620ed90a5fa08c967a89",
+    "sourceName": "Design作品/01-海报/ChatGPT 图像 2026年10月10日 10_42_20-2.png",
+    "tags": [
+      "Visual Design",
+      "Poster"
+    ]
+  },
+  {
+    "id": "poster-03",
+    "category": "POSTER",
+    "image": "/works/design/poster/poster-03.png",
+    "order": 3,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "96bf57efe58f545f1f1a11750c83cdc67ac230ec9eff8cc8ce7db7abb134c2d8",
+    "sourceName": "Design作品/01-海报/ChatGPT 图像 2026年10月10日 10_42_21-3.png",
+    "tags": [
+      "Visual Design",
+      "Poster"
+    ]
+  },
+  {
+    "id": "poster-04",
+    "category": "POSTER",
+    "image": "/works/design/poster/poster-04.png",
+    "order": 4,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "0124039dff5cf4b196cc9956c7cc9383df6952fdd9401f86b92fd089b15525b3",
+    "sourceName": "Design作品/01-海报/ChatGPT 图像 2026年10月10日 10_42_22-4.png",
+    "tags": [
+      "Visual Design",
+      "Poster"
+    ]
+  },
+  {
+    "id": "poster-05",
+    "category": "POSTER",
+    "image": "/works/design/poster/poster-05.png",
+    "order": 5,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "31159b06401f59f9213a3e1215469dc8edd5ab0584f9a43da37ca4eb9b52cdcb",
+    "sourceName": "Design作品/01-海报/ChatGPT 图像 2026年10月10日 10_43_52-1.png",
+    "tags": [
+      "Visual Design",
+      "Poster"
+    ]
+  },
+  {
+    "id": "poster-06",
+    "category": "POSTER",
+    "image": "/works/design/poster/poster-06.png",
+    "order": 6,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "191e0c203c18906ea451b497562431f6796fc3648d7a9ff805c92e689568707e",
+    "sourceName": "Design作品/01-海报/ChatGPT 图像 2026年10月10日 10_43_53-2.png",
+    "tags": [
+      "Visual Design",
+      "Poster"
+    ]
+  },
+  {
+    "id": "poster-07",
+    "category": "POSTER",
+    "image": "/works/design/poster/poster-07.png",
+    "order": 7,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "4375c1c0b6eb8283c36b1279a85ea02c9da66778c8401ce9c1595f841ba1bdda",
+    "sourceName": "Design作品/01-海报/ChatGPT 图像 2026年10月10日 10_43_54-3.png",
+    "tags": [
+      "Visual Design",
+      "Poster"
+    ]
+  },
+  {
+    "id": "poster-08",
+    "category": "POSTER",
+    "image": "/works/design/poster/poster-08.png",
+    "order": 8,
+    "width": 1086,
+    "height": 1448,
+    "sha256": "07623ca8cf3fa6aac25592df0da9a53c9b2a5142c3ae417496534ee090c185d0",
+    "sourceName": "Design作品/01-海报/ChatGPT 图像 2026年10月10日 10_43_55-4.png",
+    "tags": [
+      "Visual Design",
+      "Poster"
+    ]
+  },
+  {
+    "id": "banner-01",
+    "category": "BANNER",
+    "image": "/works/design/banner/banner-01.png",
+    "order": 1,
+    "width": 1672,
+    "height": 941,
+    "sha256": "28f1db8408e05f538a641e4e18ee97e10472bf3fca2c2e8933951001fb0c11b7",
+    "sourceName": "Design作品/02-Banner/ChatGPT 图像 2026年10月10日 10_40_41-1.png",
+    "tags": [
+      "Visual Design",
+      "Banner"
+    ]
+  },
+  {
+    "id": "banner-02",
+    "category": "BANNER",
+    "image": "/works/design/banner/banner-02.png",
+    "order": 2,
+    "width": 1672,
+    "height": 941,
+    "sha256": "3f0f953924bd01a95b0c9a9e5bacfcc9e52140c3999f95bcb80763689b0eb0cf",
+    "sourceName": "Design作品/02-Banner/ChatGPT 图像 2026年10月10日 10_40_51-2.png",
+    "tags": [
+      "Visual Design",
+      "Banner"
+    ]
+  },
+  {
+    "id": "banner-03",
+    "category": "BANNER",
+    "image": "/works/design/banner/banner-03.png",
+    "order": 3,
+    "width": 1672,
+    "height": 941,
+    "sha256": "68dc63288e75b4e8cc836f6cec57b852b1282ea698996b69c0472319f656acfb",
+    "sourceName": "Design作品/02-Banner/ChatGPT 图像 2026年10月10日 10_41_06-3.png",
+    "tags": [
+      "Visual Design",
+      "Banner"
+    ]
+  },
+  {
+    "id": "banner-04",
+    "category": "BANNER",
+    "image": "/works/design/banner/banner-04.png",
+    "order": 4,
+    "width": 1672,
+    "height": 941,
+    "sha256": "f7a0ce451df90ab75c4bd2392843dcb4b9fdec6f44cf3da94cccba44d5bea4e5",
+    "sourceName": "Design作品/02-Banner/ChatGPT 图像 2026年10月10日 10_41_07-4.png",
+    "tags": [
+      "Visual Design",
+      "Banner"
+    ]
+  },
+  {
+    "id": "banner-05",
+    "category": "BANNER",
+    "image": "/works/design/banner/banner-05.png",
+    "order": 5,
+    "width": 1672,
+    "height": 941,
+    "sha256": "6a750841f2954add48aadcac866a4c9391b4f6eab00de2ad6aaf1cc2caf0b36a",
+    "sourceName": "Design作品/02-Banner/ChatGPT 图像 2026年10月10日 10_41_38-1.png",
+    "tags": [
+      "Visual Design",
+      "Banner"
+    ]
+  },
+  {
+    "id": "banner-06",
+    "category": "BANNER",
+    "image": "/works/design/banner/banner-06.png",
+    "order": 6,
+    "width": 1672,
+    "height": 941,
+    "sha256": "df2d3c2691231b9866c90545a004dfa30b0a0afec0a0eb8f4c3b1413589a931b",
+    "sourceName": "Design作品/02-Banner/ChatGPT 图像 2026年10月10日 10_41_39-2.png",
+    "tags": [
+      "Visual Design",
+      "Banner"
+    ]
+  },
+  {
+    "id": "banner-07",
+    "category": "BANNER",
+    "image": "/works/design/banner/banner-07.png",
+    "order": 7,
+    "width": 1672,
+    "height": 941,
+    "sha256": "1827538b9dd200d6853f5cabfe235ffc76ba8ba45480e6b614c8ce82f372f308",
+    "sourceName": "Design作品/02-Banner/ChatGPT 图像 2026年10月10日 10_41_41-3.png",
+    "tags": [
+      "Visual Design",
+      "Banner"
+    ]
+  },
+  {
+    "id": "banner-08",
+    "category": "BANNER",
+    "image": "/works/design/banner/banner-08.png",
+    "order": 8,
+    "width": 1672,
+    "height": 941,
+    "sha256": "7efe7c3ec2ceb5ce331b1347e82251ea8e0241f4c0d56f0fa482812697eef5d3",
+    "sourceName": "Design作品/02-Banner/ChatGPT 图像 2026年10月10日 10_41_43-4.png",
+    "tags": [
+      "Visual Design",
+      "Banner"
+    ]
+  },
+  {
+    "id": "ip-01",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-01.png",
+    "order": 1,
+    "width": 1672,
+    "height": 941,
+    "sha256": "dce711bd63401b471fa2ab3d898841781ddfedb4057bd378dabb9da4d1bb2813",
+    "sourceName": "Design作品/03-IP形象/08IP形象.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-02",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-02.png",
+    "order": 2,
+    "width": 1672,
+    "height": 941,
+    "sha256": "c45ad817197774b105a7af8a171142119e50041d28fd286776a188079d398471",
+    "sourceName": "Design作品/03-IP形象/09三视图.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-03",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-03.png",
+    "order": 3,
+    "width": 1672,
+    "height": 941,
+    "sha256": "9d2aa89b46e02fca9db75d3d79097e164db38037c7fe15be2a8d133f1f22fc23",
+    "sourceName": "Design作品/03-IP形象/10表情延展.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-04",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-04.png",
+    "order": 4,
+    "width": 1672,
+    "height": 941,
+    "sha256": "b8bfd3f0f5db5c288d1de03aa43f80e379bf3c616d708813a1062086320a159a",
+    "sourceName": "Design作品/03-IP形象/11细节展示.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-05",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-05.png",
+    "order": 5,
+    "width": 1672,
+    "height": 941,
+    "sha256": "39cf54c22f23a11ba160a773ff583ae9397af04144755a1730462574d2c50766",
+    "sourceName": "Design作品/03-IP形象/12周边.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-06",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-06.png",
+    "order": 6,
+    "width": 1672,
+    "height": 941,
+    "sha256": "84cc59a7352019fef2d87c2f51a31d0985ac484f33555c3e174b2376dc532a85",
+    "sourceName": "Design作品/03-IP形象/13酷洛IP形象.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-07",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-07.png",
+    "order": 7,
+    "width": 1672,
+    "height": 941,
+    "sha256": "ba0d5bfce45eb7d1e09431856c29e385871cbf4a43f6547ddf2bf8c057957a22",
+    "sourceName": "Design作品/03-IP形象/14酷洛三视图.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-08",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-08.png",
+    "order": 8,
+    "width": 1672,
+    "height": 941,
+    "sha256": "5170971c91b1a8ed5406c9a32435e833bf924eaabf798f7cd86bea08c3ca8c01",
+    "sourceName": "Design作品/03-IP形象/15酷洛表情延展.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-09",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-09.png",
+    "order": 9,
+    "width": 1672,
+    "height": 941,
+    "sha256": "a4cbd16ede05c40353af272128fcd8f1855e0fe431b5191ee15f836860a18547",
+    "sourceName": "Design作品/03-IP形象/16酷洛细节展示.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "ip-10",
+    "category": "IP DESIGN",
+    "image": "/works/design/ip/ip-10.png",
+    "order": 10,
+    "width": 1672,
+    "height": 941,
+    "sha256": "d143ef5c1dd0dc20a404cc8cc637ec3db3ae307063dd1c491c8635763f11b080",
+    "sourceName": "Design作品/03-IP形象/17酷洛周边.png",
+    "tags": [
+      "Visual Design",
+      "IP"
+    ]
+  },
+  {
+    "id": "vi-01",
+    "category": "VI",
+    "image": "/works/design/vi/vi-01.png",
+    "order": 1,
+    "width": 1672,
+    "height": 941,
+    "sha256": "5fcc7ba4b6df6af2a9279d9b145e559836a6d13f54aafefa3c584c1abf7ca7fe",
+    "sourceName": "Design作品/04-VI延展/18.png",
+    "tags": [
+      "Brand",
+      "VI"
+    ]
+  },
+  {
+    "id": "vi-02",
+    "category": "VI",
+    "image": "/works/design/vi/vi-02.png",
+    "order": 2,
+    "width": 1672,
+    "height": 941,
+    "sha256": "af3763fb95e899af3064bac92b0681d30c7bd994913ba6e5ccad6940ba483772",
+    "sourceName": "Design作品/04-VI延展/19.png",
+    "tags": [
+      "Brand",
+      "VI"
+    ]
+  },
+  {
+    "id": "vi-03",
+    "category": "VI",
+    "image": "/works/design/vi/vi-03.png",
+    "order": 3,
+    "width": 1672,
+    "height": 941,
+    "sha256": "a6de1de10b752480bfff1381e1648c2fe4b17a2480193843446e2ef7dca9b247",
+    "sourceName": "Design作品/04-VI延展/20.png",
+    "tags": [
+      "Brand",
+      "VI"
+    ]
+  },
+  {
+    "id": "vi-04",
+    "category": "VI",
+    "image": "/works/design/vi/vi-04.png",
+    "order": 4,
+    "width": 1672,
+    "height": 941,
+    "sha256": "34362f71335250f406e7d6181a8d99b776f40ff893eede767554805686cbf0f9",
+    "sourceName": "Design作品/04-VI延展/21.png",
+    "tags": [
+      "Brand",
+      "VI"
+    ]
+  },
+  {
+    "id": "vi-05",
+    "category": "VI",
+    "image": "/works/design/vi/vi-05.png",
+    "order": 5,
+    "width": 1672,
+    "height": 941,
+    "sha256": "1218b8049e9c7f2452bd90d921abdf8b238bd4572b088503938676a0156daaa5",
+    "sourceName": "Design作品/04-VI延展/22.png",
+    "tags": [
+      "Brand",
+      "VI"
+    ]
+  },
+  {
+    "id": "vi-06",
+    "category": "VI",
+    "image": "/works/design/vi/vi-06.png",
+    "order": 6,
+    "width": 1672,
+    "height": 941,
+    "sha256": "ac43e5a3053a6d63f9ab447d9086c07db3591fbad7706861e9d6755d83bd288c",
+    "sourceName": "Design作品/04-VI延展/23.png",
+    "tags": [
+      "Brand",
+      "VI"
+    ]
+  }
+];
+export const featuredDesignArtworks=artworkCategories.flatMap(category=>[...designArtworks].filter(p=>p.category===category).sort((a,b)=>a.order-b.order).slice(0,1));
+export function artworkHref(artwork:DesignArtwork){return '/design?category='+encodeURIComponent(artwork.category)+'&artwork='+encodeURIComponent(artwork.id)+'#design-carousel';}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "C01",
+    "name": "短发爪形角色_基础形态",
+    "ref": "C01",
+    "prompt": "Create one landscape 16:9 production character reference sheet, polished stylized realistic 3D game render matching the reference, soft neutral grey studio background, no UI, text, watermark, captions, extra people. REQUIRED LAYOUT: left 35% a large upper-body portrait showing head to waist; right 65% three separated full-body views of the SAME character: strict front, strict 90-degree side, strict back, feet completely visible, same proportions, clothing, hairstyle and accessories in all views. Neutral relaxed standing pose. Reference image establishes appearance only; remove source environment/UI. Pale young adult woman with glossy black-purple chin-length blunt bob and straight bangs, grey-blue tailored blazer with dark piping, white collared shirt, lavender bow, black shield chest badge with silver flower symbol, grey-blue pleated short skirt. Grey shaggy organic fur wraps both arms from shoulder into large long-fingered claw hands; grey shaggy tall boots on both legs. No wings or horn. Preserve the uniform and claw anatomy.",
+    "source": "固定资产/人物三视图/C01_短发爪形角色_基础形态.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  },
+  {
+    "id": "C02",
+    "name": "短发爪形角色_Fera形态",
+    "ref": "C02",
+    "prompt": "Create one landscape 16:9 production character reference sheet, polished stylized realistic 3D game render matching the reference, soft neutral grey studio background, no UI, text, watermark, captions, extra people. REQUIRED LAYOUT: left 35% a large upper-body portrait showing head to waist; right 65% three separated full-body views of the SAME character: strict front, strict 90-degree side, strict back, feet completely visible, same proportions, clothing, hairstyle and accessories in all views. Neutral relaxed standing pose. Reference image establishes appearance only; remove source environment/UI. Same short black-purple bob pale woman as reference, cream white flower ornament on her left side, broad ivory sailor collar, cream distressed lace and fabric-petal jacket and skirt over grey-blue floral corset vest, dark shield chest badge, asymmetrical beige ribbon wrap over one thigh. Grey long-finger claw hands and shaggy organic grey boots. Exact ruffled floral silhouette from reference, no wings, no horn. Do not invent new jewelry or weapons.",
+    "source": "固定资产/人物三视图/C02_短发爪形角色_Fera形态.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  },
+  {
+    "id": "C03",
+    "name": "黑发触须角色",
+    "ref": "C03",
+    "prompt": "Create one landscape 16:9 production character reference sheet, polished stylized realistic 3D game render matching the reference, soft neutral grey studio background, no UI, text, watermark, captions, extra people. REQUIRED LAYOUT: left 35% a large upper-body portrait showing head to waist; right 65% three separated full-body views of the SAME character: strict front, strict 90-degree side, strict back, feet completely visible, same proportions, clothing, hairstyle and accessories in all views. Neutral relaxed standing pose. Reference image establishes appearance only; remove source environment/UI. Pale young adult woman long wavy black hair, two thin black curved antennae, same grey-blue blazer and pleated skirt with white collar and lavender bow, dark shield flower badge. Glossy black-purple organic tentacles curl from back and around sleeves and waist as in reference; normal pale long-finger hands. Black glossy organic boots. No wings. Keep tentacles attached in all three views; restrained configuration.",
+    "source": "固定资产/人物三视图/C03_黑发触须角色.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  },
+  {
+    "id": "C04",
+    "name": "白发蝶翼角色",
+    "ref": "C04",
+    "prompt": "Create one landscape 16:9 production character reference sheet, polished stylized realistic 3D game render matching the reference, soft neutral grey studio background, no UI, text, watermark, captions, extra people. REQUIRED LAYOUT: left 35% a large upper-body portrait showing head to waist; right 65% three separated full-body views of the SAME character: strict front, strict 90-degree side, strict back, feet completely visible, same proportions, clothing, hairstyle and accessories in all views. Neutral relaxed standing pose. Reference image establishes appearance only; remove source environment/UI. Pale young adult woman long platinum-white wavy hair over one eye, paired pale branching antennae, same grey-blue tailored blazer, white collar, lavender bow and pleated skirt. Four broad moth butterfly wings, two large upper wings and two smaller lower wings, organic smoky grey dusty-purple layered vein and fur textures, not feather wings. Grey furry arms ending in elongated claw fingers and grey-black organic feet. Show all wings completely within each view; portrait includes wing bases.",
+    "source": "固定资产/人物三视图/C04_白发蝶翼角色.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  },
+  {
+    "id": "C05",
+    "name": "黑发独角角色",
+    "ref": "C05",
+    "prompt": "Create one landscape 16:9 production character reference sheet, polished stylized realistic 3D game render matching the reference, soft neutral grey studio background, no UI, text, watermark, captions, extra people. REQUIRED LAYOUT: left 35% a large upper-body portrait showing head to waist; right 65% three separated full-body views of the SAME character: strict front, strict 90-degree side, strict back, feet completely visible, same proportions, clothing, hairstyle and accessories in all views. Neutral relaxed standing pose. Reference image establishes appearance only; remove source environment/UI. Use ONLY the black-haired single-horn woman in center background of reference (not blonde foreground or bob woman). Pale young adult woman with black hair tied in a long low ponytail, side fringe framing face, single slim pale horn centered on forehead, grey-blue blazer white collar lavender bow dark flower shield badge pleated skirt. Large grey shaggy claw hands and grey shaggy knee-high organic boots. No wings or tentacles. Background reference only shows limited facial detail; keep understated matching stylized appearance.",
+    "source": "固定资产/人物三视图/C05_黑发独角角色.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  },
+  {
+    "id": "C06",
+    "name": "白发骑士",
+    "ref": "C06",
+    "prompt": "Create one landscape 16:9 production character reference sheet, polished stylized realistic 3D game render matching the reference, soft neutral grey studio background, no UI, text, watermark, captions, extra people. REQUIRED LAYOUT: left 35% a large upper-body portrait showing head to waist; right 65% three separated full-body views of the SAME character: strict front, strict 90-degree side, strict back, feet completely visible, same proportions, clothing, hairstyle and accessories in all views. Neutral relaxed standing pose. Reference image establishes appearance only; remove source environment/UI. Pale young adult woman very long straight platinum-white hair and straight bangs, severe composed face, flowing pale icy-blue ruffled fantasy dress, large layered shoulder ruffles, structured bodice, pleated multilayer skirt, covered legs with pale grey-blue stockings and simple matching footwear. No armor, school uniform, butterfly wings, horn, crown or jewelry. Do not include horse, castle lantern, sword or white shield panel here: they are separate asset references. Match dress and cool ethereal material of white rider in reference.",
+    "source": "固定资产/人物三视图/C06_白发骑士.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  },
+  {
+    "id": "SB01",
+    "name": "三种梦境_合并场景板",
+    "ref": [
+      "S01",
+      "S02",
+      "S03"
+    ],
+    "prompt": "Create one 16:9 landscape 3D game environment reference board, THREE equal vertical panels separated by thin lines, NO characters, horses, UI, captions, text, watermark. Left: reference1 red-black twisted tree canopy and roots surrounding a brilliant vertical white branching tree, distant dark gothic needle spire city under crimson sky, blue mist at bottom. Center: reference2 pale grey-white fog landscape, silver reflective shallow ground with scattered black organic twisted spires and small dark tangled mounds. Right: reference3 midnight-black void and glossy shallow ink water with violet-blue highlights, floating perforated pale organic lily-like plates and polished droplet pebbles. Preserve the game surreal materials and uncluttered spatial composition. Each panel usable as a clean environment reference, no new architecture apart from left distant spires.",
+    "source": "固定资产/场景/SB01_三种梦境_合并场景板.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  },
+  {
+    "id": "P01",
+    "name": "白马与城堡构件_共用资产板",
+    "ref": [
+      "P01",
+      "C06"
+    ],
+    "prompt": "Create one 16:9 landscape production prop/creature asset reference board, stylized realistic 3D render matching provided game frames, neutral charcoal studio background, no person, text, UI or watermark. Left 55%: full white horse, long white mane and tail, pale blue ruffle barding across neck/chest/back, side three-quarter standing pose all legs visible; an oversized glossy white rounded scalloped oval panel integrated at horse front shoulder/neck, as reference, no horn. Right upper: separate small detailed gothic miniature castle lantern with square tower, peaked spires, tall luminous white arched windows, tiny balcony and stone relief, preserve the exact reference structure; this is a carried/attached miniature prop not full building. Right lower: same white horse front view showing the smooth oval panels flanking head. Cool pale moonlit materials. Do not include rider or extra animals.",
+    "source": "固定资产/道具与生物/P01_白马与城堡构件_共用资产板.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  },
+  {
+    "id": "P02",
+    "name": "梦境核心与光刃_共用资产板",
+    "ref": [
+      "P02",
+      "C06"
+    ],
+    "prompt": "Create one 16:9 landscape production object reference board, stylized realistic 3D game render on neutral dark-grey studio background, no human, UI, text or watermark. Left: floating grey-black irregular perforated spherical core with black and white dotted surfaces, wrapped by luminous semi-transparent white-violet glass ribbon loops, matching reference1. Right: isolated long straight broad luminous white icy-blue fantasy sword blade with simple small hilt, based on final white rider sword effect in reference2; clean thin rectangular blade silhouette tapering to sharp tip, not ornate or curved, no invented runes. Keep two objects clearly separate. They occur in different scenes, not one combined weapon.",
+    "source": "固定资产/道具与生物/P02_梦境核心与光刃_共用资产板.png",
+    "tool": "image_gen",
+    "reference_role": "appearance reference"
+  }
+]

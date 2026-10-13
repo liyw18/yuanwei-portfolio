@@ -1,0 +1,11 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import ts from 'typescript';
+const compile=source=>'data:text/javascript;base64,'+Buffer.from(ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText).toString('base64');
+const dataUrl=compile(await readFile(new URL('../src/data/videos.ts',import.meta.url),'utf8'));
+const {videos,emptyProduction}=await import(dataUrl);
+const source=(await readFile(new URL('../src/lib/video-production.ts',import.meta.url),'utf8')).replace("'@/data/videos'",JSON.stringify(dataUrl));
+const {productionGroups}=await import(compile(source));
+test('empty canonical production cannot resurrect stale compatibility groups',()=>{assert.deepEqual(productionGroups(emptyProduction(),[{id:'old',type:'characters',title:'old',images:['/old.png'],order:1}]),[]);assert.deepEqual(productionGroups(undefined,[{id:'empty',type:'script',title:'empty',images:[],order:1}]),[]);});
+test('eastern swordsman weapon, scenes and real documents bind to nonempty groups',()=>{const project=videos.find(p=>p.slug==='eastern-swordsman');assert(project.production.props.some(f=>f.src.includes('兵器设定图')));assert(project.production.environments.length>0);assert(!project.production.characters.some(f=>f.src.includes('兵器设定图')||f.src.includes('场景设定图')));assert(productionGroups(project.production).every(g=>g.images.length+(g.audio?.length||0)+(g.documents?.length||0)>0));});

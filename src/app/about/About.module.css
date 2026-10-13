@@ -1,0 +1,302 @@
+.page { --about-line:rgba(143,173,213,.18); }
+.page > h1 { font-size:clamp(40px,5vw,64px); line-height:1.1; letter-spacing:-.05em; margin-bottom:48px; }
+.page p,.page li { font-size:18px; line-height:1.8; }
+.page h2 { font-size:clamp(32px,3vw,40px); line-height:1.25; margin:14px 0 40px; }
+.page h3 { font-size:24px; line-height:1.4; }
+.label,.number,.page time { font-size:16px; line-height:1.8; letter-spacing:.1em; color:#82a7da; }
+.hero { min-height:510px; display:grid; grid-template-columns:340px minmax(0,1fr); gap:clamp(48px,7vw,110px); align-items:center; }
+.avatar { width:340px; height:446px; border:1px solid var(--about-line); border-radius:16px; overflow:hidden; display:grid; place-items:center; background:#08111e; color:#a1afc4; font-size:16px; }
+.avatar img { width:100%; height:100%; object-fit:contain; }
+.page .name { font-size:48px; margin:0 0 24px; }
+.positions { list-style:none; margin:0; padding:0; color:#a7c8f7; }
+.page .positions li { font-size:22px; line-height:1.8; }
+.introduction { margin-top:28px; max-width:660px; }
+.introduction p { margin:0 0 16px; }
+.block { margin-top:88px; padding-top:40px; border-top:1px solid var(--about-line); }
+.cards { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:24px; }
+.cards article { border:1px solid var(--about-line); border-radius:14px; padding:24px; min-height:200px; background:rgba(8,17,30,.55); }
+.cards h3 { font-size:26px; margin:12px 0; overflow-wrap:anywhere; }
+.cardTitle { color:#9abff0; margin:8px 0; }
+.cards ul,.skills ul { list-style:none; padding:0; margin:12px 0 0; }
+.summary { max-width:820px; }
+.summary p { margin:0 0 18px; line-height:2; }
+.page h2 .label { font-size:42px; letter-spacing:.04em; color:inherit; }
+.timeline { position:relative; }
+.timeline::before { content:''; position:absolute; left:0; top:12px; bottom:48px; width:1px; background:var(--about-line); }
+.timeline article { display:grid; grid-template-columns:220px minmax(0,1fr); gap:40px; padding:8px 0 88px 32px; position:relative; }
+.timeline article::before { content:''; position:absolute; left:-4px; top:17px; width:9px; height:9px; background:#346aaf; border-radius:50%; }
+.timeline .coreExperience::before { background:#5c9eff; box-shadow:0 0 0 6px rgba(64,127,222,.12); }
+.timeline h3,.education h3 { margin:0 0 16px; }
+.timeline h3 { font-size:32px; font-weight:600; }
+.coreExperience h3 { color:#bad5ff; }
+.coreExperience time { color:#a7c8f7; }
+.timeline p { font-size:18px; line-height:1.8; max-width:780px; margin:20px 0 0; }
+.timeline .role { font-size:20px; color:#a7c8f7; }
+.skills { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:24px; }
+.skills article { padding:24px; min-height:220px; border:1px solid var(--about-line); border-radius:14px; background:rgba(8,17,30,.65); transition:border-color .2s ease,box-shadow .2s ease; }
+.skills h3 { font-size:24px; line-height:1.45; color:#a7c8f7; margin:0 0 12px; overflow-wrap:anywhere; }
+.skills li { font-size:17px; line-height:1.8; }
+.capabilities li { font-size:18px; line-height:1.8; }
+@media(hover:hover){.skills article:hover { border-color:rgba(81,145,235,.5); box-shadow:0 0 24px rgba(38,103,205,.12); }}
+.capabilities .cards article { min-height:330px; padding:32px; display:flex; flex-direction:column; }
+.capabilities .cards h3 { font-size:30px; margin:20px 0; }
+.capabilities ul { margin-top:auto; padding-top:24px; }
+.education article { display:grid; grid-template-columns:220px 1fr; gap:40px; padding:24px 0; }
+.education h3 { font-size:22px; }
+.education p { font-size:18px; margin:0; }
+.resume :global(.resume-download .muted) { font-size:16px; }
+.resume :global(button.button) { background:#237ce5; color:white; padding:16px 24px; border:0; border-radius:8px; font-size:16px; opacity:.65; }
+.contactGrid { display:grid; grid-template-columns:1fr 1.5fr .8fr; gap:32px; margin:40px 0 24px; }
+.contactGrid span { display:block; font-size:18px; line-height:1.8; color:#82a7da; letter-spacing:.1em; margin-bottom:16px; }
+.contactGrid a,.contactGrid p { font-size:24px; line-height:1.8; overflow-wrap:anywhere; margin:0; }
+@media(max-width:1000px){.hero{grid-template-columns:280px minmax(0,1fr);gap:40px;min-height:550px}.avatar{width:280px;height:368px}.skills{grid-template-columns:repeat(2,minmax(0,1fr))}.timeline article,.education article{grid-template-columns:160px 1fr;gap:24px}.cards article{padding:24px}.capabilities .cards article{padding:32px 24px}.capabilities .cards h3{font-size:30px}}
+@media(max-width:700px){.page > h1{font-size:48px;margin-bottom:40px}.hero{grid-template-columns:1fr;gap:32px;min-height:0}.avatar{width:min(320px,100%);height:auto;aspect-ratio:16/21}.page p,.page li{font-size:18px}.page .positions li{font-size:22px}.cards,.skills,.contactGrid{grid-template-columns:1fr}.cards article{min-height:200px}.block{margin-top:64px;padding-top:32px}.timeline article,.education article{grid-template-columns:1fr;gap:18px}.timeline article{padding:8px 0 72px 24px}.timeline h3{font-size:32px}.skills article{padding:24px;min-height:220px}.capabilities .cards article{min-height:300px;padding:28px}.page h2{font-size:32px}.page h2 .label{font-size:42px}.page time{letter-spacing:.04em}.contactGrid{gap:28px}.contactGrid p{font-size:24px}.skills li{font-size:17px}}
+@media(prefers-reduced-motion:reduce){.skills article{transition:none}}
+
+/* Compact opening capabilities without truncating their content. */
+.page section[aria-label="职业方向"] .cards article { padding:16px 20px; }
+.page section[aria-label="职业方向"] .cards h3 { margin:6px 0; line-height:1.25; }
+.page section[aria-label="职业方向"] .cardTitle { margin:0; line-height:1.5; }
+.page section[aria-label="职业方向"] .cards ul { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:0 12px; margin-top:8px; }
+.page section[aria-label="职业方向"] .cards li { line-height:1.5; }
+@media(min-width:701px) and (max-width:1000px){.page section[aria-label="职业方向"] .cards ul{grid-template-columns:1fr}}
+
+/* V3.4: denser personal brand presentation. */
+.hero { min-height:600px; grid-template-columns:360px minmax(0,1fr); gap:64px; }
+.avatar { width:360px; height:480px; }
+.page .positions li:nth-child(-n+2) { font-size:28px; font-weight:500; color:#c0d9ff; }
+.page .positions li:last-child { font-size:18px; color:#8ba3c4; }
+.introduction { margin-top:20px; }
+.metrics { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:24px; padding-top:24px; margin-top:24px; border-top:1px solid var(--about-line); }
+.metrics strong { display:block; font-size:40px; font-weight:500; line-height:1.2; color:#a7c8f7; }
+.metrics span { display:block; font-size:16px; line-height:1.5; margin-top:10px; max-width:155px; }
+.block { margin-top:80px; padding-top:32px; }
+.summaryLayout { display:grid; grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr); gap:64px; align-items:start; }
+.summaryLayout h2 { font-size:40px; }
+.summaryLayout .summary { padding-top:4px; }
+.page section[aria-label="职业方向"] .cards article { min-height:220px; padding:24px; }
+.page section[aria-label="职业方向"] .cards ul { display:flex; flex-wrap:wrap; gap:8px 16px; margin-top:18px; }
+.page section[aria-label="职业方向"] .cards li { font-size:16px; color:#a7c8f7; }
+.page section[aria-label="职业方向"] .cardTitle { font-size:16px; margin-top:12px; }
+.journey { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:32px; list-style:none; padding:24px 0 32px; margin:0 0 32px; border-bottom:1px solid var(--about-line); }
+.journey li { position:relative; }
+.journey strong { display:block; font-size:22px; line-height:1.5; font-weight:500; margin-top:12px; max-width:260px; }
+.journeyArrow { position:absolute; right:0; top:40px; font-size:28px; color:#508bdc; }
+.timeline article:last-child { padding-bottom:16px; }
+.skills article { position:relative; min-height:240px; overflow:hidden; }
+.skillMark { display:block; color:#4d7bb9; font-size:28px; letter-spacing:-.04em; margin-bottom:14px; }
+.skillKeywords { display:flex; flex-wrap:wrap; gap:10px; }
+.skillKeywords span { font-size:16px; line-height:1.5; border-bottom:1px solid var(--about-line); padding:4px 0; }
+@media(max-width:1000px){.hero{grid-template-columns:280px minmax(0,1fr);gap:32px}.avatar{width:280px;height:374px}.metrics{gap:16px}.metrics strong{font-size:34px}.summaryLayout{gap:32px}.journey strong{font-size:20px}.journeyArrow{right:-18px}.page .positions li:nth-child(-n+2){font-size:26px}}
+@media(max-width:700px){.hero{grid-template-columns:1fr;min-height:0;gap:32px}.avatar{width:min(360px,100%);height:auto;aspect-ratio:3/4}.metrics{gap:12px}.metrics strong{font-size:34px}.metrics span{font-size:16px}.summaryLayout{grid-template-columns:1fr;gap:8px}.summaryLayout h2{font-size:36px}.journey{grid-template-columns:1fr;gap:24px;padding-top:0}.journeyArrow{position:static;display:block;transform:rotate(90deg);width:28px;margin-top:16px}.journey strong{max-width:none}.block{margin-top:64px}.page .positions li:nth-child(-n+2){font-size:26px}}
+
+/* Larger editorial typography, scoped to About. */
+.page > h1 { font-size:clamp(58px,6vw,77px); margin-bottom:64px; }
+.page .name { font-size:60px; margin-bottom:28px; }
+.page .positions li:nth-child(-n+2) { font-size:32px; line-height:1.8; }
+.page .positions li:last-child { font-size:22px; }
+.introduction p { font-size:22px; line-height:1.9; margin-bottom:20px; }
+.hero { min-height:680px; padding-block:24px; }
+.block { margin-top:100px; padding-top:48px; }
+.page section[aria-label="职业方向"] .cards article { min-height:290px; padding:32px; }
+.page section[aria-label="职业方向"] .cards h3 { font-size:31px; margin:12px 0 20px; }
+.page section[aria-label="职业方向"] .cardTitle { font-size:20px; line-height:1.8; }
+.page section[aria-label="职业方向"] .cards li { font-size:20px; line-height:1.7; }
+.summaryLayout h2 { font-size:48px; }
+.summary p { font-size:23px; line-height:1.9; margin-bottom:24px; }
+.capabilities .cards article { min-height:410px; padding:40px 32px; }
+.capabilities .cards h3 { font-size:36px; line-height:1.35; }
+.capabilities li { font-size:23px; line-height:1.85; }
+.journey strong { font-size:26px; }
+.timeline h3 { font-size:38px; line-height:1.45; }
+.timeline .role { font-size:24px; }
+.timeline p { font-size:23px; line-height:1.9; }
+.timeline article { padding-bottom:100px; }
+.skills article { padding:32px; min-height:300px; }
+.skills h3 { font-size:29px; line-height:1.4; }
+.skillKeywords span { font-size:20px; line-height:1.8; }
+.education h3 { font-size:27px; }
+.education p { font-size:22px; line-height:1.8; }
+.education article { padding-block:32px; }
+.resume h2,.contact h2,.education + h2 { font-size:48px; }
+.resume :global(.resume-download .muted),.resume :global(button.button),.resume :global(a.button) { font-size:19px; }
+.contactGrid span { font-size:22px; }
+.contactGrid a,.contactGrid p { font-size:29px; }
+@media(max-width:1000px){.hero{min-height:680px;align-items:start}.avatar{margin-top:24px}.summaryLayout{grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr)}.summaryLayout h2{font-size:42px}.cards{gap:20px}.page section[aria-label="职业方向"] .cards article{padding:24px}.capabilities .cards article{padding:32px 24px}.contactGrid{grid-template-columns:1fr 1.5fr .8fr;gap:20px}}
+@media(max-width:700px){.page > h1{font-size:58px;margin-bottom:40px}.page .name{font-size:60px}.hero{min-height:0;padding-block:0}.avatar{margin-top:0}.page .positions li:nth-child(-n+2){font-size:30px}.block{margin-top:80px;padding-top:40px}.summaryLayout{grid-template-columns:1fr}.summaryLayout h2{font-size:42px}.summary p{font-size:22px}.timeline h3{font-size:34px}.timeline p{font-size:22px}.timeline .role{font-size:24px}.timeline article{padding-bottom:80px}.capabilities .cards h3{font-size:34px}.capabilities .cards article{min-height:380px}.contactGrid{grid-template-columns:1fr}.contactGrid p{font-size:29px}}
+
+/* Portrait-ready Hero frame; original photo remains a separate asset. */
+.hero { grid-template-columns:280px minmax(0,1fr); }
+.avatar { width:280px; height:350px; border-radius:20px; border:1px solid rgba(71,132,219,.45); transition:transform .25s ease,border-color .25s ease; }
+.avatar img { object-fit:cover; object-position:center; }
+@media(hover:hover){.avatar:hover{transform:translateY(-4px);border-color:rgba(100,163,250,.75)}}
+@media(max-width:1000px){.hero{grid-template-columns:240px minmax(0,1fr)}.avatar{width:240px;height:300px}}
+@media(max-width:700px){.hero{grid-template-columns:1fr}.avatar{width:min(280px,100%);height:auto;aspect-ratio:4/5}}
+@media(prefers-reduced-motion:reduce){.avatar{transition:none}.avatar:hover{transform:none}}
+
+/* Hero composition: restrained ambient light and a centered portrait. */
+.page { padding-top:160px; }
+.page > h1 { margin-bottom:28px; }
+.hero { position:relative; isolation:isolate; grid-template-columns:260px minmax(0,1fr); align-items:center; gap:64px; min-height:600px; padding-block:16px; }
+.hero::before { content:''; position:absolute; z-index:-1; pointer-events:none; left:-32px; top:50%; transform:translateY(-50%); width:380px; height:440px; background:radial-gradient(ellipse,rgba(29,87,166,.14) 0%,rgba(15,49,96,.06) 48%,transparent 72%); }
+.avatar { width:260px; height:325px; margin-top:0; }
+.metrics strong { font-size:42px; }
+.metrics span { font-size:18px; line-height:1.6; max-width:190px; }
+@media(max-width:1000px){.page{padding-top:150px}.hero{grid-template-columns:240px minmax(0,1fr);gap:32px;align-items:center;min-height:0}.avatar{width:240px;height:300px;margin-top:0}.metrics strong{font-size:40px}.metrics span{font-size:18px}}
+@media(max-width:700px){.page{padding-top:150px}.page > h1{margin-bottom:28px}.hero{grid-template-columns:1fr;gap:28px;padding-block:0}.avatar{width:240px;height:300px;justify-self:center}.hero::before{left:0;top:150px;width:100%;height:360px;transform:translateY(-50%)}.metrics{gap:16px}.metrics strong{font-size:40px}.metrics span{font-size:16px}}
+
+/* Typography V4: larger editorial text without changing content or sections. */
+.page .name { font-size:84px; line-height:1.2; }
+.page .positions li:nth-child(-n+2) { font-size:38px; }
+.page .positions li:last-child { font-size:26px; }
+.introduction p { font-size:29px; line-height:1.8; }
+.hero { grid-template-columns:338px minmax(0,1fr); align-items:center; }
+.avatar { width:338px; height:422.5px; }
+.metrics strong { font-size:48px; }
+.metrics span { font-size:16px; line-height:1.6; }
+.page section[aria-label="职业方向"] .cards article { padding:40px 32px; min-height:370px; }
+.page section[aria-label="职业方向"] .cards h3 { font-size:38px; line-height:1.3; }
+.page section[aria-label="职业方向"] .cardTitle { font-size:26px; line-height:1.8; }
+.page section[aria-label="职业方向"] .cards li { font-size:26px; line-height:1.7; }
+.summaryLayout h2 { font-size:58px; }
+.summary p { font-size:30px; line-height:1.85; }
+.timeline h3 { font-size:46px; line-height:1.4; }
+.timeline .role { font-size:29px; }
+.timeline p { font-size:32px; line-height:1.8; }
+.skillKeywords span { font-size:25px; line-height:1.7; }
+.skills article { min-height:340px; }
+@media(max-width:1000px){.hero{grid-template-columns:312px minmax(0,1fr);gap:32px}.avatar{width:312px;height:390px}.page .name{font-size:74px}.page .positions li:nth-child(-n+2){font-size:34px}.summaryLayout h2{font-size:50px}.page section[aria-label="职业方向"] .cards article{padding:32px 24px}.timeline h3{font-size:42px}}
+@media(max-width:700px){.hero{grid-template-columns:1fr;gap:32px}.avatar{width:min(312px,100%);height:auto;aspect-ratio:4/5}.page .name{font-size:72px}.page .positions li:nth-child(-n+2){font-size:32px}.introduction p{font-size:28px}.metrics strong{font-size:44px}.metrics span{font-size:16px}.page section[aria-label="职业方向"] .cards h3{font-size:36px}.summaryLayout h2{font-size:48px}.summary p{font-size:28px}.timeline h3{font-size:40px}.timeline p{font-size:30px}.timeline .role{font-size:28px}}
+
+/* Final hierarchy: concrete reading sizes and wider editorial composition. */
+.page { width:min(1600px,92%); max-width:1600px; margin-inline:auto; padding-inline:0; }
+.page p,.page li { font-size:18px; line-height:1.8; }
+.block { margin-top:72px; padding-top:36px; }
+.hero { min-height:490px; gap:72px; }
+.page .name { font-size:40px; font-weight:600; }
+.page .positions li:nth-child(-n+2),.page .positions li:last-child { font-size:18px; line-height:1.8; }
+.introduction p { font-size:16px; line-height:1.9; max-width:700px; }
+.metrics { max-width:720px; }
+.metrics strong { font-size:40px; }
+.metrics span { font-size:16px; }
+.summaryLayout { grid-template-columns:minmax(0,.65fr) minmax(0,1.35fr); }
+.summaryLayout h2 { font-size:40px; }
+.summary p { font-size:18px; line-height:1.9; }
+.page section[aria-label="职业方向"] .cards article { min-height:260px; padding:32px; }
+.page section[aria-label="职业方向"] .cards h3 { font-size:32px; }
+.page section[aria-label="职业方向"] .cardTitle,.page section[aria-label="职业方向"] .cards li { font-size:16px; }
+.journey { padding-block:16px 24px; }
+.journey strong { font-size:24px; }
+.timeline { margin-top:40px; }
+.timeline article { grid-template-columns:230px minmax(0,1fr); gap:48px; padding:16px 0 64px 36px; }
+.timeline article::before { top:25px; }
+.timeline h3 { font-size:24px; font-weight:600; margin-bottom:12px; }
+.timeline .role { font-size:18px; margin-top:12px; }
+.timeline p { font-size:16px; line-height:1.9; margin-top:16px; max-width:860px; }
+.timeline time { font-size:14px; }
+.skills { grid-template-columns:repeat(3,minmax(0,1fr)); }
+.skills article { min-height:360px; padding:32px; display:flex; flex-direction:column; }
+.skills h3 { font-size:32px; line-height:1.3; }
+.skillMark { order:-1; font-size:24px; }
+.skillKeywords { display:grid; grid-template-columns:1fr; gap:8px; margin-top:auto; }
+.skillKeywords span { font-size:16px; line-height:1.8; padding:6px 0; }
+.capabilities .cards article { min-height:350px; }
+.capabilities .cards h3 { font-size:32px; }
+.capabilities li { font-size:16px; line-height:1.8; padding:8px 0; border-bottom:1px solid var(--about-line); }
+.capabilities ul { margin-top:20px; }
+.education h3 { font-size:24px; }
+.education p { font-size:18px; }
+.contact { padding:40px; border:1px solid rgba(82,141,226,.3); border-radius:20px; background:linear-gradient(120deg,rgba(17,39,72,.5),rgba(8,17,30,.45)); }
+.contact h2 { font-size:48px; margin-bottom:24px; }
+.contactGrid { margin:24px 0 0; }
+.contactGrid span { font-size:14px; }
+.contactGrid a,.contactGrid p { font-size:24px; line-height:1.6; }
+@media(max-width:1000px){.page{width:92%}.hero{gap:40px;min-height:0}.skills{grid-template-columns:repeat(2,minmax(0,1fr))}.timeline article{grid-template-columns:180px minmax(0,1fr);gap:32px}.summaryLayout{gap:32px}.contact{padding:32px}}
+@media(max-width:700px){.page{width:88%}.hero{gap:28px}.page .name{font-size:40px}.page .positions li:nth-child(-n+2),.page .positions li:last-child{font-size:18px}.introduction p{font-size:16px}.metrics strong{font-size:40px}.summaryLayout{grid-template-columns:1fr}.summaryLayout h2{font-size:36px}.summary p{font-size:18px}.timeline article{grid-template-columns:1fr;gap:12px;padding:12px 0 48px 24px}.timeline h3{font-size:24px}.timeline .role{font-size:18px}.timeline p{font-size:16px}.skills{grid-template-columns:1fr}.skills article{min-height:360px}.capabilities .cards h3{font-size:32px}.capabilities .cards article{min-height:350px}.contact{padding:28px 24px}.contact h2{font-size:36px}.contactGrid a,.contactGrid p{font-size:22px}.block{margin-top:56px}.avatar{max-width:100%}}
+
+/* Denser About composition with focused career and workflow content. */
+.page { padding-top:140px; }
+.page > h1 { margin-bottom:20px; }
+.page p,.page li { font-size:16px; line-height:1.85; }
+.hero { grid-template-columns:220px minmax(0,1fr); gap:56px; min-height:410px; padding-block:8px; }
+.avatar { width:220px; height:275px; }
+.page .name { font-size:36px; margin-bottom:18px; }
+.page .positions li:nth-child(-n+2),.page .positions li:last-child { font-size:18px; }
+.introduction { margin-top:16px; }
+.introduction p { font-size:16px; margin-bottom:12px; }
+.metrics { margin-top:18px; padding-top:18px; }
+.metrics strong { font-size:40px; }
+.block { margin-top:56px; padding-top:28px; }
+.page section[aria-label="职业方向"] .cards article { min-height:160px; padding:24px; }
+.page section[aria-label="职业方向"] .cards h3 { margin:8px 0 12px; }
+.page section[aria-label="职业方向"] .cards ul { gap:6px 16px; margin-top:12px; }
+.summaryLayout { gap:40px; }
+.summary h3 { font-size:26px; line-height:1.5; margin:0 0 16px; }
+.summary .personalPositioning { color:#a7c8f7; font-size:18px; }
+.summary p { font-size:16px; margin-bottom:14px; }
+.timeline h3 { font-size:28px; }
+.timeline .coreExperience { border-left:2px solid #5598f2; margin-left:-1px; padding-left:35px; }
+.timeline .coreExperience h3 { color:#c0d9ff; }
+.timeline .coreExperience .role { color:#82b7ff; font-weight:600; }
+.timeline article { padding-bottom:48px; }
+.education article { padding-block:14px; }
+.education h3 { font-size:22px; margin-bottom:8px; }
+.education p { font-size:16px; }
+@media(max-width:1000px){.hero{grid-template-columns:220px minmax(0,1fr);gap:32px;min-height:0}.avatar{width:220px;height:275px}.page{padding-top:140px}}
+@media(max-width:700px){.hero{grid-template-columns:1fr;gap:24px}.page{padding-top:140px}.avatar{width:220px;height:275px}.page .name{font-size:36px}.block{margin-top:44px}.summaryLayout{gap:12px}.timeline h3{font-size:28px}.timeline .coreExperience{padding-left:23px}.education article{gap:8px}}
+
+/* Compact recruiting portfolio hierarchy. */
+.page { width:85%; max-width:1800px; }
+.page p,.page li { font-size:16px; line-height:1.75; }
+.page h2,.summaryLayout h2,.resume h2,.contact h2 { font-size:24px; line-height:1.4; margin-bottom:20px; }
+.page .name { font-size:40px; margin-bottom:16px; }
+.page .positions li:nth-child(-n+2),.page .positions li:last-child { font-size:18px; }
+.introduction p { font-size:16px; line-height:1.75; }
+.hero { min-height:350px; gap:48px; }
+.block { margin-top:32px; padding-top:20px; }
+.page section[aria-label="职业方向"] .cards article { padding:20px 24px; min-height:160px; }
+.page section[aria-label="职业方向"] .cards h3 { font-size:24px; margin:6px 0 10px; }
+.summaryLayout { gap:32px; }
+.summary h3 { font-size:22px; margin-bottom:12px; }
+.summary .personalPositioning { font-size:16px; }
+.summary p { font-size:16px; line-height:1.75; margin-bottom:10px; }
+.capabilities .cards article { min-height:370px; padding:28px; }
+.capabilities .cards h3 { font-size:24px; margin:16px 0; }
+.capabilities li { font-size:15px; line-height:1.75; padding:6px 0; }
+.capabilities ul { margin-top:auto; }
+.journey { margin-bottom:20px; padding-block:8px 16px; }
+.journey strong { font-size:20px; }
+.timeline { margin-top:20px; }
+.timeline article { padding-top:8px; padding-bottom:32px; }
+.timeline article::before { top:17px; }
+.timeline h3 { font-size:28px; }
+.timeline .role { font-size:20px; }
+.timeline p { font-size:16px; line-height:1.75; margin-top:10px; }
+.skills { gap:20px; }
+.skills article { min-height:0; padding:24px; }
+.skills h3 { font-size:24px; margin-bottom:12px; }
+.skillDescription { color:#abbcd3; margin:0 0 16px; }
+.skillMark { font-size:20px; margin-bottom:10px; }
+.skillKeywords { margin-top:0; gap:4px; }
+.skillKeywords span { font-size:16px; line-height:1.6; padding:4px 0; }
+.education article { padding-block:10px; }
+.contact { padding:28px; }
+.contactGrid { margin-top:16px; }
+@media(max-width:1000px){.page{width:85%}.hero{gap:32px}.timeline article{gap:24px}.summaryLayout{gap:24px}}
+@media(max-width:700px){.page{width:90%}.hero{min-height:0;gap:24px}.page .name{font-size:40px}.page h2,.summaryLayout h2,.resume h2,.contact h2{font-size:24px}.block{margin-top:28px;padding-top:20px}.timeline h3{font-size:28px}.timeline .role{font-size:20px}.timeline article{padding-bottom:32px}.capabilities .cards h3{font-size:24px}.capabilities .cards article{min-height:370px}.contact{padding:24px}}
+
+/* Final copy polish and restrained education scale. */
+.page .positions li { font-size:18px; line-height:1.75; }
+.avatar { width:220px; height:275px; }
+.summary p { font-size:16px; line-height:1.8; margin-bottom:14px; }
+.capabilities .cards h3 { font-size:24px; }
+.capabilities li { font-size:15px; line-height:1.85; }
+.education article { padding-block:6px; }
+.education h3 { font-size:20px; margin-bottom:4px; }
+.education p { font-size:15px; line-height:1.6; }
+.block:has(.education) h2 { font-size:22px; margin-bottom:12px; }
+.block:has(.education) { margin-top:24px; padding-top:16px; }
+@media(max-width:700px){.avatar{width:220px;height:275px}.page .positions li{font-size:18px}}
+
+/* Creative personal About polish. */
+.page > h1{margin-bottom:24px}.hero{grid-template-columns:220px minmax(0,1fr);gap:40px;min-height:0;padding-block:0}.introduction{margin-top:16px;max-width:800px}.introduction p{margin-bottom:10px}.metrics{margin-top:16px;padding-top:16px}.block{margin-top:40px;padding-top:24px}.page .positions li{font-size:20px;line-height:1.7}.timeline h3{font-size:18px;font-weight:400;color:#666;margin:12px 0}.timeline .role{font-size:26px;font-weight:500;line-height:1.5;margin:0 0 8px}.timeline article{gap:32px}.skillKeywords{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}.skillKeywords span{font-size:15px;line-height:1.5;border:1px solid #ccdbff;border-radius:999px;color:#175cff;background:#edf2ff;padding:8px 12px}.skills article{padding:28px;min-height:300px}.contact{padding:40px!important;border-radius:24px}.contactLayout{display:grid;grid-template-columns:1.2fr 1fr;gap:48px;align-items:center}.contact h2{font-size:clamp(40px,4vw,64px);line-height:1.1;margin:12px 0 24px;letter-spacing:-.04em}.contact h2 span{color:#175cff}.page .contactName{font-size:24px;color:#111;margin:0 0 8px}.contactActions{display:flex;flex-direction:column;align-items:flex-start;gap:20px}.contactActions>a{font-size:24px;color:#175cff;overflow-wrap:anywhere}.contactActions .cooperate{font-size:16px;background:#175cff;color:white;border:1px solid #175cff;border-radius:14px;padding:14px 22px}.contactDetails{display:flex;gap:20px;flex-wrap:wrap;font-size:14px;color:#666}.contactDetails a{font-size:14px}@media(max-width:700px){.hero{grid-template-columns:1fr;gap:24px}.contactLayout{grid-template-columns:1fr;gap:24px}.contact{padding:28px 24px!important}.timeline .role{font-size:24px}.timeline h3{font-size:18px}.skills article{min-height:280px}.contact h2{font-size:40px}.contactActions>a{font-size:22px}}

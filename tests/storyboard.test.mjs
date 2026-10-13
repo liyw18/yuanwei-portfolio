@@ -1,0 +1,10 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import ts from 'typescript';
+const compile=source=>'data:text/javascript;base64,'+Buffer.from(ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText).toString('base64');
+const markdown=compile(await readFile(new URL('../src/lib/markdown.ts',import.meta.url),'utf8'));
+const source=(await readFile(new URL('../src/lib/storyboard.ts',import.meta.url),'utf8')).replace("'./markdown'",JSON.stringify(markdown));
+const {storyboardShots}=await import(compile(source));
+test('real TVC storyboard yields 30 unique shots and source durations without duplicate timeline rows',async()=>{const text=await readFile(new URL('../public/works/video/tvc-ad/assets/storyboards/TVC广告国内_制作包/分镜提示词.md',import.meta.url),'utf8');const shots=storyboardShots(text);assert.equal(shots.length,30);assert.equal(shots[0].id,'TVC-01');assert.equal(shots[0].duration,'5秒');assert.match(shots[0].action,/碎纸/);assert.equal(new Set(shots.map(s=>s.id)).size,30);});
+test('missing source duration stays absent and timeline-only files retain shot content',()=>{assert.equal(storyboardShots('## SHOT 01\n\n人物进入画面。')[0].duration,'');const shots=storyboardShots('| 镜号 | 时长 | 内容 |\n| --- | --- | --- |\n| 01 | 5s | 地铁空间 |');assert.deepEqual(shots[0],{id:'01',duration:'5s',title:'地铁空间',action:'镜号：01\n时长：5s\n内容：地铁空间'});});

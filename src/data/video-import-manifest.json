@@ -1,0 +1,3556 @@
+{
+  "items": [
+    {
+      "title": "TVC广告",
+      "project": "TVC广告",
+      "slug": "tvc-ad",
+      "category": "TVC广告",
+      "series": "",
+      "region": "",
+      "episode": "",
+      "source": "素材待添加/video/TVC广告/TVC广告/TVC广告.mp4",
+      "archive": "TVC广告.zip",
+      "entry": "TVC广告/TVC广告.mp4",
+      "video": "/works/video/tvc-ad/video.mp4",
+      "bytes": 147262112,
+      "sha256": "2cfba23bb36219a70793e37036dfb8ef0ddfb7b8b2f725a1845ec310c6e0c102",
+      "order": 1,
+      "width": 2176,
+      "height": 1228,
+      "aspectRatio": 1.771986970684039,
+      "orientation": "landscape",
+      "durationSeconds": 85.009,
+      "duration": "1:25",
+      "metadataSource": "file",
+      "cover": "/works/video/tvc-ad/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "益生菌胶囊广告视频",
+      "project": "益生菌胶囊广告视频",
+      "slug": "probiotic-ad",
+      "category": "TVC广告",
+      "series": "",
+      "region": "",
+      "episode": "",
+      "source": "素材待添加/video/TVC广告/益生菌胶囊广告视频/益生菌胶囊广告视频.mp4",
+      "archive": "TVC广告.zip",
+      "entry": "TVC广告/益生菌胶囊广告视频.mp4",
+      "video": "/works/video/probiotic-ad/video.mp4",
+      "bytes": 34761323,
+      "sha256": "bb0d380b535990eb9c7c153a43bf7b1ada2b5d89b87134d1d6749a42a071e055",
+      "order": 2,
+      "width": 740,
+      "height": 1196,
+      "aspectRatio": 0.6187290969899666,
+      "orientation": "portrait",
+      "durationSeconds": 28.817,
+      "duration": "0:29",
+      "metadataSource": "file",
+      "cover": "/works/video/probiotic-ad/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "灵脉重启第一集",
+      "project": "灵脉重启",
+      "slug": "lingmai-restart",
+      "category": "漫剧",
+      "series": "灵脉重启",
+      "region": "",
+      "episode": 1,
+      "source": "素材待添加/video/漫剧/灵脉重启/灵脉重启第一集.mp4",
+      "archive": "漫剧.zip",
+      "entry": "漫剧/灵脉重启第一集.mp4",
+      "video": "/works/video/lingmai-restart/episodes/episode-01.mp4",
+      "bytes": 187001304,
+      "sha256": "1c71b302ff1010548d5dfb31dcf08154b5054d712889f7854f3994d196ebe491",
+      "order": 3,
+      "width": 2180,
+      "height": 1228,
+      "aspectRatio": 1.775244299674267,
+      "orientation": "landscape",
+      "durationSeconds": 102.122,
+      "duration": "1:42",
+      "metadataSource": "file",
+      "cover": "/works/video/lingmai-restart/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "灵脉重启第二集",
+      "project": "灵脉重启",
+      "slug": "lingmai-restart",
+      "category": "漫剧",
+      "series": "灵脉重启",
+      "region": "",
+      "episode": 2,
+      "source": "素材待添加/video/漫剧/灵脉重启/灵脉重启第二集.mp4",
+      "archive": "漫剧.zip",
+      "entry": "漫剧/灵脉重启第二集.mp4",
+      "video": "/works/video/lingmai-restart/episodes/episode-02.mp4",
+      "bytes": 104459169,
+      "sha256": "b04e4d2ea258033c5e947a86d811bd3a7868a101fc1b08d6d5b94b2a5f838521",
+      "order": 3,
+      "width": 2180,
+      "height": 1226,
+      "aspectRatio": 1.7781402936378468,
+      "orientation": "landscape",
+      "durationSeconds": 59.235,
+      "duration": "0:59",
+      "metadataSource": "file",
+      "cover": "/works/video/lingmai-restart/episodes/episode-02-cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "和魔鬼的交易第三集",
+      "project": "和魔鬼的交易",
+      "slug": "deal-with-devil",
+      "category": "漫剧",
+      "series": "和魔鬼的交易",
+      "region": "",
+      "episode": 3,
+      "source": "素材待添加/video/漫剧/和魔鬼的交易/和魔鬼的交易第三集.mp4",
+      "archive": "漫剧.zip",
+      "entry": "漫剧/和魔鬼的交易第三集.mp4",
+      "video": "/works/video/deal-with-devil/episodes/episode-03.mp4",
+      "bytes": 55053534,
+      "sha256": "98bb04bcc8228b108b1909d50cb47a80960af38f710a9642039676f4bfee9376",
+      "order": 4,
+      "width": 686,
+      "height": 1222,
+      "aspectRatio": 0.5613747954173486,
+      "orientation": "portrait",
+      "durationSeconds": 55.612,
+      "duration": "0:56",
+      "metadataSource": "file",
+      "cover": "/works/video/deal-with-devil/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "和魔鬼的交易第四集",
+      "project": "和魔鬼的交易",
+      "slug": "deal-with-devil",
+      "category": "漫剧",
+      "series": "和魔鬼的交易",
+      "region": "",
+      "episode": 4,
+      "source": "素材待添加/video/漫剧/和魔鬼的交易/和魔鬼的交易第四集.mp4",
+      "archive": "漫剧.zip",
+      "entry": "漫剧/和魔鬼的交易第四集.mp4",
+      "video": "/works/video/deal-with-devil/episodes/episode-04.mp4",
+      "bytes": 126072055,
+      "sha256": "18989366819e5a65bd2e4066c40a265cb2cd54c91bd4964742d496485eddf099",
+      "order": 4,
+      "width": 684,
+      "height": 1224,
+      "aspectRatio": 0.5588235294117647,
+      "orientation": "portrait",
+      "durationSeconds": 122.834,
+      "duration": "2:03",
+      "metadataSource": "file",
+      "cover": "/works/video/deal-with-devil/episodes/episode-04-cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "她来自东方第三集",
+      "project": "她来自东方",
+      "slug": "she-from-east",
+      "category": "漫剧",
+      "series": "她来自东方",
+      "region": "",
+      "episode": 3,
+      "source": "素材待添加/video/漫剧/她来自东方/她来自东方第三集.mp4",
+      "archive": "漫剧.zip",
+      "entry": "漫剧/她来自东方第三集.mp4",
+      "video": "/works/video/she-from-east/episodes/episode-03.mp4",
+      "bytes": 176124786,
+      "sha256": "fcf40ae395f982aab626a1ccf9153c6dee0a8d23b81720ec56eb53b0ed062de1",
+      "order": 5,
+      "width": 2152,
+      "height": 1230,
+      "aspectRatio": 1.7495934959349593,
+      "orientation": "landscape",
+      "durationSeconds": 96.805,
+      "duration": "1:37",
+      "metadataSource": "file",
+      "cover": "/works/video/she-from-east/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "她来自东方第四集",
+      "project": "她来自东方",
+      "slug": "she-from-east",
+      "category": "漫剧",
+      "series": "她来自东方",
+      "region": "",
+      "episode": 4,
+      "source": "素材待添加/video/漫剧/她来自东方/她来自东方第四集.mp4",
+      "archive": "漫剧.zip",
+      "entry": "漫剧/她来自东方第四集.mp4",
+      "video": "/works/video/she-from-east/episodes/episode-04.mp4",
+      "bytes": 145543203,
+      "sha256": "3a8e30cdb78f7ee1fdfd45304fba3867b6ac613c95d0e0a09dfe7e34e0553ff9",
+      "order": 5,
+      "width": 2152,
+      "height": 1230,
+      "aspectRatio": 1.7495934959349593,
+      "orientation": "landscape",
+      "durationSeconds": 78.902,
+      "duration": "1:19",
+      "metadataSource": "file",
+      "cover": "/works/video/she-from-east/episodes/episode-04-cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "长念缚卿第二集",
+      "project": "长念缚卿",
+      "slug": "changnian-fuqing",
+      "category": "漫剧",
+      "series": "长念缚卿",
+      "region": "",
+      "episode": 2,
+      "source": "素材待添加/video/漫剧/长念缚卿/长念缚卿第二集.mp4",
+      "archive": "漫剧.zip",
+      "entry": "漫剧/长念缚卿第二集.mp4",
+      "video": "/works/video/changnian-fuqing/episodes/episode-02.mp4",
+      "bytes": 224839754,
+      "sha256": "f402371f340db2d2a25623036a47e2b63147d729e7d165fab49de8bee7a6cb57",
+      "order": 6,
+      "width": 2164,
+      "height": 1232,
+      "aspectRatio": 1.7564935064935066,
+      "orientation": "landscape",
+      "durationSeconds": 124.947,
+      "duration": "2:05",
+      "metadataSource": "file",
+      "cover": "/works/video/changnian-fuqing/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "长念缚卿第三集",
+      "project": "长念缚卿",
+      "slug": "changnian-fuqing",
+      "category": "漫剧",
+      "series": "长念缚卿",
+      "region": "",
+      "episode": 3,
+      "source": "素材待添加/video/漫剧/长念缚卿/长念缚卿第三集.mp4",
+      "archive": "漫剧.zip",
+      "entry": "漫剧/长念缚卿第三集.mp4",
+      "video": "/works/video/changnian-fuqing/episodes/episode-03.mp4",
+      "bytes": 281935241,
+      "sha256": "a952dbfb4bd191c5e3aa990bce79065d30d6a171a2f9cddab7c8f5921a382901",
+      "order": 6,
+      "width": 2166,
+      "height": 1228,
+      "aspectRatio": 1.763843648208469,
+      "orientation": "landscape",
+      "durationSeconds": 156.318,
+      "duration": "2:36",
+      "metadataSource": "file",
+      "cover": "/works/video/changnian-fuqing/episodes/episode-03-cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "狼族血脉：王者觉醒",
+      "project": "狼族血脉：王者觉醒",
+      "slug": "wolf-awakening",
+      "category": "AI短剧",
+      "series": "",
+      "region": "海外",
+      "episode": "",
+      "source": "素材待添加/video/短剧/狼族血脉：王者觉醒/狼族血脉：王者觉醒.mp4",
+      "archive": "海外短剧.zip",
+      "entry": "海外短剧/狼族血脉：王者觉醒.mp4",
+      "video": "/works/video/wolf-awakening/video.mp4",
+      "bytes": 219289039,
+      "sha256": "671f16ea2518a19594a6b15b4c79e1df644dbbc0d07f62ee2520cdcbd9498f36",
+      "order": 7,
+      "width": 1040,
+      "height": 1194,
+      "aspectRatio": 0.8710217755443886,
+      "orientation": "portrait",
+      "durationSeconds": 180.977,
+      "duration": "3:01",
+      "metadataSource": "file",
+      "cover": "/works/video/wolf-awakening/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "神秘吊坠",
+      "project": "神秘吊坠",
+      "slug": "mysterious-pendant",
+      "category": "AI短剧",
+      "series": "",
+      "region": "海外",
+      "episode": "",
+      "source": "素材待添加/video/短剧/神秘吊坠/神秘吊坠.mp4",
+      "archive": "海外短剧.zip",
+      "entry": "海外短剧/神秘吊坠.mp4",
+      "video": "/works/video/mysterious-pendant/video.mp4",
+      "bytes": 204822783,
+      "sha256": "2ad9525b53eaedce6493eadd6618a218fe5f717ec9936b70085e996c216ca77a",
+      "order": 8,
+      "width": 744,
+      "height": 1192,
+      "aspectRatio": 0.6241610738255033,
+      "orientation": "portrait",
+      "durationSeconds": 168.253,
+      "duration": "2:48",
+      "metadataSource": "file",
+      "cover": "/works/video/mysterious-pendant/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "七声呸",
+      "project": "七声呸",
+      "slug": "seven-pei",
+      "category": "AI短剧",
+      "series": "",
+      "region": "国内",
+      "episode": "",
+      "source": "素材待添加/video/短剧/七声呸/七声呸.mp4",
+      "archive": "国内短剧.zip",
+      "entry": "国内短剧/七声呸.mp4",
+      "video": "/works/video/seven-pei/video.mp4",
+      "bytes": 71028925,
+      "sha256": "59adcde8e823258c644b2fc86ce7a345625bc1901c99a1d88f1ae5546569256b",
+      "order": 9,
+      "width": 1656,
+      "height": 938,
+      "aspectRatio": 1.7654584221748402,
+      "orientation": "landscape",
+      "durationSeconds": 60.28,
+      "duration": "1:00",
+      "metadataSource": "file",
+      "cover": "/works/video/seven-pei/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "琉璃盏",
+      "project": "琉璃盏",
+      "slug": "liuli-lamp",
+      "category": "AI短剧",
+      "series": "",
+      "region": "国内",
+      "episode": "",
+      "source": "素材待添加/video/短剧/琉璃盏/琉璃盏.mp4",
+      "archive": "国内短剧.zip",
+      "entry": "国内短剧/琉璃盏.mp4",
+      "video": "/works/video/liuli-lamp/video.mp4",
+      "bytes": 174869760,
+      "sha256": "602b767ec1fdf6c4a01c5d65464f3967feb16dcc82592768a0e6e54b0f3f7a1f",
+      "order": 10,
+      "width": 1674,
+      "height": 714,
+      "aspectRatio": 2.3445378151260505,
+      "orientation": "landscape",
+      "durationSeconds": 171.573,
+      "duration": "2:52",
+      "metadataSource": "file",
+      "cover": "/works/video/liuli-lamp/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "东方剑侠游戏角色短片",
+      "project": "东方剑侠游戏角色短片",
+      "slug": "eastern-swordsman",
+      "category": "游戏内容",
+      "series": "",
+      "region": "",
+      "episode": "",
+      "source": "素材待添加/video/游戏视频/东方剑侠游戏角色短片/东方剑侠游戏角色短片.mp4",
+      "archive": "游戏视频.zip",
+      "entry": "游戏视频/东方剑侠游戏角色短片.mp4",
+      "video": "/works/video/eastern-swordsman/video.mp4",
+      "bytes": 105038502,
+      "sha256": "28551e4ceaa91ac4cf2903b75827d0d57fda015fb5cd03c5a6d8b7e094a17b4c",
+      "order": 11,
+      "width": 1644,
+      "height": 942,
+      "aspectRatio": 1.7452229299363058,
+      "orientation": "landscape",
+      "durationSeconds": 87.517,
+      "duration": "1:28",
+      "metadataSource": "file",
+      "cover": "/works/video/eastern-swordsman/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "月蚀梦域互动游戏视频",
+      "project": "月蚀梦域互动游戏视频",
+      "slug": "eclipse-dream",
+      "category": "游戏内容",
+      "series": "",
+      "region": "",
+      "episode": "",
+      "source": "素材待添加/video/游戏视频/月蚀梦域互动游戏视频/月蚀梦域互动游戏视频.mp4",
+      "archive": "游戏视频.zip",
+      "entry": "游戏视频/月蚀梦域互动游戏视频.mp4",
+      "video": "/works/video/eclipse-dream/video.mp4",
+      "bytes": 79709881,
+      "sha256": "77ebeff0871f5160a3234d18d2cc47c084d2ad44467139f80ec74a73ff088ff9",
+      "order": 12,
+      "width": 1662,
+      "height": 936,
+      "aspectRatio": 1.7756410256410255,
+      "orientation": "landscape",
+      "durationSeconds": 65.318,
+      "duration": "1:05",
+      "metadataSource": "file",
+      "cover": "/works/video/eclipse-dream/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "波利大冒险",
+      "project": "波利大冒险",
+      "slug": "poli-adventure",
+      "category": "游戏内容",
+      "series": "",
+      "region": "",
+      "episode": "",
+      "source": "素材待添加/video/游戏视频/波利大冒险/波利大冒险.mp4",
+      "archive": "游戏视频.zip",
+      "entry": "游戏视频/波利大冒险.mp4",
+      "video": "/works/video/poli-adventure/video.mp4",
+      "bytes": 52844079,
+      "sha256": "3378d4b0aea0bd32e0942b129f128158123135105aea24452b349681aa299eb1",
+      "order": 13,
+      "width": 528,
+      "height": 950,
+      "aspectRatio": 0.5557894736842105,
+      "orientation": "portrait",
+      "durationSeconds": 53.523,
+      "duration": "0:54",
+      "metadataSource": "file",
+      "cover": "/works/video/poli-adventure/cover.jpg",
+      "coverType": "auto"
+    },
+    {
+      "title": "变装",
+      "project": "变装",
+      "slug": "transformation",
+      "category": "创意短视频",
+      "series": "",
+      "region": "",
+      "episode": "",
+      "source": "素材待添加/video/创意短视频/变装/变装.mp4",
+      "archive": "创意短视频.zip",
+      "entry": "创意短视频/变装.mp4",
+      "video": "/works/video/transformation/video.mp4",
+      "bytes": 6479224,
+      "sha256": "04d82bad47d61b65f532bf72e46bdbf3859ab32daad81c4c6b099cff13fcf565",
+      "order": 14,
+      "width": 692,
+      "height": 1230,
+      "aspectRatio": 0.5626016260162602,
+      "orientation": "portrait",
+      "durationSeconds": 6.572,
+      "duration": "0:07",
+      "metadataSource": "file",
+      "cover": "/works/video/transformation/cover.jpg",
+      "coverType": "auto"
+    }
+  ],
+  "duplicates": [
+    {
+      "archive": "新建文件夹 (2).zip",
+      "entry": "新建文件夹 (2)/她来自东方第三集.mp4",
+      "sameAs": "/works/video/she-from-east/episodes/episode-03.mp4",
+      "sha256": "fcf40ae395f982aab626a1ccf9153c6dee0a8d23b81720ec56eb53b0ed062de1"
+    },
+    {
+      "archive": "新建文件夹 (2).zip",
+      "entry": "新建文件夹 (2)/她来自东方第四集.mp4",
+      "sameAs": "/works/video/she-from-east/episodes/episode-04.mp4",
+      "sha256": "3a8e30cdb78f7ee1fdfd45304fba3867b6ac613c95d0e0a09dfe7e34e0553ff9"
+    },
+    {
+      "archive": "新建文件夹 (3).zip",
+      "entry": "新建文件夹 (3)/长念缚卿第三集.mp4",
+      "sameAs": "/works/video/changnian-fuqing/episodes/episode-03.mp4",
+      "sha256": "a952dbfb4bd191c5e3aa990bce79065d30d6a171a2f9cddab7c8f5921a382901"
+    },
+    {
+      "archive": "新建文件夹 (3).zip",
+      "entry": "新建文件夹 (3)/长念缚卿第二集.mp4",
+      "sameAs": "/works/video/changnian-fuqing/episodes/episode-02.mp4",
+      "sha256": "f402371f340db2d2a25623036a47e2b63147d729e7d165fab49de8bee7a6cb57"
+    },
+    {
+      "archive": "新建文件夹.zip",
+      "entry": "新建文件夹/和魔鬼的交易第三集.mp4",
+      "sameAs": "/works/video/deal-with-devil/episodes/episode-03.mp4",
+      "sha256": "98bb04bcc8228b108b1909d50cb47a80960af38f710a9642039676f4bfee9376"
+    },
+    {
+      "archive": "新建文件夹.zip",
+      "entry": "新建文件夹/和魔鬼的交易第四集.mp4",
+      "sameAs": "/works/video/deal-with-devil/episodes/episode-04.mp4",
+      "sha256": "18989366819e5a65bd2e4066c40a265cb2cd54c91bd4964742d496485eddf099"
+    },
+    {
+      "archive": "新建文件夹.zip",
+      "entry": "新建文件夹/灵脉重启第一集.mp4",
+      "sameAs": "/works/video/lingmai-restart/episodes/episode-01.mp4",
+      "sha256": "1c71b302ff1010548d5dfb31dcf08154b5054d712889f7854f3994d196ebe491"
+    },
+    {
+      "archive": "新建文件夹.zip",
+      "entry": "新建文件夹/灵脉重启第二集.mp4",
+      "sameAs": "/works/video/lingmai-restart/episodes/episode-02.mp4",
+      "sha256": "b04e4d2ea258033c5e947a86d811bd3a7868a101fc1b08d6d5b94b2a5f838521"
+    }
+  ],
+  "assets": {
+    "images": 409,
+    "audio": 11,
+    "markdown": 48
+  },
+  "covers": 14,
+  "assetFiles": [
+    {
+      "src": "/works/video/tvc-ad/assets/characters/TVC广告国内_制作包/人物三视图/C01_成年女主_三视图.png",
+      "sha256": "87b77503b1034869bd687ab5969f9f5b2e68bca265e30f0d275671d22333993d",
+      "type": "characters",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/characters/TVC广告国内_制作包/人物三视图/C02_童年女孩_红裙_三视图.png",
+      "sha256": "2af563840f9b350ad604f8b9a2415a10f1be2ff8606059961613eb16c3064c09",
+      "type": "characters",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/characters/TVC广告国内_制作包/人物三视图/C03_父亲_三视图.png",
+      "sha256": "ec94f3e1b50d0e4c5b70fc3a4caaa6ec19d28193327e8a924f2cb701d21dd506",
+      "type": "characters",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/characters/TVC广告国内_制作包/人物三视图/C04_童年女孩_合影服装_三视图.png",
+      "sha256": "a07198e7b0d36a490bbd80efba6e97607a3460bdda71b0f6960cd0a169ce0378",
+      "type": "characters",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S01_机器工作环境.png",
+      "sha256": "dc4b55df24225904c6bae4d64c0585c51b130014ec5204ac2e531351d2ce9ac5",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S02_饮品制作台.png",
+      "sha256": "d1bea908b92258ac4c55b4fd75d4f9b1e0ed38fdabe502dd31a50ed6acec48b0",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S03_日间地铁车厢.png",
+      "sha256": "6150810cd5ddeeb629e084e0ab1c22a2df10d3b86e6a292068e9db84579e1ee2",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S04_城市夜景窗边.png",
+      "sha256": "79c303da2a61475762062cc039ba346c26740fdf6e2111297fbfffc608a5b085",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S05_蓝莓枝叶采摘局部.png",
+      "sha256": "aa9667ebf57a7458dbeed88b0441e8a343ed23dd4a7dd50ad2a97e22aad28525",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S06_童年家中餐厅.png",
+      "sha256": "37bc45691b84b8d3057330a31c365388b5530cadbb7abe5cfb2d0f5e618c73ed",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S07_现代家中夜间书桌.png",
+      "sha256": "e087b85912a9729ac057f44d2bacca42788ea0149966cde5b3e210b2a0d2adae",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S08_家居产品展示台.png",
+      "sha256": "eb7e5c3d14b8f5fd29fd1ff7cb6cf399153250dde15c9decaf6d9894fe3834a2",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S09_住宅深色木门.png",
+      "sha256": "22ba63acdd354e6a61dbe2dd6e654908306863de8a8b065bc10bfadf78e50514",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S10_社区步道_平视.png",
+      "sha256": "5b9cea53fb881ff4677ce24adab9523038cadf96aa70ed129ebd64daf8c9aac2",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S10B_社区步道_俯视.png",
+      "sha256": "d79608698d10656f692bda7238e32a833909539f2b3f2539a5d17aa7dd639bc1",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S11A_乳白酸奶微距空间.png",
+      "sha256": "7c17f4fd376e6b929cbe0b1ef9b07a750c378b78c2c5848d6cbc025af1418dbc",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S11B_酸奶纵深旋涡空间.png",
+      "sha256": "3245790491e236799711adb24e8cb0c3d067a3a949ee2f1ba6154ab24ab59cf5",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/scenes/TVC广告国内_制作包/场景资产/S11C_纯白产品空间.svg",
+      "sha256": "bbe30718cfe69458911a747d79a1d781de0241c2a74986fd48afbe2fa0b49732",
+      "type": "scenes",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/props/TVC广告国内_制作包/道具资产/D01_出纸机器与纸片.png",
+      "sha256": "6ce9fa787ad61beca4ca962aab9815d1f92d5c7fd090056e323f006e30a00362",
+      "type": "props",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/props/TVC广告国内_制作包/道具资产/D02_饮品制作及通勤饮品道具.png",
+      "sha256": "1163192ebee28d01ad16271854d879ce7f76c3d3e02396af5e0afca47522c814",
+      "type": "props",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/props/TVC广告国内_制作包/道具资产/D03_蓝莓与童年餐桌道具.png",
+      "sha256": "02a23990b7d1f0902b3015fe7797026f8e14233d974ab07f1a7c8a27977bcf4f",
+      "type": "props",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/props/TVC广告国内_制作包/道具资产/D04_父女合影与木相框.png",
+      "sha256": "b2ff5202fcf8fd2a53833ad9b5fc37bbf016facd1f9d88c8797e44af1dcb5c71",
+      "type": "props",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/props/TVC广告国内_制作包/道具资产/D05_夜间书桌陈设.png",
+      "sha256": "3df10df1cf9769288e88353384e4417c7f8cae32caa75841c712738e538af00b",
+      "type": "props",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/props/TVC广告国内_制作包/道具资产/D06_金色装饰与白盆绿植.png",
+      "sha256": "e258b38e7d37bb8bb31c0c04084594c2d907afd36d5b550ef62fbd68ce1ffe19",
+      "type": "props",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/props/TVC广告国内_制作包/道具资产/D07_安慕希整颗蓝莓产品瓶_开合盖.png",
+      "sha256": "12bf4d316360bf482a6062c57b2ca8ccd9fae343f1d65e6e59152964e26a3387",
+      "type": "props",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/storyboards/TVC广告国内_制作包/分镜提示词.md",
+      "sha256": "d1c204f57b474c2855d941225a041ced7d4974d5fa81ee4cbe1eed4f3787f5d1",
+      "type": "storyboards",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/audio/TVC广告国内_制作包/声音参考/原片完整音轨.m4a",
+      "sha256": "00828a6135f0b969ba704e98b84d0c49dfdf161e03404f1c9602548861b7fe13",
+      "type": "audio",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/tvc-ad/assets/script/TVC广告国内_制作包/01_剧本.md",
+      "sha256": "88ed01641cf0ed6a488540842dedf44058e5a86869c005e878f3dd4161e5d0c8",
+      "type": "script",
+      "project": "tvc-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/characters/国外种草视频_剧本分镜固定资产/固定资产/人物三视图/C01_半透明人体示意模型_三视图.png",
+      "sha256": "91e94499e9abb0a16ef25b9c60a34ecfee837c6265240b754f19ca1c37656d79",
+      "type": "characters",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/scenes/国外种草视频_剧本分镜固定资产/固定资产/场景/S01_日光厨房_黑色大理石台面.png",
+      "sha256": "71bb894ada523971b6c47a4516928b6f9f892e0878a30d38ad7b2bce0292423c",
+      "type": "scenes",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/scenes/国外种草视频_剧本分镜固定资产/固定资产/场景/S05_冰蓝产品棚景_反光台面.png",
+      "sha256": "9c94b034a961d5cc9cbbaa4bf382fb678bce8d95c03e77bf41eb15e60dd94082",
+      "type": "scenes",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/scenes/国外种草视频_剧本分镜固定资产/固定资产/场景/SB01_微观通道_合并场景板.png",
+      "sha256": "adabf41e1548cc8116f7b40547a4f5e21d408ff6ef4f3b30bb367c9a44472909",
+      "type": "scenes",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/props/国外种草视频_剧本分镜固定资产/固定资产/产品/P01_BIOBALANCE产品瓶_多角度.png",
+      "sha256": "15b3f007af7aad33afec412b002fca71fd2ad5ce217813a259238e0c49a9b1af",
+      "type": "props",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/props/国外种草视频_剧本分镜固定资产/固定资产/产品/P02_蓝白胶囊_实体与放大示意.png",
+      "sha256": "05b8bb698266b14ddab453cbca0d0251d53842fdb117f316aeea8e5f5a10b40c",
+      "type": "props",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/keyframes/国外种草视频_剧本分镜固定资产/固定资产/微观元素/P03_微观元素_合并素材板.png",
+      "sha256": "4aef09efe738fc1ac0b05f8bf4932ee194f2031765e8aeb969efd0b7397c5c7b",
+      "type": "keyframes",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/storyboards/国外种草视频_剧本分镜固定资产/分镜提示词.md",
+      "sha256": "13471e497efad2169db58c89a277a9ec4aae0dd67f8605920500e784f8e4679c",
+      "type": "storyboards",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/probiotic-ad/assets/script/国外种草视频_剧本分镜固定资产/剧本.md",
+      "sha256": "51a5e0d131f1d6e260bbf625876a20021fd0f59f0f8d3743d9cf8d32a4d951bb",
+      "type": "script",
+      "project": "probiotic-ad"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/characters/灵脉重启_第一二集_剧本分镜固定资产/固定资产/人物三视图/C01_秦澈.png",
+      "sha256": "f775dcd2b31298b691768ee64d13ecdae65c85a7a4f65b2853d6913ce426cbcf",
+      "type": "characters",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/characters/灵脉重启_第一二集_剧本分镜固定资产/固定资产/人物三视图/C02_秦昊.png",
+      "sha256": "707ba99b8a4f109d74ec2fce2f309b30d03f4844c37e56d8e988c844523a2822",
+      "type": "characters",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/characters/灵脉重启_第一二集_剧本分镜固定资产/固定资产/人物三视图/C03_黑袍蒙面人.png",
+      "sha256": "0e265017b2d5947d8cfb77ef3a027ea2f773c929860152522b55c40520bfae42",
+      "type": "characters",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/characters/灵脉重启_第一二集_剧本分镜固定资产/固定资产/人物三视图/C04_黑衣押解守卫.png",
+      "sha256": "bf130cd0604f06247c668ab6fba89747f26869341eb3540a5170d02b0ab8274b",
+      "type": "characters",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/characters/灵脉重启_第一二集_剧本分镜固定资产/固定资产/人物三视图/C05_灰蓝族人.png",
+      "sha256": "c440c653120802357eb29c0b7f41e318ca5199a1529d5e1d5baa213221449065",
+      "type": "characters",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/scenes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/场景/S01_测灵殿.png",
+      "sha256": "e4910d0e5eb565df0265bbcb87f79f17dbd6c0c3f638be43fff09f49fc74e66d",
+      "type": "scenes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/scenes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/场景/S02_深渊崖顶.png",
+      "sha256": "a191aaf96b42f0d1aef460a5aad821fcb96a15402166ea7f21ca38bbeb5726af",
+      "type": "scenes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/scenes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/场景/S03_深渊谷底.png",
+      "sha256": "fcd4d76acb62966a3d937ede215e7322a69b8c253c6d106a7f77b26805a6e788",
+      "type": "scenes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/scenes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/场景/S04_星海修炼意境.png",
+      "sha256": "632c300d23caa7276981cd02c09ab570d435b6f1c2e8f3c8133c80b4cb730d1c",
+      "type": "scenes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/props/灵脉重启_第一二集_剧本分镜固定资产/固定资产/道具与生物/D01_黑甲獠牙凶兽.png",
+      "sha256": "4e582acabd81a2ec8fa8582554daa6a8b951527b88a8db5bfea6db6cfcc43117",
+      "type": "props",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/props/灵脉重启_第一二集_剧本分镜固定资产/固定资产/道具与生物/D02_赤眼狼兽.png",
+      "sha256": "977fbe6710f124cc7409c07bea7f54c30c96c9828114b5b458ee531e63444b0b",
+      "type": "props",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/props/灵脉重启_第一二集_剧本分镜固定资产/固定资产/道具与生物/D03_怨灵.png",
+      "sha256": "0539c20ee94d67716d348c08ec715fafc577eae17fda6175368f5bde62b46c98",
+      "type": "props",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/props/灵脉重启_第一二集_剧本分镜固定资产/固定资产/道具与生物/P01_传承玉佩.png",
+      "sha256": "2a25903b5407b492fe5214d4c72c7d813e03553f45201fe87cb8ffb4fde4973c",
+      "type": "props",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/props/灵脉重启_第一二集_剧本分镜固定资产/固定资产/道具与生物/P02_短刃_灵剑_锁链.png",
+      "sha256": "bcb19ca18831f3211b4311fec911ea4297160dae1e6e84e1e455d5b58d20e7be",
+      "type": "props",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/C01_1.jpg",
+      "sha256": "378b5e1cc65bacbacd41bff8bac60e849615339aee9ac8a674d73a631393a67f",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/C01_2.jpg",
+      "sha256": "a8112f49f6c82c4834cb0811b784894d696efd036c32f8ad9b7ce4f3ede6d432",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/C02_1.jpg",
+      "sha256": "83f7242a8236561fe7e06f9dff862a2464b38fef4bd397aeafc08616a8128b9e",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/C02_2.jpg",
+      "sha256": "485b5420206014639f808bbac335e059a34d507ec33f22472d71b319dfe62837",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/C03_1.jpg",
+      "sha256": "f5aa4195a034cf739dab9b1e17f536e581d5ebdd50ea47a63aea6605d9790bab",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/C03_2.jpg",
+      "sha256": "f982f04b252f87b7d0b1c6048ac1df0c3f0a8c7b0879a53f054e34dad478610b",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/C04_1.jpg",
+      "sha256": "ef89fe84a68e6ece94d00fe445c84497c1c5da7103638c74e1ab29d149cb0026",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/C05_1.jpg",
+      "sha256": "a7ecb032825921787ca6eb61762c0efa401bb5a42c241dae64882688d3ea647f",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/D01_1.jpg",
+      "sha256": "6f71bc4f64649ce3fb41fb2c60fe5e289dbed55c15498fb9674483fe55ce6491",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/D01_2.jpg",
+      "sha256": "a8112f49f6c82c4834cb0811b784894d696efd036c32f8ad9b7ce4f3ede6d432",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/D02_1.jpg",
+      "sha256": "09684d53dcab8440ceb04a8141728fc9b1eacb547533a1f4ada57b2ee37d319f",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/D03_1.jpg",
+      "sha256": "ce1b390261adde71040e06371becdaa5009487effca0dc1838aaca177b1cbc40",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/P01_1.jpg",
+      "sha256": "378b5e1cc65bacbacd41bff8bac60e849615339aee9ac8a674d73a631393a67f",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/P01_2.jpg",
+      "sha256": "001a31b6486f1b05c3dd0e0b2055106bd67f5c5816b89e30d2e1a4e9366fb7df",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/P02_1.jpg",
+      "sha256": "b770e37473dd3c0d73d5a5c2f95db2d3260dbc3930bdf53283552d13d823cdf3",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/P02_2.jpg",
+      "sha256": "561bc11cb856378dec17d66c7717d8adb6f4a769638a404effec87a05ebc52a6",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/P02_3.jpg",
+      "sha256": "cdde1c640145f0e9a2bda7a68b402c0d85dd1d8270457becdc06dcc226895644",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/S01_1.jpg",
+      "sha256": "902694137137531539b0c9d79db817ba8e238bac8572f4b7420630c41ae23dce",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/S02_1.jpg",
+      "sha256": "a92c0a68a77cf3b933dffa76177d9fe056efd880fa867d0ae015364f409ca514",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/S03_1.jpg",
+      "sha256": "1ffb4bb87fb5254ebe23746bfb473c64680599dec68f03c9e59ceda559116c76",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/keyframes/灵脉重启_第一二集_剧本分镜固定资产/固定资产/画面依据/S04_1.jpg",
+      "sha256": "5e8f71fc8e9aff5725f0b7abbd394b8d346a9a517be2f67569c39c290d7e26bb",
+      "type": "keyframes",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/storyboards/灵脉重启_第一二集_剧本分镜固定资产/剧本/第一集分镜提示词.md",
+      "sha256": "4c058bcdf3e8a6a168b047528dbc7e8f68a4b4b701428d783738173657ba44a4",
+      "type": "storyboards",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/storyboards/灵脉重启_第一二集_剧本分镜固定资产/剧本/第二集分镜提示词.md",
+      "sha256": "9d1fcd9c2e5de2a8b0e2a9cb814a2af0b2c4d4007917afe048060e26798ac790",
+      "type": "storyboards",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/script/灵脉重启_第一二集_剧本分镜固定资产/README.md",
+      "sha256": "226ff70f6caf30835a3aab9a1564024704b3de42b1c30be668364dc151c48dfa",
+      "type": "script",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/script/灵脉重启_第一二集_剧本分镜固定资产/剧本/第一集_剧本.txt",
+      "sha256": "0d8de12b82e6b7d9a1684d1ca926f85f6bdd892629b2802d9fc36b16c3d9c485",
+      "type": "script",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/lingmai-restart/assets/script/灵脉重启_第一二集_剧本分镜固定资产/剧本/第二集_剧本.txt",
+      "sha256": "32691f9a9a435ee5ce1b584626ebaaea8a90d6fd35573c258e3f10df1c742f52",
+      "type": "script",
+      "project": "lingmai-restart"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第三集_制作包/固定资产/人物三视图/C01_女子_白大褂造型.png",
+      "sha256": "6b876c68e8039c3a64a3a2aa40e5a049081d58ea0b9f9ad27008effdf0df7091",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第三集_制作包/固定资产/人物三视图/C02_女子_棕色背心造型.png",
+      "sha256": "f34028bce6e21e85947924b99a2365c3fe63473f9b37b1f30969e8079f22e616",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第三集_制作包/固定资产/人物三视图/C03_男子_绷带造型.png",
+      "sha256": "75cc0554c82cad4cc61a442b69fcb598b784acf12efd67f0e10951b9da55375f",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/人物三视图/C04_女子_白色睡衣.png",
+      "sha256": "acb2f5d0ff692f09fd8d5e5183a6c65a5583535b26ec6d1f9b4df7b068f8fb59",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/人物三视图/C05_女子_红色连衣裙.png",
+      "sha256": "4dbc15cbace1124b2f87c8d205552b5d3b08185215f2b60a826964434744146a",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/人物三视图/C06_Marco_黑衬衫.png",
+      "sha256": "c0197033ef4b2dacc5f93d8282e07f6a4e70e1084522d3c12c03a83a166e8011",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/人物三视图/C07_手下甲_黑衬衫.png",
+      "sha256": "b3a17218493097eee1d6846453a1c6e6de438d47209ad315ebee39e701a21fae",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/人物三视图/C08_手下乙_黑西装.png",
+      "sha256": "a459e87bc8df383358efffe4e5e60189a1e022bf0551d11abaa96b2369161afc",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/人物三视图/C09_男子_灰色西装.png",
+      "sha256": "9fffb68e6c61287c893dd3d50ccf6b199bcc56e4e9593ca7323060e9ae57e265",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/characters/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/人物三视图/C10_金发保镖_黑西装.png",
+      "sha256": "06c9dc766e1014e2e4702d0c19256ffe1fd3bcd90c0d3b04212084ca22fdb4a9",
+      "type": "characters",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/scenes/魔鬼的交易_第三集_制作包/固定资产/场景/S01_庄园卧室.png",
+      "sha256": "285dbcc30619dc3651bc7fde198a0bfa2feec6ef6769a9165f2fbbe51ee05d4f",
+      "type": "scenes",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/scenes/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/场景/S02_庄园大厅_白天.png",
+      "sha256": "c3b8fbe085ea572ae7675b596d3dd7cb673a18932b24e67ce67870e3dffa38c6",
+      "type": "scenes",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/props/魔鬼的交易_第四集_剧本分镜新增资产/新增资产/道具/PB01_手枪与白手帕.png",
+      "sha256": "53c8dee6599c62df9d31929a57259c8edeb3ff19309fc65740a7cde8a7817762",
+      "type": "props",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/storyboards/魔鬼的交易_第三集_制作包/分镜提示词.md",
+      "sha256": "5226da05c8d1a88dd056761b064175d8c505cd8c621aee4ff15b6ca928a8aff2",
+      "type": "storyboards",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/storyboards/魔鬼的交易_第四集_剧本分镜新增资产/魔鬼的交易_第四集分镜提示词.md",
+      "sha256": "af7b4c38136db1872247b6afdfd717e2be350ae4857d739ca88f533ea124d936",
+      "type": "storyboards",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/script/魔鬼的交易_第三集_制作包/剧本.md",
+      "sha256": "fe128a538227fe9c5d428794be3e4fb07ef1dfbf160ea680ad61288f4b3c7d03",
+      "type": "script",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/script/魔鬼的交易_第四集_剧本分镜新增资产/剧本.md",
+      "sha256": "2e24f8309fea3fa65126fcfd208851e5571d03a327435a332f8ef5604f92fd08",
+      "type": "script",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/deal-with-devil/assets/script/魔鬼的交易_第四集_剧本分镜新增资产/新增资产与复用说明.md",
+      "sha256": "86a713c42f7c1084bdd61d49729c890cf576cdd9d03f7d638566b1bb842aab16",
+      "type": "script",
+      "project": "deal-with-devil"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/characters/她来自东方_第三四集_剧本分镜固定资产/固定资产/群演参考/G01_宴会宾客.jpg",
+      "sha256": "52c4f898c2c75cc8b5f5a545abe0d2ea8fbe80a7449d3c191e8b2ab545e20000",
+      "type": "characters",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/characters/她来自东方_第三四集_剧本分镜固定资产/固定资产/人物三视图/C01_晚棠_灰蓝纱裙.png",
+      "sha256": "fcacaada3f00b3a973dda14471b7a685382d622464aca32d678555c598c1a303",
+      "type": "characters",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/characters/她来自东方_第三四集_剧本分镜固定资产/固定资产/人物三视图/C02_公爵_酒红礼服.png",
+      "sha256": "efda4b342dd2b8f0b70f9fddf3261e74d1a9b54cb9ff9268dc6429e5eb65a40d",
+      "type": "characters",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/characters/她来自东方_第三四集_剧本分镜固定资产/固定资产/人物三视图/C03_黑衣贵族_深蓝长外套.png",
+      "sha256": "9b10ab28a19cf1b4cc12f193bdecf789b6256ee3a3824bae13cc80980578c4bf",
+      "type": "characters",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/characters/她来自东方_第三四集_剧本分镜固定资产/固定资产/人物三视图/C04_黑军礼服军官.png",
+      "sha256": "0fbaab66843b9caa1c28b0d96bb36a81cae2b15d1254ebf64d0a0c77a99302fe",
+      "type": "characters",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/characters/她来自东方_第三四集_剧本分镜固定资产/固定资产/人物三视图/C05_贵妇_酒红礼裙.png",
+      "sha256": "d3d94134352be6383b66aa042188000bc7e362bc6f9950de5b4a3e09053fcebf",
+      "type": "characters",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/characters/她来自东方_第三四集_剧本分镜固定资产/固定资产/人物三视图/C06_王室青年_蓝绶带军礼服.png",
+      "sha256": "c0e76e538b788bb8c1a95ed936ea6756436c2754d2c9b74ee9f5d9c784597941",
+      "type": "characters",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/scenes/她来自东方_第三四集_剧本分镜固定资产/固定资产/场景/S01_船上宴会厅_夜景.png",
+      "sha256": "b8057138c1b2943942093b751f577d99b833a8ece71d4a1ad6adacbb69844fed",
+      "type": "scenes",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/props/她来自东方_第三四集_剧本分镜固定资产/固定资产/道具/PB01_玉佩与手杖_合并道具板.png",
+      "sha256": "71fdf6db53ba4e7f5a1ecae35084416b01eeedcc31e55abad929284dbbb21f6c",
+      "type": "props",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/storyboards/她来自东方_第三四集_剧本分镜固定资产/第三集/分镜提示词.md",
+      "sha256": "aa72af7d9eb251b4a3736d12aa93d8f33ae57d3b427410d4465c5ce4a8180423",
+      "type": "storyboards",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/storyboards/她来自东方_第三四集_剧本分镜固定资产/第四集/分镜提示词.md",
+      "sha256": "6387f5d508b939d3abdb25f21aa15ae1559e4c9625bb9740fd328a60f35571dc",
+      "type": "storyboards",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/script/她来自东方_第三四集_剧本分镜固定资产/第三集/剧本.md",
+      "sha256": "b56093613b0e53ceb97618e77d45f6c9e840eba08d6e876bc834f486a11ecd44",
+      "type": "script",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/she-from-east/assets/script/她来自东方_第三四集_剧本分镜固定资产/第四集/剧本.md",
+      "sha256": "6d3828592bef8e469376092a8218322ffc6f006977da81619bf03eef8837ea3b",
+      "type": "script",
+      "project": "she-from-east"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/characters/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/人物设定图/C01_时卿_上半身与三视图.png",
+      "sha256": "4087d980fb2e9c32092710a2e75aa1e71bd915a3f4cf69610d45e669b00a844a",
+      "type": "characters",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/characters/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/人物设定图/C02_纪恒之_上半身与三视图.png",
+      "sha256": "53b1450ac8bedf30cc5444be5350a1e52f76689ef57e71668e670f663b75c665",
+      "type": "characters",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/characters/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/人物设定图/C03_宝林_上半身与三视图.png",
+      "sha256": "eec4513d64fa17957a4d3ff37b9a8de69ec92a82b9c7c63430d99786b1e27acd",
+      "type": "characters",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/characters/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/人物设定图/C04_母亲_上半身与三视图.png",
+      "sha256": "d2d465b2425fcaaf92bc0ea29291b74d4f813a2714d1253e18a964a2f78a4ffd",
+      "type": "characters",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/characters/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/人物设定图/C05_沈临学_上半身与三视图.png",
+      "sha256": "b0bcc62a28827c736a2e4e1d66455bfaea56dcb4a965d12fb5e306e2a15384ff",
+      "type": "characters",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/characters/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/人物设定图/C06_持扇公子_上半身与三视图.png",
+      "sha256": "88cd9780d6a1fcd95346d48c09371ca93c737ea2f04c805b394d14a53786adf1",
+      "type": "characters",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/scenes/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/场景设定图/S01_女子卧房_空场景.png",
+      "sha256": "072cc32b5d2811059035bed62888af595c179912d8b66ca27177c944171d21ea",
+      "type": "scenes",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/scenes/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/场景设定图/S02_家宴厅_空场景.png",
+      "sha256": "d79d6bbec968e656170fb0cd57d30f59cdfaa130a5d13e4a4fceb531f9322564",
+      "type": "scenes",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/scenes/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/场景设定图/S03_芍药阁_空场景.png",
+      "sha256": "9bdb4f7f201f605917568b3a0713278734242427c67f6442336e047adef41a70",
+      "type": "scenes",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/scenes/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/场景设定图/S04_牡丹阁_空场景.png",
+      "sha256": "df45c08d96f8da85b0afd9afcf68a89bd8f58397ddf60dbac1d4e726ef87b0e4",
+      "type": "scenes",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/scenes/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/场景设定图/S05_海棠阁_空场景.png",
+      "sha256": "29244995792f1bf487a41f29cc8a0e6db55ae6cce1b1bf71b0fb762f5ef7067a",
+      "type": "scenes",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/props/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/道具设定图/PD01_共用道具总图.png",
+      "sha256": "4e6819573a5a9bdf6122b40f9f075fba83f74db54fc3faefb7b2265203505fee",
+      "type": "props",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/storyboards/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/第二集/分镜提示词.md",
+      "sha256": "f39719467510c1543574571ba73ad4f52dea5a5c61ae8dd28a5241491ff418aa",
+      "type": "storyboards",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/storyboards/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/第三集/分镜提示词.md",
+      "sha256": "cfea6fcdfdd7c9b87e41efec86365f2d61250d34a99bd235b9281838e30592e5",
+      "type": "storyboards",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/audio/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/第二集/完整音轨.m4a",
+      "sha256": "852b31edd455f84af1bd7e5217204b4cd68d760c773d469b3abbcd7ea91909ab",
+      "type": "audio",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/audio/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/第三集/完整音轨.m4a",
+      "sha256": "3b97159333d1e33db97411f4a5db5243e54a3cf141bbb07f989db796259ab02a",
+      "type": "audio",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/script/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/共享资产/02_人物与场景提示词.md",
+      "sha256": "6fdf9a4de9347123b82e38b1f54d61b77641ddade94393469219a3f3dca7f031",
+      "type": "script",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/script/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/第二集/01_剧本.md",
+      "sha256": "561e140a54fed096daca26695f21f10b0267ed29d5494f653864576483daefce",
+      "type": "script",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/changnian-fuqing/assets/script/长念缚卿_第二三集_剧本分镜共享资产包/长念缚卿_第二三集_制作包/第三集/01_剧本.md",
+      "sha256": "dcfb67c3aa5dcd5d28095fb344cf538a60e7b1daf7c4d237f538dddedd1d8130",
+      "type": "script",
+      "project": "changnian-fuqing"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C01_Sierra_特写与三视图.png",
+      "sha256": "4cdc66b63ffcaf1bb8ac248c2f5f5a3507a38fd84660f26cd1a704a27b101210",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C02_Wayne_特写与三视图.png",
+      "sha256": "e7795af6602cae9679000527cade42ea411b98ff110dfbc7db335a65af1c508b",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C03_Roman_特写与三视图.png",
+      "sha256": "5d0c30bfeb154fdf4751d745e4f73c4e1aef48b0be7be4023469ce45983912d3",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C04_兄长_特写与三视图.png",
+      "sha256": "7dcf60301ca4b3ac54f7b911488975c2ce572de0d9400a569fbf19ece337f704",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C05_Jessica_特写与三视图.png",
+      "sha256": "ff8d1271fc7a468a94f9fcdaa2ecca38173d6b053cffc2c6ffa0065b24ebe3ad",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C06_Darian_特写与三视图.png",
+      "sha256": "70caf99f68d0db524cbede8ff0d2b46d397939ef4e2687e1176a101f3a4b706b",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C07_老狼王_特写与三视图.png",
+      "sha256": "adcdd5da2820e358f20f871bf8eeb24240caa9187229bccab9c22bb212112263",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C08_司仪_特写与三视图.png",
+      "sha256": "fa785857627286c0ad7b0df10e30e4861a317729b533a7ec131137773a2fee59",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C09_编辫贵族_特写与三视图.png",
+      "sha256": "fb9d3c7a9b1866450d8e74fb25fddf1de3c4dd0e5c2dd9522ff0725125352660",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C10_毛领贵族_特写与三视图.png",
+      "sha256": "f6d1250bfd058897f0d5be25f2cf16fb7be391f85de1cfe3099212decfba6054",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C11_骑队护卫_特写与三视图.png",
+      "sha256": "9675bd8f4b6a7f27d972fd36f868951775087e30e253ed42d6b724efa823d0dc",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C12_白胡须长者_特写与三视图.png",
+      "sha256": "fa98d2adbc451dc9eeea697d521aeae4b6402b376f6699309cf7837d39a40a19",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/characters/出海AI短片1_制作包/人物设定图/C13_黑金贵族_特写与三视图.png",
+      "sha256": "6cb2c33a7f876b8299192a54f9fafc418d538b6fedf432ba918ee11e8d6d85f4",
+      "type": "characters",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/scenes/出海AI短片1_制作包/场景资产/S01_月神湖_血月夜景.png",
+      "sha256": "dbc84a9b764e7e338a2ba75aa9ce41bd374d423e5d49f00ee91fb4f077bbd899",
+      "type": "scenes",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/scenes/出海AI短片1_制作包/场景资产/S02_湖中水下_救援空间.png",
+      "sha256": "146444ba4b88b8a8ae8856fb7316f035d3eb8eb9e8a0d8c837beab56e739e622",
+      "type": "scenes",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/scenes/出海AI短片1_制作包/场景资产/S03_村落石墙庭院.png",
+      "sha256": "aa33337cef6fd4d77025409c1bcd156c0bcc520fc2cb68d4b0ece6e2b0558d09",
+      "type": "scenes",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/scenes/出海AI短片1_制作包/场景资产/S04_村落石板街道.png",
+      "sha256": "93e33f1d2de06d41ab0f43a8353f1b8dd50cf049f0042cf0426745243496ff7d",
+      "type": "scenes",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/scenes/出海AI短片1_制作包/场景资产/S05_城堡夜色石桥.png",
+      "sha256": "0a77d6180d456d37188f49ec03c035394888b83006091371d9e8bd1280daad3c",
+      "type": "scenes",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/scenes/出海AI短片1_制作包/场景资产/S06_城堡拱门门厅.png",
+      "sha256": "68461666b067e875991e303a3261cc306875b0d0f0b69eeca6e4009ae7451592",
+      "type": "scenes",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/scenes/出海AI短片1_制作包/场景资产/S07_狼王宴会大厅.png",
+      "sha256": "75c6eab022d3cee2e18f498a3fcb07bfce0ef39966700f03037fd4fb48b44f05",
+      "type": "scenes",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/scenes/出海AI短片1_制作包/场景资产/S08_狼王王座台阶区.png",
+      "sha256": "95dcb915caa013076bce39e2804987c14df7243ca7dc044df245706a2ab160ca",
+      "type": "scenes",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/props/出海AI短片1_制作包/道具资产/AN01_AN02_白马棕马与皇家马具.png",
+      "sha256": "6f4075aa938b671e96ecc5cc0b5681b6b41f1636f19f9446ff8600fe89ba715a",
+      "type": "props",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/props/出海AI短片1_制作包/道具资产/D01_王族头饰与司仪短杖.png",
+      "sha256": "7ccb5a115ff36f1d583ef9cf71ab30ea17be58e0b534ecd80c2b2573773a69fd",
+      "type": "props",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/props/出海AI短片1_制作包/道具资产/D02_狼族纹章与珠宝饰品.png",
+      "sha256": "6c44cd17c2ed086c6912bb12e76d38edc79d701b9855309315bc9d81dfe6211c",
+      "type": "props",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/props/出海AI短片1_制作包/道具资产/D03_村居桌凳与杂物.png",
+      "sha256": "80e84d0e6d02409e2e83879cc12f52305ecce43bc600a5bb1389caa91a95fe22",
+      "type": "props",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/props/出海AI短片1_制作包/道具资产/D04_宴会餐具与火焰灯具.png",
+      "sha256": "495712c4d155bf9fc52553384701bc0418f04f449622cf9b36866fc05e73e480",
+      "type": "props",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/props/出海AI短片1_制作包/道具资产/D05_宴会家具与狼族旗帜.png",
+      "sha256": "b99332a059b0332db0162d08497308c9b55bce6245f0c860f486fd0e6966d9ce",
+      "type": "props",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/storyboards/出海AI短片1_制作包/分镜提示词.md",
+      "sha256": "d50194f50a211a8a945b872fac9c2db04457da0ec221187672458ccd67593175",
+      "type": "storyboards",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/wolf-awakening/assets/script/出海AI短片1_制作包/01_中文剧本.md",
+      "sha256": "fa00d149e74a2f2aca23f665e8067f07972f311f1f9419bfe75ea3ad00869db0",
+      "type": "script",
+      "project": "wolf-awakening"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/characters/出海AI短片2_制作包/人物设定图/C01_Liam_上半身与三视图.png",
+      "sha256": "407347095cbee79a94c8feb8ac825a72875d312d3bdd339138abf2e3bc43afd7",
+      "type": "characters",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/characters/出海AI短片2_制作包/人物设定图/C02_年轻女子_上半身与三视图.png",
+      "sha256": "884613bfa55bb73ca5f77d3d06e130dca045e888ad0bfa462dfba0b55072fe45",
+      "type": "characters",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/characters/出海AI短片2_制作包/人物设定图/C03_老渔民_上半身与三视图.png",
+      "sha256": "4e64fe4cb82e322acf078386f6faa776b1a81453f447be0081504cfcd530dc1b",
+      "type": "characters",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/characters/出海AI短片2_制作包/人物设定图/C04_Shaw先生_上半身与三视图.png",
+      "sha256": "983a53174a1c35cc21cfb096b62f8897dee1ab437c0f190a7db2dc5ecd180fe8",
+      "type": "characters",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/characters/出海AI短片2_制作包/人物设定图/C05_西装随从_上半身与三视图.png",
+      "sha256": "558046693b77f2b33c4fe7e6d2bc249bcd366d5d4fc9305d08319dcc7e2fd8f1",
+      "type": "characters",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/characters/出海AI短片2_制作包/人物设定图/C06_年长妇人_上半身与三视图.png",
+      "sha256": "2f2d122e6565675f663063d7416f366b03e6edba41e8a5f10811e7c4432f797b",
+      "type": "characters",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/characters/出海AI短片2_制作包/人物设定图/C07_格衫青年_上半身与三视图.png",
+      "sha256": "b2d5746e496900620e7f630bc7d64fe498557868276ca76152fe213aa0493eb0",
+      "type": "characters",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/characters/出海AI短片2_制作包/人物设定图/C08_绿衣船员_上半身与三视图.png",
+      "sha256": "8a8410211c03ec5a7e56de4e1d1e0aef6280199b38e601ae892a180f83168f6a",
+      "type": "characters",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S01_晴日岩礁海滩.png",
+      "sha256": "5c9c35e55319675bff04a9363d8858dfc278f61abf460505ab1782bc71fdb155",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S02_近岸浅海海底.png",
+      "sha256": "349fb69677cca6d0688ffb30d9c48c3c9d0f9a56253fa017742463580358dbc3",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S03_停船海湾岸边.png",
+      "sha256": "162e2a6d74d00459c73a4f59bbb8c4484613e2f9f06de653c3c8ea3b2444c04c",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S04_开阔海面_晴日.png",
+      "sha256": "797cfdcc315504263035ca8f27ef4c1a5b13c55762e59ce6b9bfbeda7d326120",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S04B_开阔海面_阴云.png",
+      "sha256": "f77acf74c892c589d4dc3706526bae05b58bfc4f54031ad5d052778a62b111fc",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S05_魔鬼海域_风暴.png",
+      "sha256": "ff46a6d91838114fc28417fff3292974be79d9e5b3df801983b4a0483633516f",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S06_追击渔船作业甲板.png",
+      "sha256": "2d88c78e187884ad422b5e22b226b49042e44bbba76f3b722f0e11eb16e026db",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S07_主角小船驾驶位.png",
+      "sha256": "042edae64bce274d0f6070817d8436a1943e54334f457f597333db3c25569856",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/scenes/出海AI短片2_制作包/场景资产/S08_主角小船捕鱼甲板.png",
+      "sha256": "87d62cd733fee9fd88b4d64d4521d57c9ad199bd5fffbc235e0e26bd19baade0",
+      "type": "scenes",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/船只资产/B01_岸边开放式木质小船.png",
+      "sha256": "f78dc18c2530038d0d7723ee659ccd477d808f8967156d25abb135a33bd4962a",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/船只资产/B02_主角海上动力小船.png",
+      "sha256": "43f0e3dbbadafc0dab3992616c5bc89801ce78158e09576f9bcc1f1c88fe99a9",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/船只资产/B03_对手追击旧渔船.png",
+      "sha256": "84fb59ec3a95592040c36a196447fdf4ffec82024e8850ef6995b2c4d60ffa88",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/道具资产/D01_方形金属蟹笼_空满两态.png",
+      "sha256": "426e9039ffdf68dfcd89c54af9cd459fd2735017b7d4a27a8a0ae25fdcab4ca2",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/道具资产/D02_圆柱金属蟹笼_空满两态.png",
+      "sha256": "66ccde2a0808406c9c81340ef7dced2188c6e7f292e48b3b37979f83b33182e7",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/道具资产/D03_盘绳提笼索及捕鱼网.png",
+      "sha256": "a91909004cbf9856a33793e849e7af2ea8aa987cf1788323a52eac0ee0740a35",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/道具资产/D04_绿色吊坠船钥匙及饵料瓶.png",
+      "sha256": "74242812d7d717f3f6b6fa912b4af40f4f568463d6a5a8ca9fed8266f2ae09bb",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/道具资产/D05_肩包及人物配饰.png",
+      "sha256": "2836a4b286feca2652b8c7ca34061acbe946f0bc30408d2025fec6ee838e23a3",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/道具资产/D06_作业手套扣具及装备包.png",
+      "sha256": "579855e928b0bc6f944f4c5a05342c5209a5fc89aaed258612f8bb465459b83d",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/鱼获资产/AN01_金色蟹与蟹群.png",
+      "sha256": "aa342eefecc4cab10f7b8c3cd5e805e1d99d6059f0ff22fdf8b18980608ac56b",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/props/出海AI短片2_制作包/鱼获资产/AN02_银金色鱼获.png",
+      "sha256": "d018ee66da00376752aa21010db9223f368cb99a5a73fabea23c8b3111c4a96a",
+      "type": "props",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/storyboards/出海AI短片2_制作包/分镜提示词.md",
+      "sha256": "35695bf7728141cf0ff5fa48e6d25ced0b58995fb3144a460c81d2307bb3df80",
+      "type": "storyboards",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/mysterious-pendant/assets/script/出海AI短片2_制作包/01_中文剧本.md",
+      "sha256": "984b19490fbed6e4a6f680d696fd0e5e3352548c1018667857108422028d31e6",
+      "type": "script",
+      "project": "mysterious-pendant"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/characters/国内短片_七声呸_制作包/资产/人物三视图/C01_银发女孩_日常装.png",
+      "sha256": "877dd8ef60a26b170123e2bf348924dfa6c15ff4a190288c8bf678a3126085e2",
+      "type": "characters",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/characters/国内短片_七声呸_制作包/资产/人物三视图/C02_男子_日常装.png",
+      "sha256": "ec2d310437ff8cc32832b0255f3de441ea38440535d8c98f8936df96d486ea39",
+      "type": "characters",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/characters/国内短片_七声呸_制作包/资产/人物三视图/C03_男子_战术装.png",
+      "sha256": "b88565779ac17df2b246b5c47812e20f32f5b0c3f5c7fe38a25ac06da77c6fbe",
+      "type": "characters",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/characters/国内短片_七声呸_制作包/资产/人物三视图/C04_战术装友人.png",
+      "sha256": "91011cf9d33d33a72a280ec1a9717b40fbda0f971fdfcc8b0eeaeeefcba1b4ce",
+      "type": "characters",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/characters/国内短片_七声呸_制作包/资产/人物三视图/C05_银发女孩_婚纱装.png",
+      "sha256": "4e960522076770a3dde8c617c00f27add8c932065490b92b6b5c5d65d9aa52e1",
+      "type": "characters",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/scenes/国内短片_七声呸_制作包/资产/场景设定图/S01_阴天湿街空景.png",
+      "sha256": "3f823a2ac0f8ea455db78477c2ad7d128472e7088776b7209e2b609a9499646b",
+      "type": "scenes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/scenes/国内短片_七声呸_制作包/资产/场景设定图/S02_临海露台_向海.png",
+      "sha256": "6ba7488ca1dd204a774f4af9a16350642d78840c1777c09d8a3459e5ac04853d",
+      "type": "scenes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/scenes/国内短片_七声呸_制作包/资产/场景设定图/S03_临海露台_向宅邸.png",
+      "sha256": "6c1b768ff7acb7453d08eb8c7824e058dfba105a408a738ab8358f306e3de059",
+      "type": "scenes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/scenes/国内短片_七声呸_制作包/资产/场景设定图/S04_月夜海湾.png",
+      "sha256": "267a5e41dd461c61e1c1cc94f0dc680e07fe02636d351ed09b2cf9d6c986d02f",
+      "type": "scenes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/props/国内短片_七声呸_制作包/资产/道具设定图/P01_黑白双人电动车.png",
+      "sha256": "5c2f8d13254fee5d48bfbfdc51733fb0fa7120e36189c13ba314d4b995fd84bd",
+      "type": "props",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/props/国内短片_七声呸_制作包/资产/道具设定图/P03_手机婚礼照片.png",
+      "sha256": "3d5e0ec33fb0fffada961f47a1a8cc9417c390ed9b14497583cf74cbb0fdb44b",
+      "type": "props",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/props/国内短片_七声呸_制作包/资产/道具设定图/PB01_露台关键道具.png",
+      "sha256": "0b27e8335ff4915edab913278c98d8b34090480a6351c9fc3144093f29ac1e7e",
+      "type": "props",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/电动车_背面.jpg",
+      "sha256": "d58da6b7369793885137128f07c1c9e69cd5926b42618bfed4d8d3ae9e6789b8",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/电动车_侧面.jpg",
+      "sha256": "453a786a158460f1c149e78255a3673524b007fac476cbba5f7ac3d1e36f484b",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/灰云天空.jpg",
+      "sha256": "df93084f0ac6d05aeefcf24c2a69fb8ac0983e653b4fc5d17549c9d970ad5974",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/婚礼照片_手机.jpg",
+      "sha256": "1ed1f8a3f5cad0905c8a28d099cfde0465c82dbfeb0472951cb5d671b4004160",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/婚礼照片_桌面.jpg",
+      "sha256": "31566ef46a7f6b81aaca9b11eb20bc5b6cdf72bddc79bc25da0749e59156576c",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/露台_全景.jpg",
+      "sha256": "11d819b1518f0e5301af98ca32b69d00afb0c0214be880e20413aa4cfebcc441",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/露台_宅邸.jpg",
+      "sha256": "0cd76246a18f5ea4e3695746d0aafdfe7d64ca326f126bfaca939ecece925820",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/露台_座椅与桌.jpg",
+      "sha256": "c2aa2144b7a3f007ee3f02bf8fd29d72a080251890ef1169c69e47059a5ff207",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/男主_举杯.jpg",
+      "sha256": "d083ca679c942a91984a59f24a376a887f7895e2b054e99fe07324124bc5dbe0",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/男子_日常背面.jpg",
+      "sha256": "fb0ab367e6007fdb9b2a3d92b8ec72d71fccb82c6ae5089d533a496e29f53f69",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/男子_日常侧身.jpg",
+      "sha256": "6cd39ef922e4a60f53ea67411c34238c7b4af2ddf44402d47415cab24cff0a43",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/男子_日常正脸.jpg",
+      "sha256": "a186377a890165f393964ad948a706a6db0b496772d8c191185aa1ad82affc8f",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/男子_战术正脸.jpg",
+      "sha256": "e99b4d68fa654cc5e2c4273fcff0662b14ceb8307325564f09a5132daee45420",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/男子_战术坐姿.jpg",
+      "sha256": "8a4c50ef556537f7dc1a638f3bfcde2a33357308dac36af9274d7102270e06ed",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/女孩_背面.jpg",
+      "sha256": "d58da6b7369793885137128f07c1c9e69cd5926b42618bfed4d8d3ae9e6789b8",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/女孩_日常全身局部.jpg",
+      "sha256": "79143996e88d14d613192b090cadcd5656905c616b75617b3a4d470361f70fa7",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/女孩_正脸.jpg",
+      "sha256": "1be517ce4987abb731339e6fbb33d6aa08fca067984b340e17023a5fd34cd671",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/啤酒杯与灯.jpg",
+      "sha256": "b97391a4f4485147d85a44dc4cc527a3e2770d5bdfe4be8cd1367d5ecdf9f712",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/手机自拍界面.jpg",
+      "sha256": "ab62e229d164ff24d05617d8ab826b669ec896e2a43cd4de91119de030913f18",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/水珠后视镜.jpg",
+      "sha256": "fbe6430125200ad1bbd201e389f23a80bef447b4f7cd336e4242d6dca9a1c007",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/阴天街道.jpg",
+      "sha256": "117106da9f3ff5da6ea4ed601ade7460d9e184f14e1b30e15bb82bf3839632ed",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/友人_正脸.jpg",
+      "sha256": "3d15cc3e123e0ebacb9f42076b24acdbe7289d1869a2f0f8df0ed47640960864",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/友人_坐姿.jpg",
+      "sha256": "05f4a0c5bd9615ff7629fdedb74ffe0d0de842a3dd81e4436817ad861d2c723d",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/圆月云层.jpg",
+      "sha256": "cc3dfe95bba09e4e2e877bdb5272b0a3c4f4fbd005dcb834993442c697c4a1f4",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/参考图/月夜海湾.jpg",
+      "sha256": "4efca51867ac5eca0ab859e53f1fcc3fa5d195bad69fa7a20a83d2e50222805c",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/keyframes/国内短片_七声呸_制作包/资产/界面/U01_相机叠层.svg",
+      "sha256": "2cbc21298cb7ea7e0c9f78c0f5f4a295116c06a22793212ca36b3f5590de9457",
+      "type": "keyframes",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/storyboards/国内短片_七声呸_制作包/剧本/七声呸_分镜提示词.md",
+      "sha256": "2fb0df2db2abc2e539820cbb018a15d2f0e7c7f48516ced85b8414c1a00d3b1d",
+      "type": "storyboards",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/audio/国内短片_七声呸_制作包/声音/声音设计.md",
+      "sha256": "9d44f3b806d2dd6912f4a33cfcf61a6c000fab6a95aec5dc49794a6f59f46c6f",
+      "type": "audio",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/audio/国内短片_七声呸_制作包/声音/视频声音参考.m4a",
+      "sha256": "8c047dc95cd6c4d5ba45abea54b46e17749853683be1f8b5799d679e8cc55dc8",
+      "type": "audio",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/audio/国内短片_七声呸_制作包/声音/尾声核对_52秒起.m4a",
+      "sha256": "2d083dc10ef1f9ecce6d52b729d9ef019825b5be3260bba32e130f6659b8485d",
+      "type": "audio",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/script/国内短片_七声呸_制作包/剧本/七声呸_文学剧本.md",
+      "sha256": "5917094f9c835ea646fcdd6fac56eae41c3a53278edf9566f945d50be6c175a4",
+      "type": "script",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/script/国内短片_七声呸_制作包/资产/界面/T01_字幕样式说明.md",
+      "sha256": "1ed0ea20e3e62238000340b053c2dc48b7d6ca42aa7f70972b859f282a3f23d3",
+      "type": "script",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/script/国内短片_七声呸_制作包/资产/资产清单.md",
+      "sha256": "eeabff258f532f086120d5bb6ceee1d3dacdb87a626d2dc01a054d5eeadca3e7",
+      "type": "script",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/seven-pei/assets/script/国内短片_七声呸_制作包/资产/资产提示词.md",
+      "sha256": "ca8cdc5e6a89a0d1dd3944c257057ce18917c1152de4fb343412ba8504762fe4",
+      "type": "script",
+      "project": "seven-pei"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/characters/国内短剧2_琉璃盏_制作包/资产/动物设定图/A01_黑白猫.png",
+      "sha256": "6f5d89a238aed47e77c269b5c7fe1823c4b8a47726e64134babf9984719dcd85",
+      "type": "characters",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/characters/国内短剧2_琉璃盏_制作包/资产/人物三视图/C01_黑衣剑客_上半身与三视图.png",
+      "sha256": "85d391e264252847326a87ef1d6b6d04dd41147dc6c56b69a4c2448c601e5267",
+      "type": "characters",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/characters/国内短剧2_琉璃盏_制作包/资产/人物三视图/C02_小女孩_上半身与三视图.png",
+      "sha256": "d06aae6a135e42db43a3bf87486afed3636d7460a9253dd42d54b8e75f36023a",
+      "type": "characters",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/characters/国内短剧2_琉璃盏_制作包/资产/人物三视图/C03_母亲_上半身与三视图.png",
+      "sha256": "df31c61122da87b73c784e067308afb8199c7bdbbaaa2b868e1e4770978f47a4",
+      "type": "characters",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/characters/国内短剧2_琉璃盏_制作包/资产/人物三视图/C04_白面客_上半身与三视图.png",
+      "sha256": "858c11e7b7cb3b99fdd1b6b15c128a5f3df641853135679197df8ffc368284b1",
+      "type": "characters",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/characters/国内短剧2_琉璃盏_制作包/资产/人物三视图/C05_蓝面客_上半身与三视图.png",
+      "sha256": "b3b93c7556e7547a2b34d8c96e46a34dce92cef043648b6e07ce6bf9f7cad60c",
+      "type": "characters",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/characters/国内短剧2_琉璃盏_制作包/资产/人物三视图/C06_红面客_上半身与三视图.png",
+      "sha256": "bf3c8217abdfef2b4b99eb1cffb13d90eacc8d096cb9d60e9cc9eb0c1fdbbe59",
+      "type": "characters",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/scenes/国内短剧2_琉璃盏_制作包/资产/场景设定图/S01_雾山荒径.png",
+      "sha256": "e70c56326236349b911013aeedd76f056370559933fbbcba06fb7ca3524f7e90",
+      "type": "scenes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/scenes/国内短剧2_琉璃盏_制作包/资产/场景设定图/S02_雨镇街巷.png",
+      "sha256": "af41ce71e1b9e8fcca96fb0dcf8e27290586fb7ba1aae18306df44655d210c1a",
+      "type": "scenes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/scenes/国内短剧2_琉璃盏_制作包/资产/场景设定图/S03_古玩店内.png",
+      "sha256": "8e27464cde3add617a956d83cd28f6ed3f89a525f587f4ea2c3ea6b8a166a2e3",
+      "type": "scenes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/scenes/国内短剧2_琉璃盏_制作包/资产/场景设定图/S04_寝居暖室.png",
+      "sha256": "029a7353a51bde3bb3ffab07fad2f0b38bce8fc5095de405d2b3b6ee5e85c14b",
+      "type": "scenes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/scenes/国内短剧2_琉璃盏_制作包/资产/场景设定图/S05_室内山水异境.png",
+      "sha256": "6debcec9e1ea6e93de76b3f1b0d9304801f29a7ac2518275f4c7bb2a980d7780",
+      "type": "scenes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/scenes/国内短剧2_琉璃盏_制作包/资产/场景设定图/S06_异境庭院.png",
+      "sha256": "04b69cc9fdf0a6ceaee74d14ddde3341d4b51b6df109c5311da0d3c8715f8951",
+      "type": "scenes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/props/国内短剧2_琉璃盏_制作包/资产/道具设定图/PD01_兵器与铜铃设定.png",
+      "sha256": "d6dc7defa5525d6a583bb48d1e8e3cc0dacd819b28e6cd2fc2d4881eb13e578c",
+      "type": "props",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/props/国内短剧2_琉璃盏_制作包/资产/道具设定图/PD02_灯具与炉火设定.png",
+      "sha256": "defa231d6012664111cde5be64a47f3969465952739f1950a691c373e97306d6",
+      "type": "props",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/白面客_背面.jpg",
+      "sha256": "364ce160994a8d1faf22b3ccb4bc320274dae09f22ebf6121375fed291bca86e",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/白面客_全身.jpg",
+      "sha256": "d15bc49567a8aede805fef8bea1e6137974972213165349e7711812bd0ed0d4f",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/白面客_正脸.jpg",
+      "sha256": "c8cd116af2c77f267c3aaffda7c3f8b76589c816f7519a8bc560796caea1f497",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/白面客黑烟.jpg",
+      "sha256": "4cd634e6cc16dd37ec06f36208568c3d55016664ef4cd69ce58fa180536fc8ba",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/窗边古剑.jpg",
+      "sha256": "de453df71569dd692109ebbe084af6b484ae1f9381185c6b30e253f5759c86f6",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/古玩店_全景.jpg",
+      "sha256": "8c84be3d6d5b6ad954136f10dd2dd7dce8221490fd86de7406ef101b038d4b50",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/黑白猫_全身.jpg",
+      "sha256": "9c0de9edcbcd7cf6de398aeaeb6986f83e746f9e31ba460120a81c3f5f67ac9d",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/黑白猫_正脸.jpg",
+      "sha256": "6a9e32c70333311936b9542796f13cbd8c698a720c010c458e91f96f003ccd6d",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/红面客_全身.jpg",
+      "sha256": "8d584fee6316643eb9ba46aeb6cad16c6d08cee63299321daecede1d09dabdd9",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/红面客_室内.jpg",
+      "sha256": "0d911e838028e3da5b3f79709d66dca8a0504516c0888894ee1fbf86441c8e03",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/红面客_正脸.jpg",
+      "sha256": "8e51a47ac32a4b6b7d1cbb14970d791b567e5e70446c0871075eef277f5c133b",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/剑客_背面.jpg",
+      "sha256": "c31040437bc5e05181369813d7d783bf85042caf3b65d1d49c4b58bc42f0be82",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/剑客_全身.jpg",
+      "sha256": "94267f980413e9701c57fe551185ba3669f56cb5a7aaec3a3ec3306c33905bf2",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/剑客_正脸.jpg",
+      "sha256": "d34b44454eaee2b8cc484b3afdd577d1ec1e807e024ebc7919a8856e8f40a088",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/金光琉璃盏.jpg",
+      "sha256": "b4e44f11790b0bb9f328f29cb5475170c143a0331faf94591a81eeffc286f9e3",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/蓝面客_全身.jpg",
+      "sha256": "8d584fee6316643eb9ba46aeb6cad16c6d08cee63299321daecede1d09dabdd9",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/蓝面客_室内.jpg",
+      "sha256": "3f06a935c84bd782ca4dfb431267de1cded16a451fc967faa2851f48753f28c3",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/蓝面客_正脸.jpg",
+      "sha256": "739e8f33bf2a4e1b106908441462075f703a21fd84466439d4e71aafa45ae68c",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/母亲_全身.jpg",
+      "sha256": "4ba691446aa5f308edf3b3808d6835e93a41457a675e6d745bc2e05179ac3b37",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/母亲_正脸.jpg",
+      "sha256": "6490f31736504fe240a91ae19afaf2f523d9509c315343d97592c0ef7bcf39ca",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/木桶与街摊.jpg",
+      "sha256": "99519cb75347726bc47bfe0d8ecb60bfd2f59cbc0dde39eb3f1a0cc5276a3022",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/女孩_全身.jpg",
+      "sha256": "deb24666e6bf014655700c528c92bb55192e27ec9be4cc0a3677ad0bd1511447",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/女孩_睡眠.jpg",
+      "sha256": "c5845a9c2ee3794f5d0f306283484ba739417088203926c5fbb9199a9e53c9b0",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/女孩_正脸.jpg",
+      "sha256": "4a77544dcfbeb1374fe1d630557fb128bb96eb316f3bd2b05f8a0b772a87a523",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/暖室_全景.jpg",
+      "sha256": "4ba691446aa5f308edf3b3808d6835e93a41457a675e6d745bc2e05179ac3b37",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/佩剑与护手.jpg",
+      "sha256": "5fb4119f171b0ef078008a499e71a0f48bee832ff636e4d1a4b002f4b67ab7c8",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/片名.jpg",
+      "sha256": "dca9f125c512fbbb03e2fe2ad341e6464fba7ea49bd94519389e5ed819233088",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/浅色布靴.jpg",
+      "sha256": "3bdc334dc966750a7513d81553356d54e79518ef1f2a6dcc34373ad842012e28",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/三人倒地.jpg",
+      "sha256": "8519ac0e0344d41f87b47cc1e92b3eb2246ba7ae2fd49602955290b5511825ac",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/山路_全景.jpg",
+      "sha256": "da22c1342efb9d418dc43eafca0039fba91fdb3042aeab9587e87cff8af9bf33",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/兽首.jpg",
+      "sha256": "8017a11bfea1b3f48342b83492c6a6cd678b6fdafa7f2642a09edf5737d1a294",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/水壶与炉.jpg",
+      "sha256": "ca909304108fd6da9e0ab3e60d93e31b666a13165ed25c526ad9f2cc55eed83d",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/铜铃.jpg",
+      "sha256": "105ef214be37d92fbee43369a98e13cfde64184b8aad22e4961b3a35d02ec51c",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/卧房_全景.jpg",
+      "sha256": "39c060d6153205d22a391551ebd7ba714feb961623a2106468c694aea98d709f",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/屋顶_全景.jpg",
+      "sha256": "231bcd32027715d23e7cedaded52152e4fb2c86ac4df4933e7bbc4c61edb1a4d",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/檐下灯笼.jpg",
+      "sha256": "b13f45826008492e5bb9a5c9dafe46aa0e8cb666a3e44b9309e78da773d46256",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/异境_山峰.jpg",
+      "sha256": "a75bc97b7c314f9022fd8491a0383d08ae4feeaaa210200022ea838976d32597",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/异境_庭院.jpg",
+      "sha256": "2e006fb00ea141068ddfb3b7c0f8d4fc09bc1404d1df639920e920c95f910446",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/雨巷_全景.jpg",
+      "sha256": "1380ea7d890089873936d5b840148d4ea4a67f67f02cc58aa6e43ddb474b9f5e",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/雨镇拱桥.jpg",
+      "sha256": "5a16538e5707970c815776377d878a14d334e12f1fadc59cab46a08b6fc648e6",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/keyframes/国内短剧2_琉璃盏_制作包/资产/参考图/烛台.jpg",
+      "sha256": "1aabd0327085ba6a446fd370014ebcabcbd896fe94e49e1a59ce6fe45c07b992",
+      "type": "keyframes",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/storyboards/国内短剧2_琉璃盏_制作包/剧本/琉璃盏分镜提示词.md",
+      "sha256": "370fb5aefb9729facb17ebfa0bf0243e6437b2169548426ae7e6455979bc6927",
+      "type": "storyboards",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/audio/国内短剧2_琉璃盏_制作包/声音/01_对白与独白核对表.md",
+      "sha256": "0276888a1da73b189581a9fd8e29da4823530d90404b9cf198884ecfe1297bc5",
+      "type": "audio",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/audio/国内短剧2_琉璃盏_制作包/声音/剑客片尾片段.m4a",
+      "sha256": "493d298d785347652737fd3b5d6ef90a3a6e2777ac0a4109c5a16c6fe95d4555",
+      "type": "audio",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/audio/国内短剧2_琉璃盏_制作包/声音/母女片尾片段.m4a",
+      "sha256": "1bea8ebb189bc270c1f74917fecf0d4f59848bf589fcc43cb85de2047a7139b0",
+      "type": "audio",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/audio/国内短剧2_琉璃盏_制作包/声音/完整音轨.m4a",
+      "sha256": "e47c28208be9f013fcf9acb36089f2a719046c4f315dd84b24c318b450e895e9",
+      "type": "audio",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/script/国内短剧2_琉璃盏_制作包/剧本/01_剧本.md",
+      "sha256": "1229d0315874087247e0748be35a2361bbb1f903bf16aba511ddc55b3172200c",
+      "type": "script",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/script/国内短剧2_琉璃盏_制作包/资产/01_资产清单.md",
+      "sha256": "dc0639bdaf28a75468c297a6ad87f5fe8695d06951439f0671be72a265846967",
+      "type": "script",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/script/国内短剧2_琉璃盏_制作包/资产/02_资产提示词.md",
+      "sha256": "7d148e649b5b3ae657a8c7c17025733662b05802cc5d6b9b599516099b1cf0a4",
+      "type": "script",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/liuli-lamp/assets/script/国内短剧2_琉璃盏_制作包/资产/03_连续性与复用.md",
+      "sha256": "9ca846b23b3e1c58524a3a83473b8168e121d364da6aa80d4f170ae05dabcad5",
+      "type": "script",
+      "project": "liuli-lamp"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/characters/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/人物三视图/C01_剑侠_雕花重甲.png",
+      "sha256": "31432625d2fdcfc9ecfc4e2ed6fab495b63c445ebba1a3cb9adf0b57d730e791",
+      "type": "characters",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/characters/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/人物三视图/C02_剑侠_长袍轻甲.png",
+      "sha256": "0f2e6c2346a5b8375b46fc4eb8c0dd7c67aa43b42af3cb916d1aa747a90f98e6",
+      "type": "characters",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/characters/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/人物三视图/C03_剑侠_冠饰礼袍.png",
+      "sha256": "3b09da137c84bfb330c82ba2f5b4ac74b9df2da4284fa8a8787d290ebd1f28c1",
+      "type": "characters",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/characters/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/人物三视图/C04_剑侠_冠饰战袍.png",
+      "sha256": "0ef5a8639a395acc36897c64bd95b6d41943c66ee0acc983f144bd5ca50521f1",
+      "type": "characters",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/scenes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/场景设定图/S01_夜色宫阙展示背景.png",
+      "sha256": "6de86e1bc8a6fb77fb6611acad4aee9b180d73c2938346248bedde61eb773029",
+      "type": "scenes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/scenes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/场景设定图/S02_风雪山崖.png",
+      "sha256": "723a558523dffe313499b327f18166ae57c90f5b710932fb548298a19bf83038",
+      "type": "scenes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/scenes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/场景设定图/S03_阴云裂石高台.png",
+      "sha256": "7cb82cf9950a04b53be1078db5eb5f4194da6b289ed83de12be4147eabffec03",
+      "type": "scenes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/scenes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/场景设定图/S04_殿前圆形石坛.png",
+      "sha256": "22148a787928a315ff9df8f7ba5a55f27ddb2b984cc127a054686bd1177add68",
+      "type": "scenes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/scenes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/场景设定图/S05_暮色亭台废墟.png",
+      "sha256": "20405f7bbbbfe6e499246f22a2e76a70fc9682bcf73f6cd556f79bbf077f2925",
+      "type": "scenes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/props/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/兵器设定图/P01_蓝纹阔刃长剑.png",
+      "sha256": "8f8c9a4603b4955a2c56335ae5be76eaa2c2f6af1a362e9205560bc734e9a400",
+      "type": "props",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/冠饰_半身.jpg",
+      "sha256": "ec6e906f8c337746a87166ec6c2bdddbe2de9c307c3562973936b39ba3b37218",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/冠饰_全身.jpg",
+      "sha256": "9b37bd0f063db674a1a7492f13fc826a7376d2a581c48ac535b7f752b44af5c0",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/广场_全景.jpg",
+      "sha256": "bf1560437a238caaa3b52537c46741cf3bcad13051a1daee10e72f32cb0f7424",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/剑侠_面部.jpg",
+      "sha256": "e68da39a9a3966593ce0983b389f03c3d5c519d079096b9af017a3897ed9ca0f",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/剑侠_手部.jpg",
+      "sha256": "cbdf5b92492f57dbbb0706fea726f84a9af3c0419fd94d690f606e08aa012d9f",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/剑侠_眼神.jpg",
+      "sha256": "4e456cd64806c7ee0d07a1a9d7cbb71a24ef98b378d88d7fe8af3f6b6a402275",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/金色阵圈.jpg",
+      "sha256": "12899532595bc7296e1604f257cb393801e3579919af5ee116c3d7821cf5ee0d",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/蓝光_细节.jpg",
+      "sha256": "a0857f9cc8d209dea6204ab4e25d47dd56a1427aeb0dcbd4659b11cbe91ff310",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/暮色_废墟.jpg",
+      "sha256": "7270b2597fa488e4fa1c0103be6692f6ae25a8bda183e7cb268fc859a23a6286",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/轻甲_持剑.jpg",
+      "sha256": "4949ea35e56facc410daa9eb5bc8340c8771434023957c4f83fde39270e47338",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/轻甲_挥斩.jpg",
+      "sha256": "19a32537f41de6f4f7b80cfc24c50b2e3c41bdf26314478b1d195cbdd20252a2",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/轻甲_全身.jpg",
+      "sha256": "11880a2ec0d8ad9604406546d36589ca160abdae88a2f58e258a31f59e12d781",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/雪崖_背影.jpg",
+      "sha256": "bd8747359801189d815e1d5ee9306302fbc1eb9d2b39f4db92831278eecf2c55",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/长剑_全貌.jpg",
+      "sha256": "b9a7e48c87a7da7d080e7ca9cba718bdc3d467eca50aec2291666fae1271a425",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/长剑_握柄.jpg",
+      "sha256": "14f99513fc3803630dd906e94a9cedce31edd710c2baa717d9efece316a51bc4",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/长剑_蓄能.jpg",
+      "sha256": "ceea099c8c64d67f6d17ce7b062a2e716e98798f933c52481f70958e8dcbeab0",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/重甲_背面.jpg",
+      "sha256": "5b8030ee970da2cff67c3ba3268deadf84915f45e8a963e83200d2c313bc35e5",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/重甲_侧面.jpg",
+      "sha256": "7955b4a4468b5f082c87d88c4184dadc8438813fe0fa3fe4086af859ef5d1caa",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/重甲_全身.jpg",
+      "sha256": "9a0c2a973dbfcf1f85c4731947213457753593effdb724f7cc6b9f226b1a4e1b",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/参考图/重甲_胸甲.jpg",
+      "sha256": "cb3e5497adc00097c8581bda3493f894a12346fbde09297d274e9c1f1b3b1044",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/keyframes/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/资产/光效设定图/VB01_技能光效设定板.png",
+      "sha256": "bdf11cef6e4f127f812dddb35993ab9e3bb7a935ab07fa3492cbcf96386d487f",
+      "type": "keyframes",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/storyboards/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/剧本/东方剑侠分镜提示词.md",
+      "sha256": "502b4863ed58f17bffe25a85f73bee02cedf09eed14a6d5238c5e9ffb4e52570",
+      "type": "storyboards",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/audio/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/声音/01_声音与人声说明.md",
+      "sha256": "3183c2d28e091b223641a53b9222d16b363098edfbf2b4e88613dcee6e102e19",
+      "type": "audio",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/audio/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/声音/人声核对片段_前26秒.m4a",
+      "sha256": "e65282d46a41e4fd6670e936794d25bf81727dab01dad86192cd1a9b64d983bc",
+      "type": "audio",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/audio/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/声音/完整音轨.m4a",
+      "sha256": "6288f3ce057d901ce1211f470db996417b63d853bf274fc6043b92a7362270d9",
+      "type": "audio",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eastern-swordsman/assets/script/东方剑侠_剧本分镜资产包/东方剑侠_游戏角色短片_制作包/剧本/01_剧本.md",
+      "sha256": "d0b553a7879632c0849e31cfa7a5b071199a238a8fd879b8e3a1a90f7627bc04",
+      "type": "script",
+      "project": "eastern-swordsman"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/characters/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/人物三视图/C01_短发爪形角色_基础形态.png",
+      "sha256": "6a03d6e4345de934426514303a68a4a3fbf4eda377cf0a6fed14d6d49400a3a8",
+      "type": "characters",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/characters/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/人物三视图/C02_短发爪形角色_Fera形态.png",
+      "sha256": "21c79d9c4e924ae22a09d2e461b41eba9c5dff179a0b90e683e489425dc835b8",
+      "type": "characters",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/characters/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/人物三视图/C03_黑发触须角色.png",
+      "sha256": "a0545a4a0758956afbf998ca02696a74c9490144055bfb23a6480bc972baf7af",
+      "type": "characters",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/characters/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/人物三视图/C04_白发蝶翼角色.png",
+      "sha256": "401c028a5bbbe59da62ef56a544eb596d5d2719d371f0f3aa4c6e53ae9b78b7d",
+      "type": "characters",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/characters/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/人物三视图/C05_黑发独角角色.png",
+      "sha256": "f1fec09d59a23d1708ef3351e1f2198f7c98315c8547096cf10d494ba8ea93d0",
+      "type": "characters",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/characters/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/人物三视图/C06_白发骑士.png",
+      "sha256": "31aa150063cc78357651a2d55b1058fa2402b9c9a3dfae1c56cdbe735ae1c368",
+      "type": "characters",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/scenes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/场景/SB01_三种梦境_合并场景板.png",
+      "sha256": "f12d8fa43097179f45050b218b6412d1271bd9b4711aabae66dfbe47fa83ea11",
+      "type": "scenes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/props/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/道具与生物/P01_白马与城堡构件_共用资产板.png",
+      "sha256": "d6c9dbdab46d23129aa99d3fd4a2c61cc3a34ac111db38baafab96724fc2d33d",
+      "type": "props",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/props/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/道具与生物/P02_梦境核心与光刃_共用资产板.png",
+      "sha256": "6f0119120ce9328ba77a1c77bf5ef20349fed1d07cb471b7aedfb9955cb0373a",
+      "type": "props",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/界面/U01_场景与形态菜单.svg",
+      "sha256": "c584b96d28b09a320f058b1f027070600bdffc480e47348747682cff3fc86512",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/界面/U02_战斗界面.svg",
+      "sha256": "36f50b1601d34d37a100a5611ad7427c08dc557a425bbe16c6b523ca0cdc4450",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/界面/U03_技能名称.svg",
+      "sha256": "58af59914a9e03d93656b13793fef80bdd6b4ab9e018749ce63da3a7ebc80d0e",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/C01.jpg",
+      "sha256": "77e19f2975ff3fce0b1128bdbe0317a218b0aed0664965fa61342387da768a08",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/C02.jpg",
+      "sha256": "d227cd52e57c19a70cbf7a4724399923c352e2aeb1ec6845b0fc1074b17b57bf",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/C03.jpg",
+      "sha256": "c1fa42f64ffa072e7476199b8eef64d049afad0269626fb45c3411272a019d2f",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/C04.jpg",
+      "sha256": "80620ea33ff6868f2cd5ef4cab582c1c3fadef4eba1d4f31bcad603bc033eeea",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/C05.jpg",
+      "sha256": "7952b291a57ec94b4d96df0df65c4b88a775d51377c4700a2d6316ef108a83bb",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/C06.jpg",
+      "sha256": "d3a9184a05c08e0eadbb95f795d5fb34d76e01518571df09d566db004689b20d",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/P01.jpg",
+      "sha256": "8f6e338ee54259e8ee4afce2332177d2577a8359c156683a380f8ab63895dccc",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/P02.jpg",
+      "sha256": "f123f497bd8710cfd1578c7a8a6cae06e965ce6ed45f9594fa2c273cc1aa61b4",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/S01.jpg",
+      "sha256": "77e19f2975ff3fce0b1128bdbe0317a218b0aed0664965fa61342387da768a08",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/S02.jpg",
+      "sha256": "9d5b4364163f381c0cc51f4d5c43edb4b4ff097c4865a33a0cf51dbb73d494df",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/S03.jpg",
+      "sha256": "1aa2aea01c73d740f54e011ddfa6f641b3b1a881fc1fe01c940b01057b23ac3c",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/keyframes/月蚀梦域_互动游戏_剧本分镜固定资产/固定资产/原生参考/UI.jpg",
+      "sha256": "58ea40531823991215931479e5c8ce45def2d94eb20e723b2b934cacdae2f930",
+      "type": "keyframes",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/storyboards/月蚀梦域_互动游戏_剧本分镜固定资产/分镜提示词.md",
+      "sha256": "8a41ab9d307d60ef0fab3a5de7bc9792b9ba2ccbc24b3d53bb04a6f886ba282c",
+      "type": "storyboards",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/eclipse-dream/assets/script/月蚀梦域_互动游戏_剧本分镜固定资产/剧本.md",
+      "sha256": "a3264aa47aef5c0f152934e5d25ef15e0f29237f7d7c9f41ad595b201f8bb3fe",
+      "type": "script",
+      "project": "eclipse-dream"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/characters/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/人物三视图/C01_森林探险家_波利.png",
+      "sha256": "3644faa35151443e98fc41bb87c68003ea71e286ddad0512a8e3df64f98ba61e",
+      "type": "characters",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/characters/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/人物三视图/C02_狐狸.png",
+      "sha256": "49762c3101579fd1e4c075ff472f8c40151c4eddc6700de8357478e7995335d4",
+      "type": "characters",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/characters/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/人物三视图/C03_拳击袋鼠.png",
+      "sha256": "0d50a01ac106cd1833baf242e9fd76095b7fad34a834155f71a90a8522c5805b",
+      "type": "characters",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/characters/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/人物三视图/C04_斑纹巨蛇.png",
+      "sha256": "6c865609d1397ed357cc790cd0e22c03889cf4749b5ded73c8b2744d53f07969",
+      "type": "characters",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/characters/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/人物三视图/C05_鳄鱼首领_克罗科.png",
+      "sha256": "8a34210aefd8fef417233fe7052f90f9dc2b0840cc195ecf098d58c56a0392e2",
+      "type": "characters",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/scenes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/场景/S01_林间树洞小屋.png",
+      "sha256": "c1a734e34a7626d1efd2bb6849cf4bad826d12e03870cc47eb21766e585cf9c3",
+      "type": "scenes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/scenes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/场景/S02_紫光狐狸森林.png",
+      "sha256": "3a6d3752ac866395d389a8ed266d5cf070d569810bfa79b3912246a6b4dff192",
+      "type": "scenes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/scenes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/场景/S04_藤蔓遗迹丛林.png",
+      "sha256": "46fec8903bdc95c4d5835e710ea1d53297e3d9397a3345db90088c1aa925145d",
+      "type": "scenes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/scenes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/场景/S05_熔岩首领大厅.png",
+      "sha256": "f276abefa5302971ad8786d07c7ebd3a46fe973dfd4e6f053bd05a13b33aba5b",
+      "type": "scenes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/scenes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/场景/S06_冒险地图底图.png",
+      "sha256": "bdd271e26836d831cbd88658c8978e37d245bdc33d88d678839929aba1248af5",
+      "type": "scenes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/scenes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/场景/SB03_袋鼠草原_拳击擂台.png",
+      "sha256": "782a98d3e2b49d826e4a4cf118722a770b56ca95b426e32cb9cadb851153fae6",
+      "type": "scenes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/props/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/道具/P01_探险与解谜道具.png",
+      "sha256": "4e0c5c64c4cc64eb997d4aaa52d259d9d2b77be2bf8d55f029c977f25cb5f11b",
+      "type": "props",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/props/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/道具/P02_拳击与战斗道具.png",
+      "sha256": "d8818d5b07fd286624320bf6b7b00fd5860bd7c644181b7c9f5997283fee7be8",
+      "type": "props",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/keyframes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/界面/U01_标题与下载.svg",
+      "sha256": "9c314218dda52f71d2e97672a9200f3434e09e98fe226c5d0f41ee357a1a2704",
+      "type": "keyframes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/keyframes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/界面/U02_冒险地图.svg",
+      "sha256": "a086452d9ddf07b2600d9f5cf233d85aef3d3897d11846db41bf0c1321f885ed",
+      "type": "keyframes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/keyframes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/界面/U03_狐狸关卡结算.svg",
+      "sha256": "9f091a6126e6d3d860910f189a52f3ec41cbcf7bda8c79c5a23106059ed67e4d",
+      "type": "keyframes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/keyframes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/界面/U04_袋鼠对话框.svg",
+      "sha256": "2425addff12a461fd3a898f78d9d76ef48baba2802d5cfbd0704aee6352cd345",
+      "type": "keyframes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/keyframes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/界面/U05_拳击战斗界面.svg",
+      "sha256": "892b4e8cd73e495647d08eea34647a173f59fe0754449e5af58300fd4fee6856",
+      "type": "keyframes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/keyframes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/界面/U06_蛇形解谜界面.svg",
+      "sha256": "5f66918fddbaca3dfdd996d354e85073d63a5bbfd1bb551384de7f847948e4e6",
+      "type": "keyframes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/keyframes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/界面/U07_鳄鱼战斗界面.svg",
+      "sha256": "59231d9dd6644c89084628a004853cd2e027a892d77051ee1928c23317f72b96",
+      "type": "keyframes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/keyframes/波利大冒险_游戏推广_剧本分镜固定资产/固定资产/界面/U08_鳄鱼最终结算.svg",
+      "sha256": "9aad246cd01fa1fe8a730eea1e5e1f08a3e270a437c2994c1a08c5a78eb1667a",
+      "type": "keyframes",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/01.jpg",
+      "sha256": "5ce82f81f7c20c71e0648d5cc8ab03bca780147f5f391e72358c3db2e116c59c",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/02.jpg",
+      "sha256": "1ca09cf3c5fe0c56feb364cd7dcc57c4b18294ec241817b28caaedd2ff473389",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/03.jpg",
+      "sha256": "265e6b7c311bb4be60965eec817b94dc1da96886ad5603320ec28c826c933e23",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/04.jpg",
+      "sha256": "094d11c71cb916db3b1f75d2d9890b89ae1c794ee547902d83ce98951bbbcb41",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/05.jpg",
+      "sha256": "17caf6590f74e71a34067458299a7db0207b1a1a207eb180cb4fb6d2e18fa122",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/06.jpg",
+      "sha256": "5c0723317a4eb95f0b490dd28bc0152471417fe32d7fb0e5956b797bcf407dda",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/07.jpg",
+      "sha256": "7d12d0eb349a163608a206e009ff8ec3273f5dedddb9ca505e075fb975bb00a6",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/08.jpg",
+      "sha256": "40a622c6475488e2fd1ff53a7b3ae6d41c90750b20637295f5650a0a36e024d1",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/09.jpg",
+      "sha256": "09009e3eff6002eb3a609740aedb5f92a585a60291b99966c32f4923a1328345",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/10.jpg",
+      "sha256": "f432c5faf9f28082a75a04fa03ca58dce515c28ab4d70f95b71f5dfc67f07925",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/11.jpg",
+      "sha256": "347ba4f4309a1466624d97e6384b18ae85e506f63d9be6a84f0135cda829366c",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/12.jpg",
+      "sha256": "2ac195a3a20cec3b35bd29bc0e9a0919f7bf5af2f43bd26452a9ba3a4f99604a",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/13.jpg",
+      "sha256": "2dbfe3bd08cd8ce6d717f2cd553f2a2f939eeb99988bb85cf80d9b7b0784f5f0",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/14.jpg",
+      "sha256": "757caf35040ae2ccf0502e610911dec1e2c3e4138e6f345005f5a6d259009829",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/15.jpg",
+      "sha256": "78c86b89b249c3f23707234d4f18c93f560c2767bce3877586920319644e734b",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/16.jpg",
+      "sha256": "58d91ce8f8598a948879c0e557ce4b01a666e8ceac40ce9982f1ab2714f9666c",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/17.jpg",
+      "sha256": "590e8e2f4544036204992221c6a2496cd40d17cb5aa628d3a2b57d879bc4f01d",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/18.jpg",
+      "sha256": "f6a6926a68e589564036e7b8192fa3d52d4a237eb21e9c047d59cc654e4e0a34",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/19.jpg",
+      "sha256": "02ce9b40a9c4d8c6e5b6bab8fd65d512d1cf900a8869c039b54ad830963e60b5",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/20.jpg",
+      "sha256": "c9e87225fcc3e7b04dcc21050d730b804819ae15792fe0138cc3dd1b92fab9cc",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/21.jpg",
+      "sha256": "fc1ca21bc425f8f5cbb40303110cd1f896172273d4007db0d378774e3eaf3ed5",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/22.jpg",
+      "sha256": "e7983b9c68043f17c5e36f089ed19fcdcbdd43046b02bba8634a43b4571f1d3d",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/23.jpg",
+      "sha256": "b5ed2e864929f06e1d323732d5a7193ca9a23760281567e5de234342ddffb565",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/24.jpg",
+      "sha256": "5e4363674ef31f16cbf73657a18a1cd8b0d364284585629cf87ac1633001cdda",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/25.jpg",
+      "sha256": "02eebdb0d55326800f9b4401067a428244ba79f01f2f4d8e52774f5ba839ed76",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/26.jpg",
+      "sha256": "a9bf3be37e0f32836bb4d8fdfe93a604c1fa59e7d1eb8b4edad36b343efb1da9",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/27.jpg",
+      "sha256": "8ab501be5dad90a86cdec7f2f39ac0a1fc5736aa916cd597288b737443b16d0c",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/28.jpg",
+      "sha256": "b6936d3fe0b50a86ae294053124864a6a74a49bb0a811363930cebf8a13f5e26",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/29.jpg",
+      "sha256": "d9e7f89181f0d65af4ec6c3ab87493d4ed51f7e2967c95d32c95329924f2b9d6",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/30.jpg",
+      "sha256": "118d218776b2b9e44eafc8be7b0eff17f7ab7eb5541c6c9a48f89e20638a2875",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/31.jpg",
+      "sha256": "0f87d1af05112a56928f535de7cf6a06fdab9257b814f5e8b39541f6430fba36",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜参考/32.jpg",
+      "sha256": "d67ce92d84eaaf17487a3e31a310e32a35b33edde7fdcedc2b5bc90f287a6a27",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/storyboards/波利大冒险_游戏推广_剧本分镜固定资产/分镜提示词.md",
+      "sha256": "8567f57e0606a6102b5c61dde28b22b79304d4b687dde30639842cffa0406bf1",
+      "type": "storyboards",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/poli-adventure/assets/script/波利大冒险_游戏推广_剧本分镜固定资产/剧本.md",
+      "sha256": "9403c1d707cf0537c3a24d71146b8d73b8f355457875d478cc14239b7117e1b8",
+      "type": "script",
+      "project": "poli-adventure"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T01_F008_F009.jpg",
+      "sha256": "a42bf54ecdfb20736824af38dbfe3eaacf7a71a680ffd9e705bf01f500ad1acd",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T02_F028_F029.jpg",
+      "sha256": "8849c8ae086cef91fbf9cb848aa5118bd99692b95ceaa2bfd6b2cab39445bbe9",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T03_F043_F044.jpg",
+      "sha256": "2c7202b4e2d0dc439e87fe13a65a97777ef5571653846fc89cb24630100cfa23",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T04_F061_F062.jpg",
+      "sha256": "f87042b459aeddbc8889b85d1fa86e0233be02ad5dfc4e10360c09f1bd16a083",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T05_F072_F073.jpg",
+      "sha256": "8d7090459a4e7a361314de52cd44348f9eb03a2d56b5f5fb4fd4ab94afbff884",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T06_F090_F091.jpg",
+      "sha256": "bb41e6cf868f1e35aa4a50cc0645b3bfa1ee3810163e040a32410a9e3748e1e6",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T07_F098_F099.jpg",
+      "sha256": "14db88373bd4a7d1c2827315b4e71e9c95e968441cfe87d4a2ef8938783bb46b",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T08_F108_F109.jpg",
+      "sha256": "6045ffe30ec63266520bbe54c71fe76d99d02afbe3e4054e670f7f7cc7b3123a",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T09_F115_F116.jpg",
+      "sha256": "b26a2a403332266f2ad5b33bcf483163e042a9d2c78caf8cfcad2edd5651dcfc",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T10_F124_F125.jpg",
+      "sha256": "94606fe38fc66a65c63b37878a30d82d30f173ba692128d0d9981c903e042e24",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T11_F148_F149.jpg",
+      "sha256": "da4f1aba2d84cfcbce2b05010a7871c4ac07569ff5c649c4a02f621534dade73",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/转场对照/T12_F178_F179.jpg",
+      "sha256": "1b1cde77fdcd3060f1fa541dc1ffdb655d2df398fbdcfa2b28189a2a88af87f0",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F000_0.000s.png",
+      "sha256": "bacadf4233275e9f51de23aa001c6e4d4f4f9e7b8a329d905a37907ecfc01199",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F004_0.133s.png",
+      "sha256": "cbecba107514f70eeb559e8b62f584fa67ec142a593460e2327636dcee00ece1",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F008_0.267s.png",
+      "sha256": "e2b3d87b30278f7a32211c6eedc2eeeea3db62877d0dae8ec55e2df035399fe5",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F009_0.300s.png",
+      "sha256": "6e67cf46074d610381beced6ddd255c636ceb6e91c0d672c8c8dcdb28c51c91d",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F023_0.767s.png",
+      "sha256": "5c520c190bebfd4c063c20490dcbed214592ac63f125053e72e2af977086d6b6",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F028_0.933s.png",
+      "sha256": "e106e41f5a3784b0207afc76ff4d2d47e5e40b7d27047cf17b45b532e19a41da",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F029_0.967s.png",
+      "sha256": "3d81380030603d1446d46deaa77d069428ec7e3f8558cf4edc5d0462a3eb5ac1",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F039_1.300s.png",
+      "sha256": "b3f29e8b04724ea40707bdf37c701a1c8ee3a409ce1216b51e7a339c9cd50014",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F043_1.433s.png",
+      "sha256": "0027ba5727560232e27da82a6ddc1b3b7c428aac85d276326c7a6f41fd46a757",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F044_1.467s.png",
+      "sha256": "97c0870f2862498b81e50fc572120c01c5086e59e239f77eb2b40aabd75ff4d6",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F054_1.800s.png",
+      "sha256": "d5fca414a4e74c4aee1f6abe07aa618c9df08a085d44fcdd0d1892ff7f1f1b9d",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F061_2.033s.png",
+      "sha256": "a15f2d2705ace1f5f21d18a02bfb2688f0910ade90a3d39ace8271c31c78457a",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F062_2.067s.png",
+      "sha256": "755a7698b3d830d8eccbb532e3af114ba1b4da965f8e9792f60de1c1da14be9e",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F067_2.233s.png",
+      "sha256": "fe24417e6727e42f249d768ca3bc7d3f23922d1fa8326f54da4ccb3198655735",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F072_2.400s.png",
+      "sha256": "5fe6a8328754670e2b18923c7d2fd8bc616299115b9f4a66de4a572c4a45557e",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F073_2.433s.png",
+      "sha256": "a47251e980f752c1aec72c100e49d5993daa0388db235ff91d3267c1a030ad4c",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F083_2.767s.png",
+      "sha256": "fdd76b393d83a011d381ad413586da984fdb3ec7667829b0eeeff3aaff3bdc5b",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F090_3.000s.png",
+      "sha256": "812c784fc569711e6502111036f90793bb3fb41c84b8c598f37519f7798348a3",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F091_3.033s.png",
+      "sha256": "f6bcdd8991f5340542fe9bb3614a8e55d48f29c2f250bbd8d2463b35fc850300",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F096_3.200s.png",
+      "sha256": "9bbd1a61ec5c791cb8b4e3cec615e16a5b23152668e21ba151bc0364afedde09",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F098_3.267s.png",
+      "sha256": "dede47903b917c8f972426f63ac99a69d18eb606572c70cd2d99680e8d23629a",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F099_3.300s.png",
+      "sha256": "0e1e12b2ca6bcd24f8a25f474b9d104ece97e5a2cb448ef24b5f9bf9e28512a1",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F104_3.467s.png",
+      "sha256": "5b2c231888fb5bffa98bb68a60af8e6e1ff921c2696ab2575b7ae06f1ee6c97a",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F108_3.600s.png",
+      "sha256": "2d3f41a8bb023e775c17ecb243f711a8b19094c542115928ff9b2e9d52fc9ebf",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F109_3.633s.png",
+      "sha256": "bed48cbb1d1ca9d439e312c144a7ac869d86e68d15110bddd7e2074de6926806",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F112_3.733s.png",
+      "sha256": "933ce92aed8bcb5260fd54a20f9aac1c52175443d41f3ce0acca449f83fe1340",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F115_3.833s.png",
+      "sha256": "f8038748e41c767e9bb31ac53a836aab2da08d921207a458b1d27288e5327339",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F116_3.867s.png",
+      "sha256": "09055e329b3cd0b1906c649b91fd93545fff9e770daf631f0cecfae7353b0e65",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F120_4.000s.png",
+      "sha256": "050fad3a7f40e08fd37791d38a647b5043c3d7161c7e5cf159fe227b93861aca",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F124_4.133s.png",
+      "sha256": "9646ab18b47bb106b029c28a6b814148367813bb8bc4ae5d2b241a7f8fbb70dd",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F125_4.167s.png",
+      "sha256": "d1aee784caae94b9f14a40e2ecfdd9fa69c3f37277439d5007053e38b97c5df4",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F141_4.700s.png",
+      "sha256": "502d0ab53195cbfcdb33127cf6b1e4eb153d8d6e134265a703126ebb1c4abe07",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F148_4.933s.png",
+      "sha256": "bdb3a569040b12a54bca6fff841a6ae4831ea2ecea8f2c8121d8f792aa32b6c5",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F149_4.967s.png",
+      "sha256": "8ffed63ca875c7016b56d6be43b4cb257fc4f9b83df95ffddf8f6db7bdd557be",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F167_5.567s.png",
+      "sha256": "a4f9b1cf854def599b11450f6f21e4207935cfa13803aed655e48e59c1094c04",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F178_5.933s.png",
+      "sha256": "7ca60ae666b0e85f8984103853c6ecf15d4ec5dcb618d824167008fa90d5d186",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F179_5.967s.png",
+      "sha256": "c4830d1e91fa66444dcfafff894b3d49670b464d251e2ee053ab7c5b2627e6ce",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F190_6.333s.png",
+      "sha256": "da8b84d826045ddbcf65d96121938ded334b7070ce03b4e3a1aaa8db77b170b7",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/keyframes/变装_剧本分镜资产包/资产参考/F196_6.533s.png",
+      "sha256": "33a3bcc45ec83edd6bf3678b251bd43275d64f5c0ff89dcc4e456bdc66e0b63d",
+      "type": "keyframes",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/storyboards/变装_剧本分镜资产包/分镜提示词.md",
+      "sha256": "7da6002b4a84c9302de8198277146aaef44313bd7eba2c827d1bedfbbc91cc3b",
+      "type": "storyboards",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/audio/变装_剧本分镜资产包/声音参考/原片完整音轨.m4a",
+      "sha256": "7cccbff078eb84078b12449757125f4fe840dd650eb3f5d22a216c48134c3d61",
+      "type": "audio",
+      "project": "transformation"
+    },
+    {
+      "src": "/works/video/transformation/assets/script/变装_剧本分镜资产包/01_剧本.md",
+      "sha256": "8f5118cb237b0f0933e4aafd0ed005364a2ea211f2f333b6fdf0e807eb49907c",
+      "type": "script",
+      "project": "transformation"
+    }
+  ],
+  "coverFiles": [
+    {
+      "project": "tvc-ad",
+      "title": "TVC广告",
+      "video": "/works/video/tvc-ad/video.mp4",
+      "cover": "/works/video/tvc-ad/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 8.501,
+      "width": 1280,
+      "height": 722,
+      "bytes": 218056,
+      "sha256": "36e4cf5d21a604723122fa5c8e59ff131094c9e241232ec3b9e9e660152be2be"
+    },
+    {
+      "project": "probiotic-ad",
+      "title": "益生菌胶囊广告视频",
+      "video": "/works/video/probiotic-ad/video.mp4",
+      "cover": "/works/video/probiotic-ad/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 2.882,
+      "width": 740,
+      "height": 1196,
+      "bytes": 149964,
+      "sha256": "958314c8afcaf4e250c67375ff0a7557596d5b988db8a4b9ca6056b8c6538447"
+    },
+    {
+      "project": "lingmai-restart",
+      "title": "灵脉重启第一集",
+      "video": "/works/video/lingmai-restart/episodes/episode-01.mp4",
+      "cover": "/works/video/lingmai-restart/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 53.103,
+      "width": 1280,
+      "height": 721,
+      "bytes": 199141,
+      "sha256": "6c395efdb0a797c3dbe5c30b321584fbdfb5513dbc8668324157492b5852e842"
+    },
+    {
+      "project": "lingmai-restart",
+      "title": "灵脉重启第二集",
+      "video": "/works/video/lingmai-restart/episodes/episode-02.mp4",
+      "cover": "/works/video/lingmai-restart/episodes/episode-02-cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 5.924,
+      "width": 1280,
+      "height": 720,
+      "bytes": 103140,
+      "sha256": "7c4c83da47475f66758e3290fb84d05690edcfefa66f8c79f7142f3b5f13900c"
+    },
+    {
+      "project": "deal-with-devil",
+      "title": "和魔鬼的交易第三集",
+      "video": "/works/video/deal-with-devil/episodes/episode-03.mp4",
+      "cover": "/works/video/deal-with-devil/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 28.918,
+      "width": 686,
+      "height": 1222,
+      "bytes": 96812,
+      "sha256": "e0b5e226fcb0a9a356b90560639e4ad1c6809fc84f9722693d92a241f90303aa"
+    },
+    {
+      "project": "deal-with-devil",
+      "title": "和魔鬼的交易第四集",
+      "video": "/works/video/deal-with-devil/episodes/episode-04.mp4",
+      "cover": "/works/video/deal-with-devil/episodes/episode-04-cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 12.283,
+      "width": 684,
+      "height": 1224,
+      "bytes": 175540,
+      "sha256": "f5818531c55aa377bffdfc269dd7824dada1b14dda22eee0c36d5e6943c0461f"
+    },
+    {
+      "project": "she-from-east",
+      "title": "她来自东方第三集",
+      "video": "/works/video/she-from-east/episodes/episode-03.mp4",
+      "cover": "/works/video/she-from-east/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 9.681,
+      "width": 1280,
+      "height": 732,
+      "bytes": 179980,
+      "sha256": "a0621fdc87c1e0cff40c86ab9e8d47865dd26f414d8eb4793251b030a35ca1ad"
+    },
+    {
+      "project": "she-from-east",
+      "title": "她来自东方第四集",
+      "video": "/works/video/she-from-east/episodes/episode-04.mp4",
+      "cover": "/works/video/she-from-east/episodes/episode-04-cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 26.827,
+      "width": 1280,
+      "height": 732,
+      "bytes": 216537,
+      "sha256": "0c5573671a9f26ef835809899964fe4c5b94b34979379b8d982142a5937385f5"
+    },
+    {
+      "project": "changnian-fuqing",
+      "title": "长念缚卿第二集",
+      "video": "/works/video/changnian-fuqing/episodes/episode-02.mp4",
+      "cover": "/works/video/changnian-fuqing/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 49.979,
+      "width": 1280,
+      "height": 729,
+      "bytes": 189427,
+      "sha256": "1eb5c13eb0c5ecf15500a19054bde8b5a245693476f4ebd025d707e5954c18bf"
+    },
+    {
+      "project": "changnian-fuqing",
+      "title": "长念缚卿第三集",
+      "video": "/works/video/changnian-fuqing/episodes/episode-03.mp4",
+      "cover": "/works/video/changnian-fuqing/episodes/episode-03-cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 43.769,
+      "width": 1280,
+      "height": 726,
+      "bytes": 245441,
+      "sha256": "dbfd360441060a67b251c237d1ae0952f9d7532fc22aa1071a4680b34e989204"
+    },
+    {
+      "project": "wolf-awakening",
+      "title": "狼族血脉：王者觉醒",
+      "video": "/works/video/wolf-awakening/video.mp4",
+      "cover": "/works/video/wolf-awakening/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 21.717,
+      "width": 1040,
+      "height": 1194,
+      "bytes": 181515,
+      "sha256": "1bc110165986e8f6c16c5eb268523c3ecc4c1f6f1559ea747112c383e7e91a11"
+    },
+    {
+      "project": "mysterious-pendant",
+      "title": "神秘吊坠",
+      "video": "/works/video/mysterious-pendant/video.mp4",
+      "cover": "/works/video/mysterious-pendant/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 87.492,
+      "width": 744,
+      "height": 1192,
+      "bytes": 173634,
+      "sha256": "ea7247603322fdfe831e55479b058470a42ad812e5abe4780dde9819cc7847fc"
+    },
+    {
+      "project": "seven-pei",
+      "title": "七声呸",
+      "video": "/works/video/seven-pei/video.mp4",
+      "cover": "/works/video/seven-pei/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 9.645,
+      "width": 1280,
+      "height": 725,
+      "bytes": 169831,
+      "sha256": "dd2c6f1ff432cf4eff08e5c14c2f3bf21ed360c904af378889e7d2b0e89feeda"
+    },
+    {
+      "project": "liuli-lamp",
+      "title": "琉璃盏",
+      "video": "/works/video/liuli-lamp/video.mp4",
+      "cover": "/works/video/liuli-lamp/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 65.198,
+      "width": 1280,
+      "height": 546,
+      "bytes": 99860,
+      "sha256": "92891237f4a10a8dedf678c86f83eae457991478d72e5ed5c08d9c2b8c1aed51"
+    },
+    {
+      "project": "eastern-swordsman",
+      "title": "东方剑侠游戏角色短片",
+      "video": "/works/video/eastern-swordsman/video.mp4",
+      "cover": "/works/video/eastern-swordsman/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 29.756,
+      "width": 1280,
+      "height": 733,
+      "bytes": 141914,
+      "sha256": "56247c432e641f7f62f747b8c543c5d0c7cf7db2d196ffe32a23f1ba491180c3"
+    },
+    {
+      "project": "eclipse-dream",
+      "title": "月蚀梦域互动游戏视频",
+      "video": "/works/video/eclipse-dream/video.mp4",
+      "cover": "/works/video/eclipse-dream/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 18.289,
+      "width": 1280,
+      "height": 721,
+      "bytes": 210713,
+      "sha256": "b280ae65ffa969157b82a1b5e490917eb2a70d44ff51042faf0b4b1442602694"
+    },
+    {
+      "project": "poli-adventure",
+      "title": "波利大冒险",
+      "video": "/works/video/poli-adventure/video.mp4",
+      "cover": "/works/video/poli-adventure/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 11.775,
+      "width": 528,
+      "height": 950,
+      "bytes": 118097,
+      "sha256": "dcdb5e5e60f4830220617c646c9696c343c8647056a2bbea5bcee7c5e4bedcf9"
+    },
+    {
+      "project": "transformation",
+      "title": "变装",
+      "video": "/works/video/transformation/video.mp4",
+      "cover": "/works/video/transformation/cover.jpg",
+      "coverType": "auto",
+      "method": "visual-review",
+      "timeSeconds": 2.234,
+      "width": 692,
+      "height": 1230,
+      "bytes": 185174,
+      "sha256": "8fbcde6fae08c1f6b8644e5b1d88212442dfafb0115d3cd1062050bdac4e5c4c"
+    }
+  ]
+}

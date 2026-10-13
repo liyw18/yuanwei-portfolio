@@ -1,0 +1,8 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import ts from 'typescript';
+async function load(name){const source=await readFile(new URL(`../src/data/${name}.ts`,import.meta.url),'utf8');return import('data:text/javascript;base64,'+Buffer.from(ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText).toString('base64'));}
+const {designCases,selectedDesignCaseIds,selectedVideoCaseSlugs}=await load('design-cases');const {designArtworks}=await load('design-artworks');const {videos}=await load('videos');const {profile}=await load('profile');
+test('selected portfolio cases are fixed, reference real artwork and preserve unconfirmed credits',()=>{assert.deepEqual(selectedDesignCaseIds,['xiaoqi-brand-visual','xiaoqi-ip-visual']);assert.deepEqual(selectedVideoCaseSlugs,['tvc-ad','lingmai-restart']);for(const c of designCases){assert(c.artworkIds.every(id=>designArtworks.some(a=>a.id===id)));assert.equal(c.role.length,0);assert.equal(c.tools.length,0);}for(const slug of selectedVideoCaseSlugs)assert(videos.find(v=>v.slug===slug)?.video);});
+test('confirmed personal identity and tools remain distinct from exploratory software and project tools',()=>{assert.equal(profile.name,'李元伟');assert.equal(profile.title,'AIGC视频制作师 / 视觉设计');assert.deepEqual(profile.tools,['PS','AI','GPT','Seedance 2.5']);assert(!profile.tools.some(tool=>profile.exploringTools.includes(tool)));assert.equal(profile.experience.length,3);assert.equal(profile.education.length,2);assert.equal(profile.email,'1129672958@qq.com');assert.equal(profile.phone,'15910396984');assert(profile.education.every(entry=>entry.degree==='')); assert(videos.every(v=>v.tags.length>0&&v.caseStudy));});

@@ -1,0 +1,4 @@
+'use client';
+import VideoAssets from '@/components/VideoAssets';
+const images=Array.from({length:8},(_,i)=>`/works/design/poster/poster-${String(i+1).padStart(2,'0')}.png`);
+export default function QA(){return <section className="section listing"><h1>制作档案开发测试</h1><p>以下复用已有Design素材验证布局，不是导入视频资产。</p><VideoAssets groups={[{id:'characters',type:'characters',title:'角色测试',description:'',images,order:1},{id:'storyboards',type:'storyboards',title:'分镜测试',description:'',images,order:2},{id:'keyframes',type:'keyframes',title:'关键帧测试',description:'',images,order:3},{id:'script',type:'script',title:'文档测试',description:'',images:[],documents:[{id:'script',title:'开发测试文档',src:'/__qa_v22/archive-sample.md'}],order:4},{id:'audio',type:'audio',title:'音频错误处理测试',description:'',images:[],audio:[{id:'missing',title:'失效音频测试',src:'/__qa_v22/missing.mp3'}],order:5}]}/></section>}
