@@ -1,5 +1,5 @@
 'use client';
-import {useEffect,useRef,useState,MouseEvent} from 'react';
+import {useEffect,useRef,useState} from 'react';
 import {MediaImage} from './Works';
 export {VideoPlayer} from './VideoPlayer';
 
@@ -35,23 +35,6 @@ export function ContactActions({email}:{email:string}) {
   }}>{email?'复制邮箱':'邮箱待填写'}</button><span role="status" className="copy-status">{status}</span></div>;
 }
 export function ResumeDownload({url,label='下载简历 ↓'}:{url:string;label?:string}) {
-  const [pending,setPending]=useState(false);
-  const [status,setStatus]=useState('');
-  async function download(event:MouseEvent<HTMLAnchorElement>) {
-    event.preventDefault();if(pending)return;
-    setPending(true);setStatus('正在检查简历文件…');
-    const controller=new AbortController();const timeout=setTimeout(()=>controller.abort(),10000);
-    try {
-      const response=await fetch(url,{method:'HEAD',signal:controller.signal});
-      const mime=(response.headers.get('content-type')||'').toLowerCase();
-      const pathname=new URL(url,location.href).pathname;
-      if(!response.ok||!(mime.includes('application/pdf')||(mime.includes('application/octet-stream')&&/\.pdf$/i.test(pathname))))throw new Error('简历 PDF 暂不可用，请检查文件路径。');
-      const link=document.createElement('a');link.href=url;link.download=pathname.split('/').pop()||'resume.pdf';
-      document.body.append(link);link.click();link.remove();setStatus('已开始下载简历');
-    } catch {setStatus('简历 PDF 暂不可用，请检查文件路径或访问权限。');}
-    finally {clearTimeout(timeout);setPending(false);}
-  }
-  return <div className="resume-download">{url?<a className="button" href={url} download onClick={download} aria-disabled={pending}>{pending?'检查文件中…':label}</a>:<button className="button" disabled>{label}</button>}
-    <p className="muted" role="status">{url?status:'PDF 简历待提供，配置文件路径后启用下载。'}</p></div>;
+  return <div className="resume-download">{url?<a className="button" href={url} download="李元伟-个人简历.pdf">{label}</a>:<button className="button" disabled>{label}</button>}
+    <p className="muted" role="status">{url?'':'PDF 简历待提供，配置文件路径后启用下载。'}</p></div>;
 }
-

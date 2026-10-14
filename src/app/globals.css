@@ -65,8 +65,8 @@ nav a { min-height:44px; display:flex; align-items:center; justify-content:cente
 .player-poster .missing { height:100%; min-height:220px; }
 .player-body video { width:100%; min-height:220px; max-height:78svh; background:#000; }
 .player-body iframe { display:block; width:100%; border:0; aspect-ratio:16/9; min-height:220px; }
-.player-status { margin:0; padding:18px 22px; border-top:1px solid var(--line); color:#adbcd0; font-size:13px; line-height:1.8; background:#080e18; }
-.player-status a { margin-left:6px; color:#8abbff; text-decoration:underline; text-underline-offset:4px; }
+
+
 .video-description { gap:clamp(28px,6vw,90px); padding:42px 0 66px; }
 .video-description p { margin:18px 0 0; line-height:1.9; }
 .about-intro { grid-template-columns:minmax(0,1fr) minmax(0,1fr); align-items:start; padding:44px 0 64px; }
@@ -136,7 +136,7 @@ nav a { min-height:44px; display:flex; align-items:center; justify-content:cente
   .resume-entry { grid-template-columns:1fr; gap:12px; }
   .about-intro { padding:30px 0 44px; }
   .player { margin-top:30px; }
-  .player-status { padding:16px; font-size:12px; }
+
   .video-description { padding:32px 0 48px; }
   .lightbox { padding:64px 12px 16px; max-width:calc(100vw - 20px); }
   .lightbox .media-image img { height:calc(80svh - 140px); }
@@ -156,10 +156,10 @@ nav a { min-height:44px; display:flex; align-items:center; justify-content:cente
 .work-card.design:hover .work-visual img,.work-card.design:focus-visible .work-visual img{transform:none}
 
 /* Typography V2.3 */
-:root{--font-body:17px;--font-caption:14px;--font-section:40px}body{font-size:var(--font-body)}p{font-size:var(--font-body);line-height:1.8}button{font-size:14px}.section{padding-top:120px;padding-bottom:120px}.listing{padding-top:180px}.listing>h1{font-size:120px;line-height:1.05}.hero h1{font-size:clamp(68px,8.333vw,120px)}h2,.section-heading h2{font-size:clamp(32px,3.4vw,48px)}h3{font-size:24px}.eyebrow,.text-link,.muted small,.notice,.entry-time,.entry-role,.profile-title,.footer-bottom,.header-note,.discipline-strip,.scene-caption,.scroll-cue,.card-meta,.sample-label,.preview-unavailable{font-size:14px}.hero-copy p,.hero-copy p:first-child,.about-intro p,.skills p,.video-description p{font-size:17px}.hero-copy p span{font-size:14px}.hero-top>.eyebrow,.kicker{font-size:12px}.brand small{font-size:12px}.brand>span{font-size:12px}nav a{font-size:13px}.filters button,.filters button span{font-size:14px}.project-action small{font-size:12px}.detail-images button span,.lightbox-controls,.project-nav,.player-status,.copy-status{font-size:14px}.resume-section h2,.about-intro h2{font-size:32px}.resume-section{padding:60px 0}.contact-title{font-size:clamp(44px,7vw,100px)}.section-heading{margin-bottom:48px}.work-grid{gap:40px 32px}.detail-images button{border-radius:14px}.listing .intro{max-width:760px;font-size:18px}
+:root{--font-body:17px;--font-caption:14px;--font-section:40px}body{font-size:var(--font-body)}p{font-size:var(--font-body);line-height:1.8}button{font-size:14px}.section{padding-top:120px;padding-bottom:120px}.listing{padding-top:180px}.listing>h1{font-size:120px;line-height:1.05}.hero h1{font-size:clamp(68px,8.333vw,120px)}h2,.section-heading h2{font-size:clamp(32px,3.4vw,48px)}h3{font-size:24px}.eyebrow,.text-link,.muted small,.notice,.entry-time,.entry-role,.profile-title,.footer-bottom,.header-note,.discipline-strip,.scene-caption,.scroll-cue,.card-meta,.sample-label,.preview-unavailable{font-size:14px}.hero-copy p,.hero-copy p:first-child,.about-intro p,.skills p,.video-description p{font-size:17px}.hero-copy p span{font-size:14px}.hero-top>.eyebrow,.kicker{font-size:12px}.brand small{font-size:12px}.brand>span{font-size:12px}nav a{font-size:13px}.filters button,.filters button span{font-size:14px}.project-action small{font-size:12px}.detail-images button span,.lightbox-controls,.project-nav,.copy-status{font-size:14px}.resume-section h2,.about-intro h2{font-size:32px}.resume-section{padding:60px 0}.contact-title{font-size:clamp(44px,7vw,100px)}.section-heading{margin-bottom:48px}.work-grid{gap:40px 32px}.detail-images button{border-radius:14px}.listing .intro{max-width:760px;font-size:18px}
 @media(max-width:900px){.section{padding-top:80px;padding-bottom:80px}.listing{padding-top:170px}.listing>h1{font-size:clamp(56px,11vw,88px)}.hero h1{font-size:10vw}.brand small{font-size:10px}.hero-copy p{font-size:16px}}
 @media(max-width:580px){body{font-size:16px}p{font-size:16px}.section{padding-top:64px;padding-bottom:64px}.listing{padding-top:180px}.listing>h1,.about-page>h1{font-size:clamp(48px,12.5vw,68px)}.hero h1{font-size:13.4vw}.hero-copy p,.hero-copy p:first-child,.about-intro p,.skills p{font-size:16px}.hero-copy p span,.hero-top>.eyebrow,.kicker{font-size:12px}nav a{font-size:12px;padding-inline:8px}.filters button,.filters button span{font-size:13px}.section-heading h2{font-size:32px}.resume-section{padding:40px 0}.resume-section h2{font-size:28px}.footer-bottom,.text-link,.notice,.sample-label{font-size:13px}.discipline-strip{font-size:12px;gap:16px}.brand small{font-size:10px}.project-action small{font-size:12px}.header-note{display:none}}
-.detail>h2{font-size:32px}.player-status{font-size:14px}
+.detail>h2{font-size:32px}
 /* V3.0 content hierarchy */
 :root{--font-body:16px}body,p{font-size:16px}.section{padding-top:100px;padding-bottom:100px}.listing{padding-top:180px}.hero .hero-copy{max-width:390px}.hero .hero-copy h2{letter-spacing:-.02em}.hero-content{column-gap:48px}.section-heading h2{font-size:48px}.detail>.section-heading{margin-top:100px}
 @media(max-width:900px){.section{padding-top:80px;padding-bottom:80px}.listing{padding-top:170px}.hero .hero-copy{max-width:100%}}

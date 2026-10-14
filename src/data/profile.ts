@@ -16,7 +16,7 @@ export const profile:Profile = {
   positioning:['AI Visual Designer','AIGC Video Producer','AIGC Content Creator'],avatar:'/assets/about/portrait-blue.png',
   summary:['专注AIGC视频制作与视觉设计。','以设计、影像与AI技术作为创意表达的主要媒介。','作品覆盖品牌视觉、IP形象、广告、漫剧与游戏内容。','用真实成片、设计图与制作档案展示创作思路和视觉呈现。'],
   skillGroups:[{name:'Design',items:['Brand Design','VI','Poster','Banner','IP Design'],tools:['PS','AI']},{name:'AI Production',items:['AI Video','Storyboard','Character Design'],tools:['GPT','Seedance 2.5']},{name:'Motion',items:['TVC','Short Film','Animation'],tools:[]}],
-  email: '1129672958@qq.com', phone: '15910396984', location: 'Beijing', resume: '', wechat: '', bilibili: '', platforms: [] as {label:string;url:string}[],
+  email: '1129672958@qq.com', phone: '15910396984', location: 'Beijing', resume: '/resume/李元伟-个人简历.pdf', wechat: '', bilibili: '', platforms: [] as {label:string;url:string}[],
   skills: [{name:'视觉设计',description:'待填写：你的专业技能与擅长领域。'},{name:'影像创作',description:'待填写：制作流程与创作能力。'},{name:'创意表达',description:'待填写：常用工具与创作方法。'}],
   experience: [
     {time:'2025.02 - 2026.10',company:'北京慧墨金乌文化科技发展有限公司',position:'AIGC内容制作 / AI视觉设计',description:'负责AI内容生产流程搭建。参与AI剧集、短片、TVC广告、推广视频等内容创作。完成从策划、分镜、角色设计、视觉资产生成到视频后期制作的完整流程。'},

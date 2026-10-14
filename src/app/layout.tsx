@@ -1,6 +1,7 @@
 import type {Metadata} from 'next';
 import './globals.css';
 import './creative-theme.css';
+import './responsive.css';
 import {Shell} from '@/components/Shell';
 import {profile} from '@/data/profile';
 const siteTitle=`${profile.name} | AI Visual Designer | Creative Director Portfolio`;

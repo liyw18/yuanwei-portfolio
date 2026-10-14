@@ -45,7 +45,7 @@
 .education h3 { font-size:22px; }
 .education p { font-size:18px; margin:0; }
 .resume :global(.resume-download .muted) { font-size:16px; }
-.resume :global(button.button) { background:#237ce5; color:white; padding:16px 24px; border:0; border-radius:8px; font-size:16px; opacity:.65; }
+.resume :global(button.button),.resume :global(a.button) { background:#237ce5; color:white; padding:16px 24px; border:0; border-radius:8px; font-size:16px; opacity:.65; }
 .contactGrid { display:grid; grid-template-columns:1fr 1.5fr .8fr; gap:32px; margin:40px 0 24px; }
 .contactGrid span { display:block; font-size:18px; line-height:1.8; color:#82a7da; letter-spacing:.1em; margin-bottom:16px; }
 .contactGrid a,.contactGrid p { font-size:24px; line-height:1.8; overflow-wrap:anywhere; margin:0; }
