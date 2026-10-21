@@ -1,4 +1,5 @@
 'use client';
+import {assetUrl} from '@/lib/asset-url';
 import Link from 'next/link';
 import ProjectTags from './ProjectTags';
 import {useEffect, useState, useRef,type CSSProperties} from 'react';
@@ -12,7 +13,7 @@ function ImageAsset({src,alt,className=''}:{src:string;alt:string;className?:str
   const image=useRef<HTMLImageElement>(null);
   useEffect(()=>{if(image.current?.complete) setState(image.current.naturalWidth?'ready':'failed');},[]);
   return <div className={`media-image ${className}`} data-state={state} aria-busy={state==='loading'}>
-    {state==='failed'?<div className="missing" role="img" aria-label={`${alt}：图片暂不可用`}><span>图片暂不可用</span><small>请检查素材路径或添加作品图片</small></div>:<img ref={image} src={src} alt={alt} loading="lazy" decoding="async" onLoad={()=>setState('ready')} onError={()=>setState('failed')}/>}
+    {state==='failed'?<div className="missing" role="img" aria-label={`${alt}：图片暂不可用`}><span>图片暂不可用</span><small>请检查素材路径或添加作品图片</small></div>:<img ref={image} src={assetUrl(src)} alt={alt} loading="lazy" decoding="async" onLoad={()=>setState('ready')} onError={()=>setState('failed')}/>}
   </div>;
 }
 export function MediaImage(props:{src:string;alt:string;className?:string}) {
@@ -34,7 +35,7 @@ function PreviewVideo({src,onUnavailable,onStop}:{src:string;onUnavailable:()=>v
     observer.observe(element); document.addEventListener('visibilitychange',visibility); media.addEventListener('change',preference);
     return()=>{active=false; element.pause(); observer.disconnect(); document.removeEventListener('visibilitychange',visibility); media.removeEventListener('change',preference);};
   },[src,onUnavailable,onStop]);
-  return <video ref={ref} className={playing?'preview-playing':''} src={src} muted loop playsInline preload="none" aria-hidden="true" onPlaying={()=>setPlaying(true)} onError={onUnavailable}/>;
+  return <video ref={ref} className={playing?'preview-playing':''} src={assetUrl(src)} muted loop playsInline preload="none" aria-hidden="true" onPlaying={()=>setPlaying(true)} onError={onUnavailable}/>;
 }
 export function WorkCard({project,kind,href}:{project:DesignProject|VideoProject;kind:'design'|'video';href?:string}) {
   const [failedSource,setFailedSource]=useState('');

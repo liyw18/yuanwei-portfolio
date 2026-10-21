@@ -1,4 +1,5 @@
 'use client';
+import {assetUrl} from '@/lib/asset-url';
 import {useEffect,useRef,useState,type CSSProperties} from 'react';
 import {MediaImage} from './Works';
 import {bilibiliSource} from '@/lib/media';
@@ -50,5 +51,5 @@ function PlayerAsset({url,type,cover,width,height,aspectRatio,orientation}:Playe
   </div>;
 }
 export function VideoPlayer(props:PlayerProps) {
-  return <PlayerAsset key={`${props.type}:${props.url}`} {...props}/>;
+  return <PlayerAsset key={`${props.type}:${props.url}`} {...props} url={assetUrl(props.url)} cover={assetUrl(props.cover)}/>;
 }

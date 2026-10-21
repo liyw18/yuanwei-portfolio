@@ -1,4 +1,5 @@
 'use client';
+import {assetUrl} from '@/lib/asset-url';
 import {useEffect,useRef,useState} from 'react';
 import {MediaImage} from './Works';
 export {VideoPlayer} from './VideoPlayer';
@@ -35,6 +36,6 @@ export function ContactActions({email}:{email:string}) {
   }}>{email?'复制邮箱':'邮箱待填写'}</button><span role="status" className="copy-status">{status}</span></div>;
 }
 export function ResumeDownload({url,label='下载简历 ↓'}:{url:string;label?:string}) {
-  return <div className="resume-download">{url?<a className="button" href={url} download="李元伟-个人简历.pdf">{label}</a>:<button className="button" disabled>{label}</button>}
+  return <div className="resume-download">{url?<a className="button" href={assetUrl(url)} download="李元伟-个人简历.pdf">{label}</a>:<button className="button" disabled>{label}</button>}
     <p className="muted" role="status">{url?'':'PDF 简历待提供，配置文件路径后启用下载。'}</p></div>;
 }
