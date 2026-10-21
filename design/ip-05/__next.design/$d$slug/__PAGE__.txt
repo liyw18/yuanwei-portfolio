@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/yuanwei-portfolio/_next/static/chunks/1uadhkb0h0148.js"
+3:I[4121,["$2"],"Shell"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/yuanwei-portfolio/_next/static/chunks/15v8mlmxcrhfu.js"
+7:I[22016,["$2","$6"],""]
+10:I[31642,["$2","$6"],"Lightbox"]
+11:I[97367,["$2"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[97367,["$2"],"$15"]
+17:"MetadataBoundary"
+18:I[97367,["$2"],"$17"]
+:HL["/yuanwei-portfolio/_next/static/chunks/2cm31pma0_mmr.css","style"]
+:HL["/yuanwei-portfolio/_next/static/chunks/1_w5e4xot7qqv.css","style"]
+9:X
+c:X
+c:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"section listing detail HKozYW_detailGallery","children":[["$","$L7",null,{"className":"text-link","href":"/design","children":"← 返回全部设计作品"}],["$","h1",null,{"children":"IP形象设计 05"}],["$","p",null,{"className":"intro","children":["IP形象设计"," · ",1672," × ",941]}],["$","$L10",null,{"images":["/works/design/ip/ip-05.png"],"title":"IP形象设计 05"}],["$","nav",null,{"className":"project-nav","aria-label":"作品切换","children":[["$","$L7",null,{"href":"/design/ip-04","children":"← 上一作品"}],["$","$L7",null,{"href":"/design/ip-06","children":"下一作品 →"}]]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/yuanwei-portfolio/_next/static/chunks/1_w5e4xot7qqv.css","precedence":"next"}],["$","script","script-0",{"src":"/yuanwei-portfolio/_next/static/chunks/15v8mlmxcrhfu.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"ip-05","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
+a:[["children",{"s":"design","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yuanwei-portfolio/_next/static/chunks/2cm31pma0_mmr.css","precedence":"next"}],["$","script","script-0",{"src":"/yuanwei-portfolio/_next/static/chunks/1uadhkb0h0148.js","async":true}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","section",null,{"className":"section listing","children":[["$","h1",null,{"children":"404."}],["$","p",null,{"children":"项目不存在或已被移除。"}],["$","$L7",null,{"className":"button","href":"/","children":"返回首页 ↗"}]]}],[]]}]}]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"IP DESIGN | 李元伟"}],["$","meta","1",{"name":"description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}],["$","meta","2",{"name":"keywords","content":"李元伟,AI Visual Designer,AIGC视频制作师,Creative Director Portfolio,品牌视觉,IP,TVC,Storyboard"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"李元伟 | AI Visual Designer | Creative Director Portfolio"}],["$","meta","5",{"property":"og:description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}],["$","meta","6",{"property":"og:locale","content":"zh_CN"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"李元伟 | AI Visual Designer | Creative Director Portfolio"}],["$","meta","10",{"name":"twitter:description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$9"}},"a":"$@1a","u":"$@1b","b":"h-EDK9QxumXzFaszsksNK"}
+13:null
+9:300
+1b:true
+9:C
+1a:0
+e:"$undefined"
+b:"$undefined"
+8:"$undefined"
+19:"$undefined"
+14:"$undefined"

@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:"/yuanwei-portfolio/_next/static/chunks/1uadhkb0h0148.js"
+3:I[4121,["$2"],"Shell"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:I[22016,["$2"],""]
+a:"/yuanwei-portfolio/_next/static/chunks/28xlm4yi2piak.js"
+b:I[93962,["$2","$a"],"default"]
+c:I[97367,["$2"],"OutletBoundary"]
+d:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$2"],"$f"]
+12:"MetadataBoundary"
+13:I[97367,["$2"],"$12"]
+15:I[68027,["$2"],"default",1]
+:HL["/yuanwei-portfolio/_next/static/chunks/2cm31pma0_mmr.css","style"]
+:HL["/yuanwei-portfolio/_next/static/chunks/1_w5e4xot7qqv.css","style"]
+8:X
+9:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lb",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/yuanwei-portfolio/_next/static/chunks/1_w5e4xot7qqv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/yuanwei-portfolio/_next/static/chunks/28xlm4yi2piak.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":false,"v":null}}]]
+7:[["children",{"s":"design","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$8"},"c":"$Q9"}]]
+0:{"P":null,"c":["","design",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yuanwei-portfolio/_next/static/chunks/2cm31pma0_mmr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/yuanwei-portfolio/_next/static/chunks/1uadhkb0h0148.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section listing","children":[["$","h1",null,{"children":"404."}],["$","p",null,{"children":"项目不存在或已被移除。"}],["$","$L6",null,{"className":"button","href":"/","children":"返回首页 ↗"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":"$L14"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/yuanwei-portfolio/_next/static/chunks/2cm31pma0_mmr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"h-EDK9QxumXzFaszsksNK"}
+8:C
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+e:null
+14:[["$","title","0",{"children":"Design Archive | 李元伟"}],["$","meta","1",{"name":"description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}],["$","meta","2",{"name":"keywords","content":"李元伟,AI Visual Designer,AIGC视频制作师,Creative Director Portfolio,品牌视觉,IP,TVC,Storyboard"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"李元伟 | AI Visual Designer | Creative Director Portfolio"}],["$","meta","5",{"property":"og:description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}],["$","meta","6",{"property":"og:locale","content":"zh_CN"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"李元伟 | AI Visual Designer | Creative Director Portfolio"}],["$","meta","10",{"name":"twitter:description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}]]

@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:"/yuanwei-portfolio/_next/static/chunks/1uadhkb0h0148.js"
+3:I[4121,["$2"],"Shell"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/yuanwei-portfolio/_next/static/chunks/15v8mlmxcrhfu.js"
+7:I[22016,["$2","$6"],""]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$2"],"$10"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+16:I[68027,["$2"],"default",1]
+:HL["/yuanwei-portfolio/_next/static/chunks/2cm31pma0_mmr.css","style"]
+:HL["/yuanwei-portfolio/_next/static/chunks/1_w5e4xot7qqv.css","style"]
+9:X
+b:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lc",[["$","link","0",{"rel":"stylesheet","href":"/yuanwei-portfolio/_next/static/chunks/1_w5e4xot7qqv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/yuanwei-portfolio/_next/static/chunks/15v8mlmxcrhfu.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"vi-01","s":[]},"h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qb"}]]
+8:[["children",{"s":"design","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","design","vi-01",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/yuanwei-portfolio/_next/static/chunks/2cm31pma0_mmr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/yuanwei-portfolio/_next/static/chunks/1uadhkb0h0148.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"section listing","children":[["$","h1",null,{"children":"404."}],["$","p",null,{"children":"项目不存在或已被移除。"}],["$","$L7",null,{"className":"button","href":"/","children":"返回首页 ↗"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/yuanwei-portfolio/_next/static/chunks/2cm31pma0_mmr.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"h-EDK9QxumXzFaszsksNK"}
+17:I[31642,["$2","$6"],"Lightbox"]
+9:C
+c:["$","section",null,{"className":"section listing detail HKozYW_detailGallery","children":[["$","$L7",null,{"className":"text-link","href":"/design","children":"← 返回全部设计作品"}],["$","h1",null,{"children":"视觉识别设计 01"}],["$","p",null,{"className":"intro","children":["视觉识别设计"," · ",1672," × ",941]}],["$","$L17",null,{"images":["/works/design/vi/vi-01.png"],"title":"视觉识别设计 01"}],["$","nav",null,{"className":"project-nav","aria-label":"作品切换","children":[["$","$L7",null,{"href":"/design/vi-06","children":"← 上一作品"}],["$","$L7",null,{"href":"/design/vi-02","children":"下一作品 →"}]]}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:null
+15:[["$","title","0",{"children":"VI | 李元伟"}],["$","meta","1",{"name":"description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}],["$","meta","2",{"name":"keywords","content":"李元伟,AI Visual Designer,AIGC视频制作师,Creative Director Portfolio,品牌视觉,IP,TVC,Storyboard"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"李元伟 | AI Visual Designer | Creative Director Portfolio"}],["$","meta","5",{"property":"og:description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}],["$","meta","6",{"property":"og:locale","content":"zh_CN"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"李元伟 | AI Visual Designer | Creative Director Portfolio"}],["$","meta","10",{"name":"twitter:description","content":"AI视觉设计、品牌设计、视频创作、AIGC内容制作个人作品集。"}]]
